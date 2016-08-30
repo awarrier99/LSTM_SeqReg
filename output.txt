@@ -1,0 +1,2147 @@
+corpus length: 2020
+total chars: 30
+nb sequences: 660
+Vectorization...
+Build model...
+
+--------------------------------------------------
+Iteration 1
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 3.4010256/660 [==========>...................] - ETA: 1s - loss: 3.5351384/660 [================>.............] - ETA: 1s - loss: 3.6138512/660 [======================>.......] - ETA: 0s - loss: 3.5983640/660 [============================>.] - ETA: 0s - loss: 3.6484660/660 [==============================] - 2s - loss: 3.6330     
+
+----- diversity: 0.2
+----- Generating with seed: "suqreoeomtjvCBBdflfkdzmwABCjhczxmrau
+csb"
+suqreoeomtjvCBBdflfkdzmwABCjhczxmrau
+csbCCCCCCCCCCCCCCBCCCCCBBCCCCCCCCCCCCCCCCCCCBCBCCCCCCCBCCCCCCCCCCCCCCCCCCCBCCCCCBCCCCCCCBCCCCCCCCCBCCCBCCCCCCBCCCCCBCCCCCCCCCCCBCCCCCCCCCCCCCCCCCCCCCBBCCBCCCBCCCCCCCCCBCCCCCCCCCCCCCCCCCCCCCCCCCCCCBCCCCCCCCCCCCCCCBCCCCCCCCCCCCCCCCCCCCCBCCCCCCCCCCCCCCCCCCBCCCBBCCCCCCCCCCCCBCCCCCCCCCCCCCCCBCCCBCCCCCCCBCCCCCCCCCCCCCCCBCCCCCCCCCCBCCCCCCCCCCCCCCCCCCCCCCBCCBCCCCCBCCCCCCCCCCCCBCCCCCBCCCCCCCCCCCCCCCCCCCCCCCCC
+
+----- diversity: 0.5
+----- Generating with seed: "suqreoeomtjvCBBdflfkdzmwABCjhczxmrau
+csb"
+suqreoeomtjvCBBdflfkdzmwABCjhczxmrau
+csbBBCCCCoCCCBCCBCCCCCCCCBCBCCoBCCBCCCBBCCCCCcCBCCCfCCCBBBCCCCBCCBCCCCCCoCCBCBCCjCCBCCBCCCCBCBCBCCCCCCCCCBCCCCCCCoCCBCCBCCCBCCBCCCCCCCCBCCCCCBCBCBCCCCCCCCCCCCCBBCBCBBCBBCCCCCBBCCfCCCCoCBCCCCCCBBCCBCCCCBCCCBCCCBBCCCjCCBeCBCCCBCCBCCCBBCCBCCBCCCCBBCCCBBjCCCBBjCCCCCBCBCCBCCCBCCCCCCCBCBeCBCCBCBCBCCCBBCBCCBBCCCCCCCeCBCCCCCCBCCCCBCcChBCfCCCBCCCCCCCCCoBCBCCCBBCCBBBCCBBCCBCCCcCCBCCBCBCBCCCChCBBCBCCBBBCCCCCCCC
+
+----- diversity: 1.0
+----- Generating with seed: "suqreoeomtjvCBBdflfkdzmwABCjhczxmrau
+csb"
+suqreoeomtjvCBBdflfkdzmwABCjhczxmrau
+csbCCBleuCBdBCjCCChBCBCCBuetCCfnCndBCmCCBBC
+BBBBfCBnCBCBCBBwocCCoCCCBBoCBCCCBCheBnCnBcCnhCCe
+CCCCCcoBefBcCvBfjBwoCffooCCCCeBjgBjCBCCCACceoCChBCfoCCnBBCCfBBjCCBCaCChfcCeoBBCcBpCnBecjvaCCeChfBCCBcCCjBCBeoffecBjfCCCoBBfCCCcCqBBocBBCBCfgCfjBBChoCfCfeCBCjBCBCnCohotCChBCqscCfChoBBCCCCBCCCoCcCCCBiBCjCmCCCBoBcCleCCBBBtxCBeocqokBCCCyoBoCfochCqCBCBkBopCnBoBAyBcCBCClBnCCjfoBBBCfCCcfBnCCBCfBoBBBCCCoAcCCiCCChCCdC
+
+----- diversity: 1.2
+----- Generating with seed: "suqreoeomtjvCBBdflfkdzmwABCjhczxmrau
+csb"
+suqreoeomtjvCBBdflfkdzmwABCjhczxmrau
+csbCCcBCcBCafjhrfBaBCxChuojCgBqyCbCqBBBfBeCCBsCelftBlBodBBCnCehfBucBfBCBooffBCBBBfCoolnjCBCfeChCljcCBCneeC
+bBfcbmdBxCClCaCfCCBnoqCCeeCnBpCBjCecCjzsBCCCoBegCCACCfiBnCeBBiBceyjCBweBBCooooCfBfC
+CCBABCBgBjnCjmofBeooBcoeCCCknBcnBoCwBdCeCeCufhlCBBBBCaAnCCBeejBBBCBCepBBnCCChvfCczqppCfBviCACBCCoBCvjCBh
+kkBBtCCCbwoCCbBhCiBbhscBdroCCfBhCBCCppCBfxbCknCCkCuBhCiocejCCBBCCzeoCcCCkhwrCCjnnafBjnClnBBl
+gCnBhCCCdvcBCC
+
+--------------------------------------------------
+Iteration 2
+Epoch 1/1
+128/660 [====>.........................] - ETA: 2s - loss: 4.2198256/660 [==========>...................] - ETA: 1s - loss: 3.8030384/660 [================>.............] - ETA: 1s - loss: 3.6610512/660 [======================>.......] - ETA: 0s - loss: 3.6165640/660 [============================>.] - ETA: 0s - loss: 3.5593660/660 [==============================] - 2s - loss: 3.5528     
+
+----- diversity: 0.2
+----- Generating with seed: "teiwfACBaddqehhltjdkaABBfhdzwmcwcbwCBBge"
+teiwfACBaddqehhltjdkaABBfhdzwmcwcbwCBBgepCCepBoApmppBpppppppBpBpBpBBpCppBpBpppppipBBBpBBBpppppCppCppeBpppBBBpCpCppBpppBpBBBCpBppppBBpppCnpBCppppCpppApBpppppppppbCppppBBBCCppBppBACppppppppACpBpBpppppBpBpppppCpBBeBopCpppBpmpppnpCoppBpBBBBBpBBBppCppBpBpBApppBBoBBCBBBBBCBppppBpepoppoBpBBpBBBpBCpppBoBBppBpBpBBCBBpCpBpABppppBppCpppBppppppppppppppppppBppppCpppCpppBBBppBBppCppppppppppCBpCppppBCmApBpnCppBpppppBBCpBBpBCppppbppppBABppmpbpBppppACpB
+
+----- diversity: 0.5
+----- Generating with seed: "teiwfACBaddqehhltjdkaABBfhdzwmcwcbwCBBge"
+teiwfACBaddqehhltjdkaABBfhdzwmcwcbwCBBgelbCBpABpCppCpneppCBpBepgpppiBeeppoBBnAeqBBpABpopznpBzlpBpopBpnBprACCBCnbzpeBBpbnCcuypCpbAApBiplpeqCBABBtpppbbBCkBBppempCoBbBpoppppuCApdpodAABApBydCCAiCBBnfiBBCpBBtupbnCyyBpgCpbBBoeBmCpCppCApBpieioAoABphCCbpBppeCAAegBgcbpBqzcp
+BByBBppBpnpbbupAAopppCoBCcponpzpBnCnCppAzBfyBtAyprepCChCBpzBulpobmBnBpqpoobBpCpnBbhpeuykfmkfpCBBbBBpeCoCAmpppAnBgqpkgCzCupzCpBoeebpppAlbBBBpppAAppppgCbnnpCfBAphtpppuBpABmBgpq
+
+----- diversity: 1.0
+----- Generating with seed: "teiwfACBaddqehhltjdkaABBfhdzwmcwcbwCBBge"
+teiwfACBaddqehhltjdkaABBfhdzwmcwcbwCBBgemtxcBepwepaeqeACCkixBbnpBtnBqpCBpzspA
+dpptCmnmjpcupovpinstmigunphkAeBhBquBCzBCBBbBmAAAAaCnCAoqlmzbBBypCgCACiCiyACrpAukbCCkbCmnmcCgpnbABdfqCABepCgkiCbeBpppCzqlboenmzdbpBwyBCebeinBepyBsnAaCoBneCoCdosnuopCpybzcpupiypcoiuBCAyohnmpmdvgmmpumpApAnmovhBbfhdwjBznAiivnolooACbBej
+BppApfpycvkBjBgszowBqoppmepBblpCBzqbpCnaqAsBmB
+mgvoBdCucCCpmqocmlAypgkbssjiqbAvppbBBephpAyomuuBehnngAskueCliBoqAkBpAbeCBqgpeobpejl
+
+----- diversity: 1.2
+----- Generating with seed: "teiwfACBaddqehhltjdkaABBfhdzwmcwcbwCBBge"
+teiwfACBaddqehhltjdkaABBfhdzwmcwcbwCBBgeumgluunlzmzAntupunnbymbBC
+szmsfheCozBinmiCfyBCcCCnppyCdCpCqfoCAsonrtifkirlnexBgqlnkpAooCBybolriBmBsAplicqzeBntmmgifzyApAmAdAeoyAjlanjgjjhcAppzBmpvgstpbgtgaeaBusrprzbhjwzppBpxpebesCoBgCpjqbvbpzrCemvxApmblCtpABplCsupAup
+lemcfAmcjChauspnhazyibiAABqbtBibhbpenywittpBmheypgpAhptibBzqCphobhvoAqoBjvleyAtBqCBAeeBCptBzmpboCnyu
+iepmmxoAcCAgjleoCdbnnpoqppbbfymBfuCpBdphAjuumBweBsnwrungkopByqkbBzupscoeAokCppetB
+
+--------------------------------------------------
+Iteration 3
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 3.3090256/660 [==========>...................] - ETA: 1s - loss: 3.3377384/660 [================>.............] - ETA: 0s - loss: 3.3366512/660 [======================>.......] - ETA: 0s - loss: 3.3179640/660 [============================>.] - ETA: 0s - loss: 3.3263660/660 [==============================] - 2s - loss: 3.3292     
+
+----- diversity: 0.2
+----- Generating with seed: "sweCABqkpqefxefwxACBssoeergvbopbdaABBptd"
+sweCABqkpqefxefwxACBssoeergvbopbdaABBptdBBBBBBkBBBBBBBBkBBBBBBBBBBBBBBBBBBBBBBBBBBBkBBBBkBBBBBBBBkBBBBBBBBBBBBBBBBBBBBkBBBBBBBBkBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBkBBBBBBkBBBBBBBBBxBBkBBBBBBkkBBBBBBBBBBBBBBBBBBBkBBBBBBBBBBBBBBBBBBBkBBBBkBBBBBkBBBBBBCkBBBBBBkBBBBBBBBBBBBBBkBBBBBBBkBBBBBBBBBBkkkBBBkBBBBBBBBBkBBBBBBBBBBBBBBBknBBBBkBBBBkkBBBBBBBBBBBBBBBBBBkBBkBBBBBBBBBkkBkBBBkBkBBBBBBBBBBBBBBBBBBkBBBBBBBBBBkBBBBBBBBBkBBBBBBkBBkBB
+
+----- diversity: 0.5
+----- Generating with seed: "sweCABqkpqefxefwxACBssoeergvbopbdaABBptd"
+sweCABqkpqefxefwxACBssoeergvbopbdaABBptdBBBCBakkBfflBBBAkfBalaBkBBdyekkBBCbkCxgBnkoBBknkBBkgBgBkkqBBBvqzBBqCvekkBkcBkafepleogBBBakkBkBpBgqkBahBkvwCBBBlBByeakvBnBBBBBldafgkCexBBBBdBBkxkkBpBpokniklBskvBCBBBBBxdBBfkBxxABBkBxqBkBlkBpAoBBkktaBkwcBCyABBoBBBbBvaxkBBkkBBakonBBglgBlgknpBukpktBBBkBBBkBkaBtxBBkBnbgBBkBnBBBBandpkBxvyCBnBoghnBkkBBkggxkaBkBpBBBaBBdkiaBakfBkakBkBnkkkgakwkCBBxkankgjvoeBkCgnBkBBnvBCkBkkekBgBxkkktBBkBBvBBAkBBBBClBgBjkeBC
+
+----- diversity: 1.0
+----- Generating with seed: "sweCABqkpqefxefwxACBssoeergvbopbdaABBptd"
+sweCABqkpqefxefwxACBssoeergvbopbdaABBptdBqpqgxgCkxkBnoBCgpAc
+rBasBckCwxuAksueyapskaillakkenqxgaCfABfoxCkkBplazsBCAjsegvBBtkqgsafBkBBlBjBaAgvBnpeggBmxnsfbwzzlophBmAzlktpBaeiitylxkxcCkBaauiokwfktppnaCkBkltvBAiqjtkujqskfckngkgkjkaufkAagqqnzajtkmfxkfxefesvBoqhBdkgeCkwsxBBzelCBduChBqkAyogoBBpCsvdkrgAxCgwcdaBynhBxvBn
+palgyBxhavlapzxBftzkeknngvkeledBABxxnCxBuBBxtBxBCngsCxuBtvxaklzpfgzyvkoBvvkzBlkBoBffBfleagzpakapvBugBagrbvfkgs
+ogCnoavkyykBpBtk
+
+----- diversity: 1.2
+----- Generating with seed: "sweCABqkpqefxefwxACBssoeergvbopbdaABBptd"
+sweCABqkpqefxefwxACBssoeergvbopbdaABBptdACxAgdayqlexhhpkCBkBkqdlkBBcypunegxnnehgvjkdnytBxeCAgCBBdBclxnBeoixxbnhBixernrCeBkksytBqreAypohBzruClalBwnrBxfgvkBCelBBelCehdaBguohaaBxvgkkkaCftboCCBBBCpkbkngxlzjkjcfxmorkkCpzgAlCqtmyqzBsxBxkggxxBC
+ehBBeddkyzBmykohjxuBByyAfBqtoxbBewBqyxvliBkaqoAgqqiagchqClxoepBznjpBafABkedgodak
+uaBneBegnaBfdBeCgoBqpgjBBkkovbaByAArxxvBhpjeatpaculghBkgaovBBgfoaeqCmn
+mkpknBmAghygkgkgkhxahtklkxelxoBfjgBvklBkhkBgrfwxjA
+
+--------------------------------------------------
+Iteration 4
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 3.5005256/660 [==========>...................] - ETA: 1s - loss: 3.4409384/660 [================>.............] - ETA: 0s - loss: 3.4047512/660 [======================>.......] - ETA: 0s - loss: 3.3661640/660 [============================>.] - ETA: 0s - loss: 3.3587660/660 [==============================] - 2s - loss: 3.3567     
+
+----- diversity: 0.2
+----- Generating with seed: "ACBhtyftkdqkdmABBxwjzhcmlCBBhjsnmABCdlmk"
+ACBhtyftkdqkdmABBxwjzhcmlCBBhjsnmABCdlmkBCBBBCACdBBBCCBBBBBBBBBBBBBBoCBBBBBCBBBCBBCBBBdBBBBBByCBBBCBBCBBBCBCBBByBCBBCBBBBCsBBBdABCdBBCCBBBBBCBBBBBdoCdCBBBBBBoBBCBBBBCAobdBdBBCBCBBBCBBBBBdbBBCABCBBBBBBBBCCBCCBBBCBCBCBBBCBBBBCBdBBBddCpBCCsBBBBdjBBBBBBCddBBCBBBBCBdBBCBBCCBBBCBBCABBABBBCBBCCBBCBBBCBCCBCBBCddCBBBBBBBBCBBBdkCCBBBBCdBCBCdCBBBCsCBBBBBBCBBCCCBBCdjBCCBBBBBCBBCCBBBoBBBCCBBBBdCCBsBosCBCCBBCBCBCCBBBCBBBBCcBdsBCBdCdBBCBBBBCBCCBCBBBBB
+
+----- diversity: 0.5
+----- Generating with seed: "ACBhtyftkdqkdmABBxwjzhcmlCBBhjsnmABCdlmk"
+ACBhtyftkdqkdmABBxwjzhcmlCBBhjsnmABCdlmkbCoiBydsCfBdjcCkdBBedyBdCsBCgdbBCBjcdyjCjBbBsngyAdyBBndlzcCdrCppBBhBBCypBxksejsjBBBCbokhdhdjCBjbyspAjCochdClBBCdgpCdAdCoCdCCCBBChcoBBCjcBBlycspBABBdBCnBCByACddijodhCBwjlqqCBlkCpoCCbCdgABddsqdoCdjdodCByCidhlaqCsBdnBnpCAjAcddssCsBomCrCCrBdjjuCBoCCCsjyBhBcjCsqCksBskwBhCaykdBsCCiBdqddCocBsBCpscBdCABjscBdABfABdBBdjBCkCChiqdCBedAoBesBsACBBCBBchcdCdbcAciBCBjoBsrsydBBdjABBqACquBBBBCABdsshCCsjyqhjpABBbdjCB
+
+----- diversity: 1.0
+----- Generating with seed: "ACBhtyftkdqkdmABBxwjzhcmlCBBhjsnmABCdlmk"
+ACBhtyftkdqkdmABBxwjzhcmlCBBhjsnmABCdlmkissdsnyACccdcxCscquyrCskBCBiughvoBkpBcBpnfbCghnontqytyBBAbkcCpsgBjxecrABCCABofodjAqAqApdyCgsjyCbssljbBscBnymjkAlcwdopoynouBbapCqigxcbaC
+mBdpfliACbcxByoBqtkmykBbqwsCopCBonqByBngsCcssgjwugzCApaamnBmdsfsBampBpd
+Abeoph
+sCcskkCoBgcBuvylBoibbusoBssapqhAbBymksjsshqAAxBbihhajypBAA
+hqcClcBCBgCubfBbbaeCBkccdilnmsxcCjCBBpjBlobqBytCrBsAdAshAApCyAdAatbkaaqBAkcbqvwAAcAbazhpbBCiybBaBvBynAhbcoCyA
+fplwqAozdBaacqjy
+
+----- diversity: 1.2
+----- Generating with seed: "ACBhtyftkdqkdmABBxwjzhcmlCBBhjsnmABCdlmk"
+ACBhtyftkdqkdmABBxwjzhcmlCBBhjsnmABCdlmkwAqjvecyBtjfBjBdqBlcppnCnbBBredsBqamtjdph
+bfvabdCjyepuhBjdnhddCiycdBjcBBtCjbplqhBmeAbdkbcB
+pdnBqydwsuCjobmwmdjqymqBAdqiAaCeavtAjjoqepeCpmqoycCdjeoyjdACxdhqdBiBochysbfbtnfhsBhcjorypdnAoBjjhyrbgyelrasCkiABeCyBdqAdABivjkjcyAxiddldBAcAakhlsbCdxgwpqbunBCoBpeCndnhiCsCAghpbCpoaAdouadbaarsABodnpmbqCsdBksbwysCAptzckdjs
+jBAcsdbayujbABlyakoBgjhuxBjjbtCnCaccxmBdcsotBmxqcCywpduBCfsbdaydooCoyabqCBpbdjugCntdpcyo
+
+--------------------------------------------------
+Iteration 5
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 3.3150256/660 [==========>...................] - ETA: 1s - loss: 3.3415384/660 [================>.............] - ETA: 0s - loss: 3.3178512/660 [======================>.......] - ETA: 0s - loss: 3.3153640/660 [============================>.] - ETA: 0s - loss: 3.2953660/660 [==============================] - 2s - loss: 3.2992     
+
+----- diversity: 0.2
+----- Generating with seed: "nyyinCABellbgzsACBhzxfelloyfABBohcbwgmfi"
+nyyinCABellbgzsACBhzxfelloyfABBohcbwgmfiiyciiiCykBcBiBCyCvccAyCkyykicyCwyCCvvyyckiykCcyiiyiyCiiykCBCkCcCByiCwiCwiviikCivCyCiycyCiyihiyhccBCyyikykdyiccCyyhyciiyyCikwCiCiBhCiicCBcCcyyhcyCiiyihcyiCCiyvivyimkCBiyyhkikyiikCvhdBByitiCCyycyciiyicivcykyiCwciyyiCyCBCyiiiChvCiiCiciciiyykyiCcykiCyicyyBCifydiyCyCihkwdkCBhicCkCyicdiyiyiCBCdciyyykiiCyhyCcihkyiyCCCckkwCCiiiCCCcyickyyccCyiCCwCCiycCyhiikhiCiykCckyCkChyyyihCyABcwycCiiykyiiyciCcCCiykccyyy
+
+----- diversity: 0.5
+----- Generating with seed: "nyyinCABellbgzsACBhzxfelloyfABBohcbwgmfi"
+nyyinCABellbgzsACBhzxfelloyfABBohcbwgmfiyiccywyCpwyCsyhjvieipBkdqdphhkCAiAmCpvCiocbfihBckswikkwyCdbwhdztodiyxkdcyCihkiqChyiiycyjhicyABvcCBkqBykbkaCaByfrkiccciyChgAikcqcrBvhlicfCBhmcldzcyCwhcfachBCyvyymCykykamvwccyAhCyikCyhiCckCiCCyhyycCcBakCieyCbyfkmiAsihiyCiykiiCyyaiickCidqkiykkdBgycBComciAkCcxCCyyhCympByynBiycovcchmknfvwykifykkyCCidcylnifwkvkkAnykCdckCvcdACyrvdCmnkAhhyyihBdmckevyicxekichhiakcyyccmiCycpkksriBcdcyicyiCwkewCCiikkhciApdBi
+
+----- diversity: 1.0
+----- Generating with seed: "nyyinCABellbgzsACBhzxfelloyfABBohcbwgmfi"
+nyyinCABellbgzsACBhzxfelloyfABBohcbwgmfiydAyuzgf
+csywdmlswciwmk
+zywgCktbvdCfcCcpxthpbjmickcuCbckc
+edByhtdiwdmgCzowdxhlCkrwcBkgykdmdppbiltCvvsyxkCtutfAkcgCCkxitvkyalzdhcrqgrcCdwomooCygzCBvCvfCBvakwdyntmqegcicAhbemmkaAvpiuCsdqdCwmzwxwoywiic
+amBgAkBykyuAwcofiakimdddikhqkfk
+oBkmhywCwxmxrclewybtBCkvaCAcimdmocCihvckfqhydilkCwAjhlpyvviCzukcjckytdAjcCpzhhvdsdwmecBguimzwakBdCCvdyBykuBCynekihwBiCc
+wayiicdhyudbocBqiCuBhdBidhnCCcedwBjCqcccxbrcdyomB
+
+----- diversity: 1.2
+----- Generating with seed: "nyyinCABellbgzsACBhzxfelloyfABBohcbwgmfi"
+nyyinCABellbgzsACBhzxfelloyfABBohcbwgmfivCvxfnkwhBhhAAxicvgojrecweBkktBcchkkgBdhtewyvdyxqezliyqfibucgpqwjChABzictskf
+whwpCC
+urpivyafByccdixixfCrwzkclyblCvdxBCBwiwzxdxqysAAbBmyowlwABiszdcylcycceidynosimmcbwB
+uwdiBwkydvb
+tcikiloiBeBmyvhfdkyBhkdapcpiyAihCrlratkvmwlviijhCBCbctiiiikmwdskpygiyvqBsywhpnkdofmvtmAdhiCwarpkyopwyjmBCtAbrsbijssoddaakcncgbivjdkwAkyvAkecBwcmwcutBruidvkcqodoCACbCgowoykdBkkqqmtqwykwpdCrcBrBywhqcmsnlACallcwssuBydsbltdlu
+
+--------------------------------------------------
+Iteration 6
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 3.3442256/660 [==========>...................] - ETA: 1s - loss: 3.3551384/660 [================>.............] - ETA: 0s - loss: 3.3370512/660 [======================>.......] - ETA: 0s - loss: 3.3244640/660 [============================>.] - ETA: 0s - loss: 3.3213660/660 [==============================] - 2s - loss: 3.3083     
+
+----- diversity: 0.2
+----- Generating with seed: "issdcxclACBwucqcszABBthwmznmdbwCBBjvfdzg"
+issdcxclACBwucqcszABBthwmznmdbwCBBjvfdzgBCBBBBBBBBBBBBBCBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBCBBBBBBBBBBBBBBBBBBBBBBBCBBBBBBBBBBBBBBBBCBBBBBBBBBBBBBBBBBBBBBCBBBBBBBBBBBCBBBBCBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBCBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBCBCBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBCBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+
+----- diversity: 0.5
+----- Generating with seed: "issdcxclACBwucqcszABBthwmznmdbwCBBjvfdzg"
+issdcxclACBwucqcszABBthwmznmdbwCBBjvfdzgBBBBBtBCBBBBBjBBBBBCBBBBCBBBBBBBCBCBBBBBBBpBBCCBBpBBBBxCBBBBBhvBBBBBBCBBgpBBBCBBBBBBBBBBBCBBBBBBBBBBBBBBBBBBBCBBABBBCBCBBBBjCBBBBBBBBBaBACBBBCpBBBBdBBBBBBBBBCCBBuBBCCBbBBBBiCBBBBCBBBBfBBBBCBppBBBBCCBBBBBBBpBBBBiBBpBBBCBBBBBCpBBBBnBBBBBBCBBCCBBaBBCCBBBBBBpBBBBBBBBBBCBBBBBCBABjBBABBBBBBBrBBBrpBBBCByiBBBpkBBqBCBBBstBBBBCBBBBBBBBBBBBBBBBBBBBrpBBBBBBCBBBBBBCBpBBCBBBCpBCBBBBCBBBCCBBBBBpkBCBBBCCBBCBBBBBB
+
+----- diversity: 1.0
+----- Generating with seed: "issdcxclACBwucqcszABBthwmznmdbwCBBjvfdzg"
+issdcxclACBwucqcszABBthwmznmdbwCBBjvfdzgBiBBkBBwuBgCChvhBewCBBbBhBjgtrcjpCCsBimcjpoBCfCcjBBpfyyACtwjBlbpgACxlBpBpnlrkrBBBBnBjiqijthmjBpBusirAjyBhyseaBchBlBheCsCBBCBBkBBCBtBBsje
+CocBonhjCACkpCBzBjCprArpyfABojuBoByBBCieByCsyBplpcCBtrlBCyBBAuBBnalljqBoBBBychC
+BkABpBvCxcBcBBpnjpykozrrkApBurjBelhBwhBkCsslvpBdptpyCj
+BBimpgCiABlsCBCurBBrpwBoBBBBwbuucCBpbarrACBcjCmBtBjiBwCChCgBeBCBuBeACBBBCBBCBAaBAtyBBlBBCBlhlkupCCBBjrBBBfppBmBCupABrjBBBBzkByyi
+
+----- diversity: 1.2
+----- Generating with seed: "issdcxclACBwucqcszABBthwmznmdbwCBBjvfdzg"
+issdcxclACBwucqcszABBthwmznmdbwCBBjvfdzgBtrCsayktpmhaBjCABCuBpiowCBktubCBszy
+kpAbBmvBwpsplhaluBCBBlpcBqpiiAwBiBBsdBBpxbdiojBCk
+CBcnifBcCjiuCCABdAlBBCfBoBcABBpstCBAxxjBkssvpeBzdnpCpBxbysjmBmAhyil
+atCBuBBmcBCtCtBiyglmlolBCCBBbcgmlBrtzqCApuuBBzBCkjddBBCvjapdBtgguCjuBfBliCCkjuhxtACgmccaCgcBBmCxotABoqmBABCtpBBAzeilAuflptBmqCepiCrBBCgypiCBbkBBAlCmBpffrzwmojBdudypitysizzapsCiCBCCrkri
+noeBbifwimCBapciBBypiekrzCyypttiAAatvBcBgbebplCiacupirdrAmCv
+
+--------------------------------------------------
+Iteration 7
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 3.4673256/660 [==========>...................] - ETA: 1s - loss: 3.2955384/660 [================>.............] - ETA: 0s - loss: 3.3147512/660 [======================>.......] - ETA: 0s - loss: 3.3232640/660 [============================>.] - ETA: 0s - loss: 3.3072660/660 [==============================] - 2s - loss: 3.3024     
+
+----- diversity: 0.2
+----- Generating with seed: "xsfydABBflidvpfffhkCBBjlbwudoyhrtwkABCgm"
+xsfydABBflidvpfffhkCBBjlbwudoyhrtwkABCgmCBCBBCdCBBBBCBBBCtlCCBCCBBBBCCBBCBBCCBBBCCCtCBBCBCtBBCCBBCCCBBBctCBBBCBCBBBCBCBBCBBCCtBBBCtCtBCdCtCACCBBBCBBCBBCBBBBCtCaBBBBtCCBCBBCBCmCCCBiACCBBtCCBBCBCBBBCBBBBCBBCBBCABCBCBBCBBBCCBCBBBCBttABiCBBCBChCBCBCBCBCBBBCBBBCCtBBBCBCCABCtBBBCBttCCBBBBCCCCtCBCBBCCtCBCBCBBCBCBCBBCBCBBCtiABCtCBCCtBBBBBCBdCtCtBCBteCBBBCztCBBCBBBBBBCttiCBBCBBBCBBBBBBCBCBBBBBBBiteBCCBBCBBCABCBBBCCBBaCBCtABCBCBBBiCBBBBBBBCBBmBBC
+
+----- diversity: 0.5
+----- Generating with seed: "xsfydABBflidvpfffhkCBBjlbwudoyhrtwkABCgm"
+xsfydABBflidvpfffhkCBBjlbwudoyhrtwkABCgmaaBptBteBjdfkeClpmABCetktBafCrtptCttmbiBBCtfAefBBzCimBjCtCBdtcCBAn
+pBBeBCiCACCBBCBfCiBtlCtskBBBBCitclCABBCtlBrftwBBrfovABCABBfBebfnghABezfAkydaABBtfkxtrnefdmdtiidptkztipnBCntCBttifCoCCnBjvnACCBcgytBBiBCtABlCtgiotBtCAtnhltzCBBalBCdBsiBCrCitkfjlABBtnituACtidutBABCCCnBCftCBetpntpBaCABBiBAqvyButBCiBtftdBtAkCBiBCfBdCmCABt
+CCilABCCCldzCsBBitktekfBBBifmmdCmifACCBCpCtAByBCtBBmzffytdtlBCACBxBtwduehBtBgpbkq
+
+----- diversity: 1.0
+----- Generating with seed: "xsfydABBflidvpfffhkCBBjlbwudoyhrtwkABCgm"
+xsfydABBflidvpfffhkCBBjlbwudoyhrtwkABCgmgCgCsipaCnakjdvBjCkBhmtpdnzulx
+cjCBuwdpnvflixqzicmftlswsABdostcpAAtdAtzCdnzl
+skstpBBABptrrffnkshrsyBkCtdAdwtolktCjcxzsimiaedAojjcCBClCd
+nmtCzepChucBmjayBdmdCqjjpejvaimBhveiomwofAByCyltiftttqdptdiqaymnBBCbwcgBfdtzttBtyoAetutltodBttoAdrAeanerzzjhstlfaCnfeCfxCs
+CsonielfpBABnBnxAmapqinxaxwwClyfffusmAAjBinCBtwAABCAesolBBBCAnigtmBzcnleijdBCmmyCltczBAAACBgwiBftreisshfvknljiidtwedBByBCjBglBCxeBzlibyhrqBCt
+
+----- diversity: 1.2
+----- Generating with seed: "xsfydABBflidvpfffhkCBBjlbwudoyhrtwkABCgm"
+xsfydABBflidvpfffhkCBBjlbwudoyhrtwkABCgmzntcmlrtdiBanCCbBamcdBufsoCrtzgpAfzCtBBBesiopfhftnhyortAddmauftCedlByodmCsAibueiCpq
+oCjCiphwCxuCCtdoiolhAndCqtlxfncCueis
+BlebApmqecssvihtkBBsoAlntizdelhlptrCdscCACdtCdxpiolctehBoBAkABx
+qCaaczCpnnwdttBAnemxrAdjejmBkjtdjArejzqdBBwboCAmsmppyokuBiApxpBABAke
+ysanzABCtpllCoBkAABgttfiCvfedtBgljBpgrnCxlvddBhhpCBrrjlzhA
+mBtqpedjlsABBkdcdmgsmylnnutttsptnAprtBlpAhtmqhtimgBCfimctAttCvamxoylcdzfnnwqmdtoqihuBwk
+
+--------------------------------------------------
+Iteration 8
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 3.1826256/660 [==========>...................] - ETA: 1s - loss: 3.2132384/660 [================>.............] - ETA: 0s - loss: 3.2158512/660 [======================>.......] - ETA: 0s - loss: 3.2039640/660 [============================>.] - ETA: 0s - loss: 3.2152660/660 [==============================] - 2s - loss: 3.2164     
+
+----- diversity: 0.2
+----- Generating with seed: "qehhltjdkaABBfhdzwmcwcbwCBBgeoliegxABCkv"
+qehhltjdkaABBfhdzwmcwcbwCBBgeoliegxABCkvyekphkqjktikkxysBBBBBBtkhcskskskBBBBBBBBBBBBjtkktBBBjjBBBBBhktehBCBBBBBkaBBBBBBBBBBBBBBBCBBBBBBBcskkssptqekyykqBBBBBBBBBBBBBBBBBCkehkehBBBBetiahskkBBBBBBBBBBBBBBBBBBBBBekihttkqkcskkBBBBBBBBBBBBhekkpkkBBBBBhoksBBpsssvkkjhikkkkqhtaBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBnhjtkkbsBBBBiykessBBBBBBBBBBetksnkcBBBBBtikksehABoBBBBBBBBBBBBBBBBBBBBBBBprktkqqkBBBABBBBCtcnykkkkBBBBhiitprkkkkkqkspqchcBBBBBBCoishBB
+
+----- diversity: 0.5
+----- Generating with seed: "qehhltjdkaABBfhdzwmcwcbwCBBgeoliegxABCkv"
+qehhltjdkaABBfhdzwmcwcbwCBBgeoliegxABCkvjtBoBBABBBfkoheaotkqhpskapicjBBkrBBBBhniruskykpxhdfkxhaqBBwlpnhtjksjisykdtBeyhpvcskokihhskskBaxuijtipABBrqcrkjhktnBiynkoBkABneisnyhtsktBBzkdBncrptrsikBBBpzshctlqrsBCBBBcBcahroyCcdplqhhABBBdqtearxekABBBcqjykBByrccwhkyAsyogpiokjstnqqtBBBteqiiqkkBBvyjCwkdksBtBqtin
+mcyekBmerkashhpacypkcBrgsBBBkqdABzhtxhkyicnjnkysnsyqyautqypixpeBBrhyBhhkcAhBBBhkikhtsoABBhABpotstshCCkhrlsABktryiBirtinokkxmdtvtABxsqevpoc
+
+----- diversity: 1.0
+----- Generating with seed: "qehhltjdkaABBfhdzwmcwcbwCBBgeoliegxABCkv"
+qehhltjdkaABBfhdzwmcwcbwCBBgeoliegxABCkvhdyhkbefokbkvgeqCiyxpsgovAAjhiltaejezrnCBCocukvsijAgfmkbajfehcpByxiqzqkkkhqdneAoCaahqptkBaBBBinhClctibAlvoAAhsifqhkeoktszrmdzhBmAkjhejeyemxcActeCtrafxzthktrBfeBBhqtC
+hejatzaBqntbliejwaACrhsnkfecyBcqkxCppwhkiChcefhwloqpdhfndBBCgwlChsvpsfvbjoqBycyosieerthtAdyBcjiiebhnhmgjxeq
+pupkhaBBAkrxttkahoumkjjBAprjjgicAmiqzqttivsdjombtsidcBBvqsBntk
+krmAweeznlBkejfuvaz
+bo
+ByieqgqhsbqijqykcjgekjvrqcyyvhozjlssiBth
+
+----- diversity: 1.2
+----- Generating with seed: "qehhltjdkaABBfhdzwmcwcbwCBBgeoliegxABCkv"
+qehhltjdkaABBfhdzwmcwcbwCBBgeoliegxABCkvmtarmhyijnvksAychae
+rkqtcsABtmvtBwvBmAftmkBekhjsjmkjie
+amlwjlCzacayimBeasguAcooqhwynxyts
+miphqaCBocnBiCmeaxAsesekdepjcBinjkxxcpxn
+tsrwwzzpixcBCcncvxikvrkfBBBbnncy
+oxoxiAuasyCcsxsk
+hkrckpjktaupnkrehkeBodpicryageAsaryqhsppxhjpjwgkespeCmAiue
+wwcbyhwftshocuAtrCtedkAC
+fkphowrnrkjioxcqklokAjikAoBCekyCpBjnqttavinqokqzcdaaqnrdrABpdybyjgpoaBCqkjjfdAuojlkdahjrqnmBjtkAlBoneoxAqkbsrzqhoCabwvppeonszpACchxhanjd
+
+--------------------------------------------------
+Iteration 9
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 3.2113256/660 [==========>...................] - ETA: 1s - loss: 3.1002384/660 [================>.............] - ETA: 0s - loss: 3.1550512/660 [======================>.......] - ETA: 0s - loss: 3.1560640/660 [============================>.] - ETA: 0s - loss: 3.1680660/660 [==============================] - 2s - loss: 3.1635     
+
+----- diversity: 0.2
+----- Generating with seed: "CvkjvqsCABmzizqtACBmostctarydxpbABBzhpfj"
+CvkjvqsCABmzizqtACBmostctarydxpbABBzhpfjnnnnlnnalnnnnnnnaABBnnnnnnnannllneennABBCnnnnnnnnnnnnlaanannnwznnnnbnnblnewjnnBBinnblwnnnlnnanznanjnnannABBnnnnnnblwlnnlnnnnnnwABBBCnnnnnABBnnnnnnnnnnnarnlelannljnnjnnnlnlwnnannnnnanlnlnnjnnnnnnnnnlnnnnanjnlnnnnnannlnnawrnnnrnlnnnnwlzlnnnlnnnnnnrnnnnlnnnnaABBonlnnnnnnjlnnnnnnnnnlnnannannnatnenwalnwnaannlnnnnawjnnnnnnnennnnnlnnnnnjannABBnbnannlnnanntlnnnnnnnnnlnlnnaannlCBBBnnnnnnenlnnaflnBBBBBnnnnn
+
+----- diversity: 0.5
+----- Generating with seed: "CvkjvqsCABmzizqtACBmostctarydxpbABBzhpfj"
+CvkjvqsCABmzizqtACBmostctarydxpbABBzhpfjaanphBABCjrywnaowsalvnifABrnnnzeizawbnBjbntnnnpnnonrrasBBaeeAfebanpCnrlnnrjBaBABlrnwsublnABtnjprnlzarBagrlwAnzsdanlnwrnBnbnwjBwlreeonnBBeoyuncjBnCnnhnyellnqnznntnnaeeblinnqBvanhqllaarelayafwwjlCnBjbnnhrezgfejeknajwlafeizAnlarmwniazaanagnpoyljyalnasaaCylCBwntllbaABonnneztBBBBoAenneagnzllbnbCniBblcialhbiozBAjnzwnaBoennhojlnjibpwonjenloltnqefnAaBltninwanunhwjabjAnBwhllAzAjnznjwnsfwejBBenelznnnvlgantn
+
+----- diversity: 1.0
+----- Generating with seed: "CvkjvqsCABmzizqtACBmostctarydxpbABBzhpfj"
+CvkjvqsCABmzizqtACBmostctarydxpbABBzhpfjtzjqgAArvbasubotwCftqwozrACeitbnxmbowhftACmBjhlaAjn
+gBjgaliwuyBaaniavzartwyneztBcps
+eieblolwdnejtpBwddxidzgketdorfunzaonzcnreqjnlmwcABzBAbwumadnxegBnaoyewqjBCBCiewobbwlCrfkiilnnnqBbraaotBkllszcwCofypnlwtwpujkCapjwAjistAAblrienaphonAbyAojhnmukbAybtpxzumzaaCllcalfrbjAzpd
+frntezbbrnoekfnbqsCjultCttxbarfenlwwjbBps
+nznabwlbqApwgelghfxxrybeewwnAlqjmmbqABamhsurACisjApBBwnnfnawuspjgwkcnnjnbuttillpyaunBhAn
+
+----- diversity: 1.2
+----- Generating with seed: "CvkjvqsCABmzizqtACBmostctarydxpbABBzhpfj"
+CvkjvqsCABmzizqtACBmostctarydxpbABBzhpfjnnbtsroglCABrpAnujowwzvulBCrfndiiABhjAwwirClmAnnxefnenrnjByujorwBoClswatqlorevltuceCqwecbhaveAxwwieaAfCCwAzAznmveueknjrpbBplwngAhopnibrnnCiwleAAzjoBpbAaAlldlAlfnyytrlwynkdABbaobujgjzaprnxapjqwoqaxcwfxmnnsBgqaywCinfdrgzefzhtiebuzsagnjiqkqqtdccpjiplswhveabwjoqlnlBynhsqmlwfnjutfArltrfh
+nAbizennqtis
+nhsArilCllCtCCaAAlCrcssvbntaAnAhrquubnyizfbwloadnhfosioayBfrqbzwnewmAaxBcgpnnwxipaanjbwAzCnowaoltzugoen
+
+--------------------------------------------------
+Iteration 10
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 3.3295256/660 [==========>...................] - ETA: 1s - loss: 3.2928384/660 [================>.............] - ETA: 0s - loss: 3.2283512/660 [======================>.......] - ETA: 0s - loss: 3.1820640/660 [============================>.] - ETA: 0s - loss: 3.1494660/660 [==============================] - 2s - loss: 3.1366     
+
+----- diversity: 0.2
+----- Generating with seed: "ot
+hnlogpABCmzjxdvBACvkjvqsCABmzizqtACBm"
+ot
+hnlogpABCmzjxdvBACvkjvqsCABmzizqtACBmetABBBCeepmABBCeeemABBBeefABBBBeefABBBBeeeyABBBBeefmABBBeheyABBBeeetwABBBCeejABBBCeetABBBBefjABBBBeeeABBBCeemABBBCefABBBBoeeABBBBeeepABBBBentABBBBeeeABBBBeeAABBBeeetABBBeewmABBBCefxABBBBeempABBBBeefjABBBBeetxABBBeeppABBBCeoAABBCeeepABBBaeetABBBCejpABBBCeemABBBeeeyABBBeefsfABBBeeemABBBBeefpABBBBeeeABBBCrffABBBeeeamBBBBBefppABBBCeftABBBBeeppABBBBetyABBBBeepABBBCefxxABBBCehmpABBBCtetABBBCeffABBBCeeyA
+
+----- diversity: 0.5
+----- Generating with seed: "ot
+hnlogpABCmzjxdvBACvkjvqsCABmzizqtACBm"
+ot
+hnlogpABCmzjxdvBACvkjvqsCABmzizqtACBmeejABBCtjxpABBBejtwkBBBBBekmABBBBehputABBCejymBBBBaeutABCBBetfjABBBeetyjABBBpomABBBB
+ftjmBBBrbmpABBCftmymBBBCjotABBiatmmABBBetfbABBBCetwABBBBhemABBBBeelyBBBBeohmABBBjojABBBhetktyABBBeeetjBBBBijfcsBBBBjdhqABBBCBfmlABBebtepdABBCCABBCtBBCyBBBojeABBBbjhsmABBBeftAABBewxyABBBetihiABBBCAatyABBBqeeABBBBtzpyABBBeetAABBCexjluBBBBepzsABBBBeofyABBBbthmABBBCbhjmfBBBCvmeuABBCBBtpfywBBBCuhxmwBBBwohxtBBBBBoetABBB
+
+----- diversity: 1.0
+----- Generating with seed: "ot
+hnlogpABCmzjxdvBACvkjvqsCABmzizqtACBm"
+ot
+hnlogpABCmzjxdvBACvkjvqsCABmzizqtACBmwocdylejjhkxaqasuAwdiublBAypmkdesjbBaoufjBBBeBndABBBtpoitsCyppfozABBcjfflxjirdhimkgmBwwmyfbwfjlktasABBjknugkCcowqsBBpqtsiakBBwtbhhABBBreyknpaBBCeedmyyBBACjeAaABenibhAeCe
+hpCBBsfweasdBBCutmyjABBBCtexdjzBqfjbuyaxBhauAplicbysdtBmBomABBCetuwpABBczrkABBCkrtgyABBCspABjApCAyABeenzAABBelzimuBchefazwjwhs
+ljueBBtiphAlBBByvABhudpkpngvBBAhiAasykABBduwtBBsotcbABBABtamymqeBCBowxeAdAwhjyxBhkCxsjhBCCBprxplABoBrou
+
+----- diversity: 1.2
+----- Generating with seed: "ot
+hnlogpABCmzjxdvBACvkjvqsCABmzizqtACBm"
+ot
+hnlogpABCmzjxdvBACvkjvqsCABmzizqtACBmehmuCBBdBheqCyqBBrembmvoamBnjzmBABBktwdxABuhfzACBBtCdpftyzBCatACBBnkjctjBBuheoAfixyjwnBBCvAaszqwnyvwhafcAvjbwkmBBpBCoyABCmxwlyBBCBtuBcfhABfwfamACBBjolwkhABBwcAhwgllnoCuBCoocdzAgharzrtABadaeppbABCAuhpbkpnBmhejpwhkBChBboAiwuxtgupwags
+pstuqABCredlpphhyBBhChytmBkvojyBCCitsnekBlffcpadmmdfAwCBcBloCzAefomaaABdhuqozgfplArqeezfAxokyhvCBBBybuvtfBBChrsxswtdAkhpuBoBrkexAlBloBcjB
+B
+ehamCBBBBbAghawBAhkhaAu
+rxlA
+
+--------------------------------------------------
+Iteration 11
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 3.1508256/660 [==========>...................] - ETA: 1s - loss: 3.1076384/660 [================>.............] - ETA: 0s - loss: 3.1310512/660 [======================>.......] - ETA: 0s - loss: 3.1215640/660 [============================>.] - ETA: 0s - loss: 3.0635660/660 [==============================] - 2s - loss: 3.0643     
+
+----- diversity: 0.2
+----- Generating with seed: "flzBACkgtndhtskhoigrkCABzavujbzuACBqxxoz"
+flzBACkgtndhtskhoigrkCABzavujbzuACBqxxozmszABCodizzyzzCCBCCdzzyzzsCCBCCodhzyACCCCgjzhzzzzCBCCCiztzzACCCCoehzzmCACCCiltzyzzmhCBCCzthymtzyACCCrzhlztzACCCdzzzmllCCBCBClzhztzzzyCBCCColilmzzyCBCCChzhzuACCBCdztzszhzCzCBCCCztzydyCBCCCdtittzzCACCCzthhttzCCBCCoztzzzmzABCCzdttizuyCCBCCzhtxyiyzCBBCCtithzzzzCBCCCrhdzzyyCBCCCotzxhhlCBBCoiyztmzzzABCCztotzymzCBCCzthxhzulCCBCCtitztyzhACCClozthtzlCCCCCriedyzhmCBCCzzzhyzmzCBCCCzzhzyzhtCCCBCilzhfzmzlCCBCC
+
+----- diversity: 0.5
+----- Generating with seed: "flzBACkgtndhtskhoigrkCABzavujbzuACBqxxoz"
+flzBACkgtndhtskhoigrkCABzavujbzuACBqxxozrlBzdht
+CstCBBCe
+lhtxzvyzBBCczizzzABBCkhrzcjyuCBCCrildzmyACBCblzhzizyzokCACC
+ellfzssohzjzloACCoddz
+csimACC
+bzseulCBCCipdtABChrghtllkhny
+klbsClClyhkzmiymnCdlCzuoAyircABCultdehvillCzaCACoCjzrvy
+i
+wzACBCozet
+zjzoyCdCphCdCxmCACCCmjtdoqxysntCCCCzBhzygczkyABClfztqxvbykCBCCyotiuxh
+tzwdldkuzahumhzzu
+zorBCdhlztgmhyukplzlh
+mhbhstrs
+CkCuutzymCBCh
+tjlmmkzlqCnottm
+yrijzCABCgiipzzwyomCdBCodkyzACBCkinmoABCCzuggh
+
+----- diversity: 1.0
+----- Generating with seed: "flzBACkgtndhtskhoigrkCABzavujbzuACBqxxoz"
+flzBACkgtndhtskhoigrkCABzavujbzuACBqxxozAegmexywzebACogzhzi
+zsdxcyBoigwBkh
+julCfe
+nouBCduaAozrlovxzutldhelzxmyuACtepeCcytpulAhetiemkiqhq
+htgg
+yagABCCdtkkjyzkwABjpthCmdyadmgaBBebtACdzomrmhCiyCishCBBCfyulAzoCpkCymstyaBiaznfAlwrftzzkavCpBCCihvAACtCnrjBClzopxBigqfkuCBCwqti
+tBbBAvdzny
+vCCBCtpooxzxBybphih
+zctmzujryuzCBBCuisyCsysyqckACbydnxuxCyvbceienzmrCsAzCbmtptzzarCACCgoocgAgozllACCrhqmdh
+vlfjkrozyAduzpzbdmzcmmretCpgsoszCABoscsu
+wqgzhzClgob
+
+----- diversity: 1.2
+----- Generating with seed: "flzBACkgtndhtskhoigrkCABzavujbzuACBqxxoz"
+flzBACkgtndhtskhoigrkCABzavujbzuACBqxxozzzphhtgxrACCpegbzBstrzhzvtCfmbBruaiCcbehddpCxyjuizj
+ezothkmadyjsdrouieyorBCbdCxbyCssCtmhlrzydhuCqCsbrhBorkwmlxwiuClCzkihhBfzrsCdjdmBurdadcjhshipoyACdacmyijdgvnxlzbbxtkhknCuCrlv
+lzBbjkcABwootBukyovhmggrgxkinufCjCrBhlnmcyCABC
+zznjuizCBlCek
+AhdvhABCluozcxm
+elmCkjojoxzgwfCgAzjetuohhainpAkyzkdztpvmxthloufoCAB
+AsunmvehafglsmCCulejarrgh
+ypAuistzCukuzhzjdayjzmkCABevsapbzthqdiBBCgbAk
+isumzuaujcjogudarnyhgi
+
+--------------------------------------------------
+Iteration 12
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 3.0415256/660 [==========>...................] - ETA: 1s - loss: 3.0179384/660 [================>.............] - ETA: 0s - loss: 2.9861512/660 [======================>.......] - ETA: 0s - loss: 2.9662640/660 [============================>.] - ETA: 0s - loss: 2.9794660/660 [==============================] - 2s - loss: 2.9791     
+
+----- diversity: 0.2
+----- Generating with seed: "cwo
+jnvyfqcABCkpaxztckBACooiknmmrrCABkue"
+cwo
+jnvyfqcABCkpaxztckBACooiknmmrrCABkuesABBCttipABBCsttABBCctiABCBteiABBCtimABBCtiiABBCuzyABBCtttABBitiuiABBCitiABBCottABBCttzuABCtioABBCiyzABBCsipvABBCtipmABBCoiyABBCttimABBCtyuABBCtzkABBCiitABBCtiABCABBiiyABBCtziABBCtitABBCpypABBCtisiABBCtiiABBCtiuABBCiiylABBCttyABBCtezmABBCtipABBCttiABBttezABBCtizABBCeizABBCztziABButiemABBCziiABBCztiiABBCiumABBCtzyABBCiziABBCztiABBCilyABBCtiyABBCtiipABBCtiinABBCttiABBCtoiABBCtzizABBCtitABBCtzABBBtip
+
+----- diversity: 0.5
+----- Generating with seed: "cwo
+jnvyfqcABCkpaxztckBACooiknmmrrCABkue"
+cwo
+jnvyfqcABCkpaxztckBACooiknmmrrCABkuelfkABBBnwzABCBgtiguABBryimtABBBttnjiBBCtussABCztACp
+bAABBthiABBBztpchABBBtrytABCetmABCzuioABBrepgnzABCtampsABBlpfnpABBCytiABBirstABCimvfirABCoctABCezitABBCztzpABBxmykABB
+tApABCknipACBBzniz
+ABCgojisABBzcvtvABCistimABBCzsiipmABCvjzABB
+qyABBCcygABCziieABBBBpzpiACBiiyinyiABBiehjvABBetppABBCgiyuABBCettnABCttllmjABBbzyzABCdsttkCABBhzmjjABBddpmdvABCtyzsABCBtimyACBButptgiABBBtitAABciyuzkABCezyzxABBekhykAB
+
+----- diversity: 1.0
+----- Generating with seed: "cwo
+jnvyfqcABCkpaxztckBACooiknmmrrCABkue"
+cwo
+jnvyfqcABCkpaxztckBACooiknmmrrCABkueeABCqhholudCACrtombpBBqkmnAcBzolAuisucyABCbcamp
+hjwquxvdABCcpqcmhv
+uzisnABmvnrirB
+BetczwujvjzupABxCftnsrBBixsrcBBBBiuizkfABgynmnCABAdkppoABBcnwspCACguztmnBBejvuCpCyefikrfmBBaimgbsABAuqzuu
+crAdtosABolhdACBiitsyxvAABeeytABAvojvjC
+ABihonrntc
+AABbiAshwwcy
+BAw
+uiqtAcbqmdABCkgiuhABhxcpkuCBvufiipBABcismipcABBrmykqxABshplmtAgBnyxcusigxymbcoyy
+BCBreinACCAxvpAC
+siiumnuAqsmgvzpABCAicisriiywrABBzyiwddszABCwvf
+
+----- diversity: 1.2
+----- Generating with seed: "cwo
+jnvyfqcABCkpaxztckBACooiknmmrrCABkue"
+cwo
+jnvyfqcABCkpaxztckBACooiknmmrrCABkuetuAC
+tesm
+dovkABbptxvlquvrAaAa
+idABdtvwsynBBBpkyAiCnzcAAAroscajABCl
+hhxpABBroevpiiAriABBrhqtbszpmtACCtwsABdmplvhoammmreicAuBiftovyeABjdpjnxhxABBmiiouooaBrgcsdkcxkACBknsysmABBolatzfmmplBACtrubwnoAroggolzyaysaqygoyvvkCdghnccyAmAnzwvAB
+lzypmAhdc
+hrfBjhnmmsBBBrtqmivwABCbowijcACAsoeiekzmCBBCcutmiBBBCpzvvyauujpsuhuAaizumltbCBBApoiluevAAvnufeusABCnzAqctveBBvzer
+exACCrbyBfAnAuylveBCyarzyByABlqzzigAACxziua
+
+--------------------------------------------------
+Iteration 13
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 2.8434256/660 [==========>...................] - ETA: 1s - loss: 2.9117384/660 [================>.............] - ETA: 0s - loss: 2.8828512/660 [======================>.......] - ETA: 0s - loss: 2.9280640/660 [============================>.] - ETA: 0s - loss: 2.9340660/660 [==============================] - 2s - loss: 2.9338     
+
+----- diversity: 0.2
+----- Generating with seed: "BBcwbpdpyhuo
+iclhyutiABClfdpwsBACfjtnyyi"
+BBcwbpdpyhuo
+iclhyutiABClfdpwsBACfjtnyyiotptclooyqjocqxqABCotoocqalBBCottqocsooqpoooooocotcmoABColltaocoABBootamABColylachABBootyipmBBBootyABColtchqABBolthmABBoltcmoABBootammBBCotomoABBoolqmcABColohqtpcqcmrocmocycmABCottmABCootclcABBootazqcolctoocqmABCotorcptcyABCotezqABCootoqcmooclhcttcyABCoooyqcAtCotqptABCotooqqclABBootpoccmloctampptABBotlwtABBotjzolodococtocjzABCotytctABBotnteqhrolocyzABCotqmtABCotomynoABBootocmABCottcmABBootyrczcyoo
+
+----- diversity: 0.5
+----- Generating with seed: "BBcwbpdpyhuo
+iclhyutiABClfdpwsBACfjtnyyi"
+BBcwbpdpyhuo
+iclhyutiABClfdpwsBACfjtnyyizABBoroyqmjCBBooyoqkBCCtlyaslBBoinmqhBBBozapozaBBCojyofxhoqyrzBBCulbtsqlqkczifzctABCeljzBBBeetytzkqhhnzffjBBCyAqclzcABCpoqqcaqABComilljABBodayaoczwoABCotjsloctxhoaolozqrwpABContitoBBoeqqayABCtmqymmBBpitoyABCoAABcqtczqjvpnABBoyotABBolotcABCsllcmqtcpsqypartBrrrqqmBBCooyjzCAColtprohdaxyuaABooljtyaABBoebtcmaplsgsocymmACotoooqposmolcwutfocrBBCotmcmCBABoatmyoqemqrtrpbjzqABBhltaoABCdljmpcqABBemljzBrBryaz
+
+----- diversity: 1.0
+----- Generating with seed: "BBcwbpdpyhuo
+iclhyutiABClfdpwsBACfjtnyyi"
+BBcwbpdpyhuo
+iclhyutiABClfdpwsBACfjtnyyiphlededlmrBgrbtygApolhBztetmkuoroxtcl
+zsAyunkcmAjnillnamCBqeya
+lvloemxbyacswh
+CvhzsBshtasCBuodptqhACBoqzilpepsABBorfszavppzoutpadoop
+mlcnCpphlhzsAogueshltogyABBbrqphxvlvykACBcreirwcmwkedxyfwcizyyjlBmtozmABCct
+sxCqtvwzz
+hnzjtlczoluoiqABConwmyzjplvoCABBetfCtpopyoydoAputsjrbcACvpjttcrqzczleABBqpphcxmcooAAByAcokbwibmkrmsoolqfctvCtCqBanprbngatlcloayzcuBccvpidzABqrpbxexnBmzvlirABCymbpAazncjcgABkrojdgnly
+
+----- diversity: 1.2
+----- Generating with seed: "BBcwbpdpyhuo
+iclhyutiABClfdpwsBACfjtnyyi"
+BBcwbpdpyhuo
+iclhyutiABClfdpwsBACfjtnyyinovpporoczcBCtoqajwfhfthxyceeeqogsajopmcmjzarqrytykoACBcrvfCamorzfbdoo
+pinABCAknyy
+sgcmjooxpqqyltujovhfxjtfABbulcynqzlnedzBzvbcq
+yycqtwuwosfnlqbhgdorwdynjzyqphknskqyuptynABbjarozCBCeoshaucoztcCcrlmduqeohzajrkcswABCpjqqnzovflygol
+opqsozdywwhdikoAtotzerosnxbpqqrhlelqhfpylphbdkxxtsBttcaqyluclymnzsABCpptrAAdAgimrcaohcwryypsCjktdApzyAatxswqlvvmlyorvvosptssxqarpepABBkbdAceshvmpkdntptxlaodm
+rojmszhvxjlrt
+
+--------------------------------------------------
+Iteration 14
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 2.8580256/660 [==========>...................] - ETA: 1s - loss: 3.1317384/660 [================>.............] - ETA: 0s - loss: 3.0853512/660 [======================>.......] - ETA: 0s - loss: 3.0308640/660 [============================>.] - ETA: 0s - loss: 3.0105660/660 [==============================] - 2s - loss: 3.0110     
+
+----- diversity: 0.2
+----- Generating with seed: "pABCmzjxdvBACvkjvqsCABmzizqtACBmostctary"
+pABCmzjxdvBACvkjvqsCABmzizqtACBmostctaryoABCtdninABBtininABBCoonnABBCtjzdonABBotnjoABBConzjzABBdnniiABBCtjdzbpBBCvjjnnABBitincwbABBBtinintnABBdtinnoABBotinnABBCdtnnnABBCninnABConinnABBCtzinjABBCtinnABBCodnnABBCtujzjzjBBpieninABCojoobABBCtijnzABpotnnnABBCtnipninABBoinnninABBCtinnABCtiinnljznBBCtinnzjBBBoiinnnABBBddjnowBBBCtinznABBCtninnABBCtibwdABBbzininABBCodinABBCtnnnisonABBCtininABBtinnnnABBCtinnjzABBotinbnABBCtnnncnABBConinABBCijznnw
+
+----- diversity: 0.5
+----- Generating with seed: "pABCmzjxdvBACvkjvqsCABmzizqtACBmostctary"
+pABCmzjxdvBACvkjvqsCABmzizqtACBmostctaryjxhnABBnndjongABBnujbddqBBBbtuoijzwABBCzjdkoknlodgigrnABBtntieocwuABCdpjABCctjooizuzydBBCdABCBnjztsorvjBBCptnooABBbinddxcbeocdBBBoiineokzCjBBCbdkhmABBntjoddowABCbjjowxABBozjjiozABBConnn
+ABBbdohABBtndoanzABCoinnBndbozzsBBBClzbqABCbdwzhnwvvABCrjdolBABntinbudBBBrjdanABBBipjjwbzjBBBtljzvjjABCrioinibBBBooipnjnCABCjlftnABClyucbcmdkBBBBnieynAABCjnlzzABBCiodddvsoggABBCnhcujnnABBoiinjibjBBBojbjnrBBBbqtsink
+
+----- diversity: 1.0
+----- Generating with seed: "pABCmzjxdvBACvkjvqsCABmzizqtACBmostctary"
+pABCmzjxdvBACvkjvqsCABmzizqtACBmostctaryrhBq
+rjbABCrtcuisobfBvdgjBBondddpsuwvqscuBBndsipctABCndmbocuogrlwBCBBivCvjpsoaBBBtdBCABgsjvjAnBkitslABBnsdivnABdstdiCBBaijldvxovloaBBaeixtjdvazigjez
+bABstnibdklbwamdkbjzenBrCBCcoojoABCdlfduABBfhozotCmdCjltyvrBBCzdABmojfoknqBBBghnkjdoyouCCBCrwintCBBibmnABdvftldtwfdohvobmoBBjdyodozfwABBCd
+tpbpjnCBBBonppiABBCziicnunovutijeBCBCswfBkgnzpBbrABBCljtnhombABCziedgjuixigiiakBBCbpbetcjzBBCnlnbhvBBCeikxBdzonb
+
+----- diversity: 1.2
+----- Generating with seed: "pABCmzjxdvBACvkjvqsCABmzizqtACBmostctary"
+pABCmzjxdvBACvkjvqsCABmzizqtACBmostctaryhupBCABgdjlliwmwahpggykBCuixjbAoqbxzABBhtewnACrnygmiBonwyzbABBzetskvpABBnoABspvjoodACtjpjazawBwmnCABBjleBbrBBjCndaibzApCBiaiodgyhobwlyjoohzpdBbnylhhkiejnABBonnvhdhpzsBABrdnjfwojpbwpzjbzugysjuwiarpvrABBtABnACzABCCgobidaboABkidstABCghzbuosqBboiCnBABAdjpCkBBsxjhzjwacCABABfzkiqedgrABBCdcjnpngABCejdCktxvzdzxiBhijodAetvdhABBbunexjtxdiABBkCdtzCBwribdowodAACrtoABCnyaldyCAdbdjxmyalgAyCljinbblBBBhsrnbhycwnB
+
+--------------------------------------------------
+Iteration 15
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 2.8618256/660 [==========>...................] - ETA: 1s - loss: 2.8988384/660 [================>.............] - ETA: 0s - loss: 2.8709512/660 [======================>.......] - ETA: 0s - loss: 2.8471640/660 [============================>.] - ETA: 0s - loss: 2.9394660/660 [==============================] - 2s - loss: 2.9550     
+
+----- diversity: 0.2
+----- Generating with seed: "BBthwmznmdbwCBBjvfdzgljkwhABCckxanqscc
+y"
+BBthwmznmdbwCBBjvfdzgljkwhABCckxanqscc
+yuvABCehccssssfvABCbtchivscssfABCiesffcvbABClcsfevjzsbsABCebdsslciABCsflfbscavABCticsavvABCtidvhcsscssvaABCthctcshfssskscsABCsfvfvABCdlisncsvbABClecthlevsvABCllcsssvABCuddfvlABCltacscsABCtehlcavABCehlcsfvABCueelvfsfycABClfldcavABCteeacabkcvbABCtifcssisssssvABCticsvcsaABClhcsassadsfABCtifcsssssABCdcvssvdvABClcapvflvABCdlichvfcvABCehacsvfolcsfABCsedvfvcABCtchqscdvABCbdavdvABCtcaavfvABClnchcssvABCedtc
+
+----- diversity: 0.5
+----- Generating with seed: "BBthwmznmdbwCBBjvfdzgljkwhABCckxanqscc
+y"
+BBthwmznmdbwCBBjvfdzgljkwhABCckxanqscc
+ypstlkfdvjABCflqeansuvlBACvvcoiskienhcBzdhvACBvhliqbhjnpckbsdvlvcaABBpdnldloqvABCizhsftyfsjivbbdlnABBCtxyhhABCiflylbvbzwhkwsABCtbsfABBndfABCvlhvbvlxcvlvps
+sjABBcllvACBcdsepvABCunh
+kayllvtjBCBBicifminuABCibdfdamdnCvBvbuwiasCABBhduqldkvvCABCdipzwvpvjvodsbaCCBhceubwyvpydABCtlnacnlocchABCkfsfgultjhBBbnaafgsncvwnmmsABBlhivfllqaxteydvACBbelc
+yophyahgydlckBBCdsjsbasddlvbcABBishdfcscistxsABCsepAcbpvflpABCu
+
+----- diversity: 1.0
+----- Generating with seed: "BBthwmznmdbwCBBjvfdzgljkwhABCckxanqscc
+y"
+BBthwmznmdbwCBBjvfdzgljkwhABCckxanqscc
+yzccfmayetCABiltklysyABBhlfBudsdahfyfwbkkavpuqwkBAClhfABsguvkaexczwiaiABBpjdvtociyrlbuinefhvoqjgsBAsdfnrhxqtcayBydpcypdpACBazvnvryuauen
+jvfhzABCzignevikAkicakBv
+kweydABtqsnvpcsrbgsmcsCcsflfwktlCbBBCikavncsocABCbechplvABBddmjCCBxffaiwpABBhuohvnibcsecuppseCesgprvssqclmdxsjosrCgvnrgsqhkrABnzlclxwdxtfgaBvloghdv
+yAjCmaaciacbqlazvdcjnvCjbClolcavotubmvpABtv
+AtxlivujjnCBBxniuhetgoACvcyw
+mBqcshooachisBACBvv
+
+----- diversity: 1.2
+----- Generating with seed: "BBthwmznmdbwCBBjvfdzgljkwhABCckxanqscc
+y"
+BBthwmznmdbwCBBjvfdzgljkwhABCckxanqscc
+ytdmmc
+fpzidpf
+eAAuCudouowyavACCdptyqojtbc
+pdlpdABCfoivdsspxajmvsBvwmACCyxazfbybgACCnssvzsleuaCABcpllycvxtbpqhvyvi
+sbvxAbthsiswgnBBpblctffempBvpBoCctwxozghacdwapuzchCBBdfxascmABbrmdycqlnyueaesjcsbjACCdsfisnaAhrksvebzABBrpchcdAcvasafwboczflvmmemvpdzcjn
+AckjfmaABCrfyhnhqxxuqjcgplCBjifymvvqfvcsisrzkAfqlACsisABCynxnssbikkpybfvhvsgvClahyvefilBflpysfiABBvvA
+tlckhsAvvACBfhBjpxhvbxccomBsCzuuvvjyxwc
+sfsBsuC
+
+--------------------------------------------------
+Iteration 16
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 2.9819256/660 [==========>...................] - ETA: 1s - loss: 2.8475384/660 [================>.............] - ETA: 0s - loss: 2.8704512/660 [======================>.......] - ETA: 0s - loss: 2.8394640/660 [============================>.] - ETA: 0s - loss: 2.8171660/660 [==============================] - 2s - loss: 2.8221     
+
+----- diversity: 0.2
+----- Generating with seed: "CxfpxdramakppnqcBACvuloiidtwCABoqenfpaqw"
+CxfpxdramakppnqcBACvuloiidtwCABoqenfpaqwumCBCiticahCBCtitisinhaCBCiitiniittkACCtitamCBCitiiinyamCBCiintinquACCtiintamCCBitiisiptctcthCBCutincssCBChtiiimatCBCniiinmbsCBCohiisinhCBBhininisitpiACBininithuiskaCBCititiuiinhACCitinhcamCBCuthiitsatiitikaCBCintiamavpvispbsCBBiiniiinhtifspqmCBCtiimakACCotitiaauiuisstikaaACCtiitiskitiamCBCuitnhtcaACCtinhctpsCBCitieissipcaCBCitithctissictaACCiehtirirhcakCBCiitisiubnisssamCBCitinifiikamCBCtniinitpt
+
+----- diversity: 0.5
+----- Generating with seed: "CxfpxdramakppnqcBACvuloiidtwCABoqenfpaqw"
+CxfpxdramakppnqcBACvuloiidtwCABoqenfpaqwcssCBCCuitathCcgntwbwxsfvbjbCBCziitfhqafso
+uokhCCBiekiaACBitmajnysotiaymkifhybgpvCBCoithiieCABhufbkjnhctcuCABagsmmmlCsCetjmdCBCiueu
+isirqespssjvABCinmtctihCABCtitmptcshvfppmCBCotiqiiguhezACwuhcatifpcpettcqclmCBCnniptqwsibtcqCBCknvtaqpspBCCehlixsbmcrkiiwuACCoktpnisaimagcACCbnitpmtnyfbkjCBCpheplvbbzwjmCBCbtmcajCBCoyitinkpmxsCABCbtihivphbcbqvthidsekghxsnfbboCbknikbkCCiohxoniCBCuounahgitbpnlcjhCBBhtit
+
+----- diversity: 1.0
+----- Generating with seed: "CxfpxdramakppnqcBACvuloiidtwCABoqenfpaqw"
+CxfpxdramakppnqcBACvuloiidtwCABoqenfpaqwvpiiiwiiavbsCCBrdhtqnyubgmawuhunykpACCiumhtACpbtmmjoygaCBBstuaqduhxCACCsikkmkhwossiahBCCdjtnBahghxbkCABiudhoiotbykaCACciulrhzpyfjotphsvcuivrhACCnnihlprjudxybpcbuCCehfnfqhyppoACCktqkavgucsbCABCuytiewcsgBCABetbisfcnfkfrdcnaACbpefxyurrjzpthawhkgpxeCACknyiCcbkxyaCBCACrtlanamdawjaCBCchsikhwgmwabbjb
+qCbgsplcCBChymnskyqriivwaqcipeaoxCdjoazcavvbvejxbocjBCCntisldsomkpcutiifnjgvwifestji
+upxoxxolgthxuompzxCA
+
+----- diversity: 1.2
+----- Generating with seed: "CxfpxdramakppnqcBACvuloiidtwCABoqenfpaqw"
+CxfpxdramakppnqcBACvuloiidtwCABoqenfpaqwmhpuscskiteqesqlkvBjkifACvknmgynpnipiabseitCBCunnwABCicqvhaffjpa
+bbiidfupsagjyAC
+yibflC
+CcssoyqabdhtngawgswpCBBuvbchmkdmABC
+apyCqsswitebfwwiABCznltetdkjumCCtanc
+ehdtbjsa
+jkjuepuABCygscsthzkiyAtskhqd
+jceowrymrdwqsvkpetarfkiwakxlyigCBBCrlsvxkcpwrkhyvpakriqvvppiineppupACCxskduwrmnBirpogrdpomnkfCACheudhhfzjAhBlmmnkuCCCheifmiqdACcalr
+dtuvAaCeorind
+BgirnyqehhAjutbdkvxcqcvmg
+ttducACCsfopghemujjlwmCBCtdhs
+
+--------------------------------------------------
+Iteration 17
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 2.8349256/660 [==========>...................] - ETA: 1s - loss: 2.8135384/660 [================>.............] - ETA: 0s - loss: 2.7979512/660 [======================>.......] - ETA: 0s - loss: 2.7975640/660 [============================>.] - ETA: 0s - loss: 2.7591660/660 [==============================] - 2s - loss: 2.7610     
+
+----- diversity: 0.2
+----- Generating with seed: "tfujBACgbgkcaxiutCABtrvkissdcxclACBwucqc"
+tfujBACgbgkcaxiutCABtrvkissdcxclACBwucqcABBofpABBotffoABBootABBooopABBotptABBootABBoiffABBoitpABBoohcABBootABBityABBotpABBotpABCotpABBoooABBottABCoolABCtkpABCotpABBotpABBoltABBoolABBotpABBhhlcABBootABBhotABBooppABBhipABCoppABBotiABCotpABBhotABBoylABBoooABBotpABCoopABColpABBotlfABCttpABCoopABBotyfABBhttABBohtcABBohpABColpABBottcABBoopABBhotpABColpABBottABBoolABBooppABBoocpABBotppABBoooABBotpABBhooABCotpABBitiABBotppABBotpABCotfABBotiABCo
+
+----- diversity: 0.5
+----- Generating with seed: "tfujBACgbgkcaxiutCABtrvkissdcxclACBwucqc"
+tfujBACgbgkcaxiutCABtrvkissdcxclACBwucqcdCBBCtcwmABBooilCBBiufpABColABBoheqsBCBtykABBootkABBithrABBnhpcABBotimmABBoiuinABCrkfABBzhwABCoomdABBiipABCodmsBBBtfkABBrufvpwABCstmkABCotmkABColoABChhABCotkcABBoyflqBCBottABCtuoABChqoABBoioiABCttkABBoocmABCoodlBBBotzABCithABCrhpfBBCipjBBBoocABBootABCololCBBttofABCtxsomABCtotkABCrimABBdtjfkABBoopABBhcsABBttxmABCifyfABCtitABBpdvfABCootABCtflfkABBhtpfACBhmpaABCtqlBBCutoABColoACBidowABBtiljABBioioBBC
+
+----- diversity: 1.0
+----- Generating with seed: "tfujBACgbgkcaxiutCABtrvkissdcxclACBwucqc"
+tfujBACgbgkcaxiutCABtrvkissdcxclACBwucqcBBBtrrBuBtssbdpABCcvmjBBBnnAsCljgvpABCuidoABBudfgdfbABBipigrBChzfkfBCBBplfoABAhtumCABsndooABBittqostoABCtjzACCzojktsCuABClhynBBghvimvdamlymrwACBbthwiuwcABhnyuqisdABBChdfBBwszykBCCqppqcosryACBoybfxACBcbojdfABBkontsBBgpsgmwBBqetkABCwoswABBBlpBABBkysbdBBBottlbtsfABBxhlhlchjBBkwABBuezflhCBBCtctcdhmioyrjBBhrfoACBdgipwpyprABBthmABBcojkBBBodtccncABBobdylwknBCncpghpABBoyhhmABCohtwzmABBdhlalBCowv
+sCplhqkAB
+
+----- diversity: 1.2
+----- Generating with seed: "tfujBACgbgkcaxiutCABtrvkissdcxclACBwucqc"
+tfujBACgbgkcaxiutCABtrvkissdcxclACBwucqcsBqtoABdugxxfBtjmgghBrjqydzABBhylnABojebkABBhjtsACBBblhkABosclfABAlfwowgBdBkhaBBAbndnABqlpprkpwsBBtkmoABacakuoiBmasdjukoCBBehjpiABmolmpCABihebBBClllABCApihcioykjrtwyACBrdlABApyafBACthdryBBqezpmoBlCtBACcahqzBAssnmcscfkdwyypABClwjckeayABBliqfdxwABqouukrBBehpbcsvrlBBogojliklyawtABCnjykBBBsgppde
+yolCBBirhppACBirzkjBBtssscufpABBnjknABuodyABCbtemkvygpBBCphtvpmegABCgmlABCil
+ABCeeqwvABCjnakABCuohlCsspqjBA
+
+--------------------------------------------------
+Iteration 18
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 2.9151256/660 [==========>...................] - ETA: 1s - loss: 2.7551384/660 [================>.............] - ETA: 0s - loss: 2.7342512/660 [======================>.......] - ETA: 0s - loss: 2.7152640/660 [============================>.] - ETA: 0s - loss: 2.7312660/660 [==============================] - 2s - loss: 2.7312     
+
+----- diversity: 0.2
+----- Generating with seed: "BellbgzsACBhzxfelloyfABBohcbwgmfistedmfC"
+BellbgzsACBhzxfelloyfABBohcbwgmfistedmfCBBohffABCodfdmABCoommBBCodpABCrhhABCehfffCABCnhnkABCtkfmdkBBCtifmdBBCohxmABCnhhABCoohhABChlfdkABChtfACBohhffdkCBBihffkfCBBhifffABCrhffdkABCifffdCBBCnhmkABCohhmkABChhyfABCoiffdkABCifffdkABChppABCohfffdABCiffffCBBehlffdkABCehffodkABChhfdkABChdmkBBCtnACBooomkACCohhABCodmABCohhqmABCohhABCdhffdkACColmfCBBohhmkABCoomfkfkfkCBBinhfkfCBBiefffCBBCnfmABCohfffkABCoonABCohfACBhtnmABCotfkfkABCoonABCoofffdkABCnd
+
+----- diversity: 0.5
+----- Generating with seed: "BellbgzsACBhzxfelloyfABBohcbwgmfistedmfC"
+BellbgzsACBhzxfelloyfABBohcbwgmfistedmfCACpzpfkfkfxkABCdkfaABChdpskkfkhACBeyffkaCBBsukhmCBBCtfkkdBCrnhkACCinhfdkACComedCBConrnACCkdsnkjdkkfBCBBnhlvCBBdoadsABCrtnkebkACCnldfCBBClffdvfuBBCvekifCBBCpygaABCleojACBehfvdotdkaxkiBBCtnmkBBCidxfkktCACChheykABCghrykABColdhdkfpCABChdaclCCBBitamCBBhrnfkdkuABCtnmmuABCnmifACBndmABCothifrrwuACCbdcoxCBBnhamkkCBBChfkfACCntsACBhhydpABCohvlkxnABCkhtABBodmaACBaikfmCBBielddstorkhABCrvffBACphifkiABCifffidkAB
+
+----- diversity: 1.0
+----- Generating with seed: "BellbgzsACBhzxfelloyfABBohcbwgmfistedmfC"
+BellbgzsACBhzxfelloyfABBohcbwgmfistedmfCBBsayynABBenadABCgoreluodjkACBeidabgCABCvtiCCvoctACrsdhxhnsjhABCddtfkbkkodCABgnfABCteosnCABlbmpmCBCbuocaxsoijBBCoppvCvkfjpmvqurzrveafBCznoCACCrnbsAeozfumjBBdedxsdimlCACjpaoppebkiekhACrcttABCuddthcmsfkinkACChnhqtABCezmrCojfyzABCemwfBCtikACBCrgolCBledoqvwstaCBCupfgcfABCqaqipCBBbkdBCC
+qolprokkndaCBBpplhmvABColhcpwBkCktkddlaftmwCCBvoqaABCrohvdCrACbvtvvABCvpqxiACkfxbxACCphdcjBCqcaxhnebdBBebnABCbkwxykBC
+
+----- diversity: 1.2
+----- Generating with seed: "BellbgzsACBhzxfelloyfABBohcbwgmfistedmfC"
+BellbgzsACBhzxfelloyfABBohcbwgmfistedmfCABCllmaiCnffhhACvnwpbaqAyBhdfACpzipBCCudhBCsinifooctACBhzx
+BhkunhABChnfhalCBCetoACoxnpcACBAptmaACikifhpakfpynBACooiwsBplfzmsCjlfmtArrdljABihrgakffAiCrnzdkBAvcpABCgzeytBvCkhxjzydwoABCnoydmABCtdydprxrmwCABieuznvvkABCAkhapsaaqhdkvpofipiflCs
+iomcCBBndkifbnzBBCtzApknuvudazBArdddnssfdfplCACrmemzvyfwlrucwjnACBhqqdkABCyoACyeltBrootbenyp
+ACkftcjegyAbaenbecCBBmwtmxtvxdfACBnzuiABbnamsxfyhsqrarkpoBCBrdseqvACr
+
+--------------------------------------------------
+Iteration 19
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 2.5795256/660 [==========>...................] - ETA: 1s - loss: 2.6586384/660 [================>.............] - ETA: 0s - loss: 2.6507512/660 [======================>.......] - ETA: 0s - loss: 2.6466640/660 [============================>.] - ETA: 0s - loss: 2.6534660/660 [==============================] - 2s - loss: 2.6630     
+
+----- diversity: 0.2
+----- Generating with seed: "lcxABCnrgjvBACebdyjhgqldeyehCABbxeptACBh"
+lcxABCnrgjvBACebdyjhgqldeyehCABbxeptACBhoctccccyABClocccccckABColoccccABCooiicccccykACCooocccc
+cypABCoolccccccyACBoooccccccccyACBooolcccccccyACBooocccqccyABCooccccccyxyikACCtctcccccACCoooccccccyACBoolyccccyclCACoolccccckABCoooccccc
+ACBoooccccccyACCoooccccccycABCoooccccc
+
+kcyACBooocccccccABCooccccccctACCooocccccACBoiljccccccpABCoooccccccABCoocjwcycABCotehcccACBoiocccccccyACColocccccykABCooeccccccyABCooocccccyABCooocccccyACCooociccycABCoo
+
+----- diversity: 0.5
+----- Generating with seed: "lcxABCnrgjvBACebdyjhgqldeyehCABbxeptACBh"
+lcxABCnrgjvBACebdyjhgqldeyehCABbxeptACBhyticciABCooccnACCoinlc
+lc
+okCACoolctcckioCqsoxyfACoeghtccvloCc
+uyACCrhhcccywkABCoehiechdkietcmCACboyfocccccmkABCldojcckACCoooxc
+o
+iococyCABicthciACBtgloccqhACBoinicABCooljcccABColhcwccdCBCreociccjzCBBooioeoccphcsdvoocwffCABCozhqccABColoykACCroztAColhljoccxyfoyABCinyckcACCtylcgcyucmpBBcildcxclccyABCcsjjxc
+idkwABChlaiccbkCBBohhcc
+caukyococcc
+csksCABColcccccACColohclcqclcABCoculc
+iolnACBehooccctqhoiA
+
+----- diversity: 1.0
+----- Generating with seed: "lcxABCnrgjvBACebdyjhgqldeyehCABbxeptACBh"
+lcxABCnrgjvBACebdyjhgqldeyehCABbxeptACBhophidiwmnc
+cwkACCocjqiABCadfysrcufCACltndkgACsuoaiacarCBBdjoomfeij
+BbdwbkwACCBotexyCkBdyddyooyljACooctyaoqzh
+cdq
+nedctxlzABCooncqrgcq
+ACCwnj
+qvtkpygqcdaksABCfsntvdownfkcoABCoiohickACwolofcondmroCbBck
+irfocmABCgiqhvkkACCqrzh
+itgyCrchcyctACntoiedppccocABCjdocxwp
+
+rwwzhdbyw
+eoimCkgonlmtifbrjdociiqckyynlyifkyaoqytqABCnohlcnuokipqpixyfnACubomsnrpgmlklfcblyzteokeoqxttACvwuiodkACfgesjdx
+rixqkywyklCmmaytk
+
+----- diversity: 1.2
+----- Generating with seed: "lcxABCnrgjvBACebdyjhgqldeyehCABbxeptACBh"
+lcxABCnrgjvBACebdyjhgqldeyehCABbxeptACBhiotyyCccctqetACApccmABCydocjlBBooowzCcidoyBpCsqb
+es
+mfyokgncoqtsozeinjiiABBposlBABcheceldccABCiioncqBACkerjgiccrqscpjxBsieolxcyykqfgckpACBlcykchmCeACACeqqpk
+xxhhCzdky
+khACACthicb
+damCwchohriABnojviothcsABCkotbkigngxsrvyvgdyfcioexlqgwcpfoq
+moACBBhilAvdkzdqcjACBrClccuAsuaxdwtABoounupcABwupeABChoACptcjtifefpzyfljykCBBdeygonxoexpACCoobabgutmCABlnddjChkxgupcdoyjrmqcrnaABChgqblckogsgcvfCxoevC
+tykjCrAuyo
+
+--------------------------------------------------
+Iteration 20
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 2.7573256/660 [==========>...................] - ETA: 1s - loss: 2.6105384/660 [================>.............] - ETA: 0s - loss: 2.6167512/660 [======================>.......] - ETA: 0s - loss: 2.6024640/660 [============================>.] - ETA: 0s - loss: 2.5978660/660 [==============================] - 2s - loss: 2.6035     
+
+----- diversity: 0.2
+----- Generating with seed: "omtjvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCr"
+omtjvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCrejzwccwxyCACCteemwccswmCBCffjzycswmsCACCntemwcswxyCACCteeyamCBCuntcmwcmsCBCnteehccaCBCetehccwmCBCteljzccwwACCtntmwwxykACCteehcmwcwkACCtttehcwmkCBCtifxwcccwBCCteerwccscCCBCneehcwxmCBCteezcwcmwxcycmCCBeeoehccwmCCBCnelmwcswmCBCetnmmcboCBCteojzccwxyCACCntewmwaxyemCBCtnhcwmwxyckCBCtetekxcamCACktehcwmkCCBCefxycwamCBCeoxwmcwcwxwCACCltemwcwmwCACeenywmwcwxyCACCtnyamCBCeetamwcmwCBCutnywmwxykfCCBCepnycamCBCn
+
+----- diversity: 0.5
+----- Generating with seed: "omtjvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCr"
+omtjvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCreyemrscamCBCteepjghcclkCBCukiehcdmwpggyCBCotcwhmCACkeypffCACCtewamkaeisfCCCrfecmmwcxymCBCilwcsnyfxxxwmkfCCBCtnyulCBCtkamkwACCgeehrccwyowglCBCenjmnxskmCBCntmwmaCBCrehcxmCCBCfflzwcacsspmtCACutfACBCugsxwABCuolieyhcywACCtfxyaxhnmnvCBCeoecacscaABClffywnACCdtfjkACCtnnwubwxscwcsCBCuiplqcmACCiehnmcweyCACCetinmwvACCrteeecmmmCCBCehxcmkCBCuntzeceeypCACithtxhcwuxCACChfytcazipnykABCtttmmosjkjzCBCutexmwisosisjx
+
+----- diversity: 1.0
+----- Generating with seed: "omtjvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCr"
+omtjvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCrwbmmmwmmwcvwkCBCifelcwvnCACdteffdmxCACxtdemkacskkACClxfmcxABCcfdtwcwmaCjenjxmgpseCxsqcuqukACCndgjgrwucxpoCikyCgwckzecjhCCBeyighytgvoxqsdyCCCoeuqmACCkflljoytxtmkaBCCdewACCeoazscmyoBCCujncwzhcxmBBCtbkmedewxsoooquyxcsxyyqkjCCBeewmcwczxhCbpnlwcrhcCvjybgBCBqajgwwayBxwijmtaxssfftACCzlouiiprhayyACCdtoepmqACrvnmwuzptACCcwuyeccjdvelpCCBCzqnyepdzewlocjmkCAC
+jolwzpnylnyseyfakCxhieynABCnsezwraklcwmrlyygdCCCus
+
+----- diversity: 1.2
+----- Generating with seed: "omtjvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCr"
+omtjvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCrupomxmysiABBkniwcmBCctcapoxeyxbscjjteftcmCCCiptmzplxkqmoeivkftCACckdommvhcsxryACufokaswzjhCtfagyftwsuiCCCcesqtwamcuqqoABCswonAskiewytzcqckACipffcCnkzjpCrCABwjzebxu
+seokesejkcssyqcdklsdwwmACBekjbfpwmipttsuxACCzmdCACdbdjsiaACoahiuddgcflfkmz
+rlvhmCBCujwlvvxxugztcCxavlpaxwoACoczbgACBisloxAlCehzeumACClrauaswezceCCBojlznACCkfjvsxktCBBotcmeoprBiCfvfwdlugakoywwxijokCxCxxxhvACCntmqsipwkioiaCoqaABCalylzw
+mn
+
+--------------------------------------------------
+Iteration 21
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 2.6626256/660 [==========>...................] - ETA: 1s - loss: 2.6468384/660 [================>.............] - ETA: 0s - loss: 2.6242512/660 [======================>.......] - ETA: 0s - loss: 2.5977640/660 [============================>.] - ETA: 0s - loss: 2.5636660/660 [==============================] - 2s - loss: 2.5499     
+
+----- diversity: 0.2
+----- Generating with seed: "kdmABBxwjzhcmlCBBhjsnmABCdlmkpwoldoBAClf"
+kdmABBxwjzhcmlCBBhjsnmABCdlmkpwoldoBAClfoljoocctctctCACoooopjoxcjzcuoocikCBBhthcujojzccamCBBouooifjojzccctcCABCoouodjocscqccspCBBooojzjzjzccuACBoooootctcuodctcctcCBBothcuoifoctcctACBoocuojjocccwctcvppCBBouoeonifocujzABCuooocujoccctcsooCBBhuooocjjzccctcsCABCoooeolctctccuACBohhctctctctctcACBocouoctctctctcktCBBohuocujoctcctcACBooooocujoctcmccwuACBoooooifojcctcsolCBCoouoocjzjcswABCoooocjzjcacmwuoykfCBBiuooocjzjcuoccopCBBooooefjojctccudCBBoh
+
+----- diversity: 0.5
+----- Generating with seed: "kdmABBxwjzhcmlCBBhjsnmABCdlmkpwoldoBAClf"
+kdmABBxwjzhcmlCBBhjsnmABCdlmkpwoldoBAClfointcjoxhwukiABChctlnhuioxictckBCBotuooomfjdawuocyACCootuoujcujlzjcykpCBCvhontcsujocxtCBCuntoifjtmkzjvoCBBCiooufjoccctckpABColptfjoocaakhvppCBBouuojocuoccctccvACBoooeoefjfhctcqedCvCkihyfokfoikACBtuoooinhcccmljotiCBBhtehujzozcestsCABCknjoxtcqauCgohavkCBBhuooiffjohct
+ivsCBBhhttfpjjzjABCuifpomjjoycazCABCthcloxjojctccvpBBCttakfolqcjvCBBhnnhujjjocxykcsCBBhhuocxjoocaccmABCioluujdxycmlsClCBBhtknnybjxrkyk
+
+----- diversity: 1.0
+----- Generating with seed: "kdmABBxwjzhcmlCBBhjsnmABCdlmkpwoldoBAClf"
+kdmABBxwjzhcmlCBBhjsnmABCdlmkpwoldoBAClfjif
+esfoAABckthuomdqurmppspcjBCBkcozlmjbxt
+stmczwfBCchtxuoamnyclpbkvBCbctupvxdqjxemwzpfCBBghcujottchwkfmxtABCunzizjfjfABCikuwofqlxceakCbgxvCBBasoxaAehsfxhcACClhcdzijnxx
+CkACBifeqquyfjCABuoroyppjmkuACtxupnjzwsfkfBCcnlppACBduti
+fhuaykpjvzbrCBBouosbewurxccgzABCbuxhdjbhtCBBcnhlfdumkfCABChcr
+iaocbfjtabkpBwvqocysCBBelnfjobctqjvvjBCCquoowuilxnuooectyeoijoykjBBCpppnycaloxcvpCABhzhudzfepnigcobABCvtsznjpjoc
+
+----- diversity: 1.2
+----- Generating with seed: "kdmABBxwjzhcmlCBBhjsnmABCdlmkpwoldoBAClf"
+kdmABBxwjzhcmlCBBhjsnmABCdlmkpwoldoBAClfcuotctipbBjvkptwkkpCkbCCBBopicdfffjoiehiywvABChtikububulfjkckCBBsinjdolfmdBBCirydbegkctoc
+uCBBietigehciokiocyakphBnCuoslocgmCbikp
+oajvtCBBehultuottprACBkhdbtociftsiABCjeduntadACBBfothccmwopbjoCBBud
+aeroisnhhtppCBBtmquit
+jklh
+yffoxxBCBekooippjjzqwznABCoinrjojcubxysvvCBBsonycqfycychjACBBte
+iepjxocjvjizdxACBvotcfomehhtacdwzoctdstwrCBBopophcbkoxyjokyk
+mpwCBCgolscbghvmulBcykassaulxrewjkBBbojhrCjmprnCkw
+
+--------------------------------------------------
+Iteration 22
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 2.5932256/660 [==========>...................] - ETA: 1s - loss: 2.5215384/660 [================>.............] - ETA: 0s - loss: 2.5156512/660 [======================>.......] - ETA: 0s - loss: 2.5382640/660 [============================>.] - ETA: 0s - loss: 2.5056660/660 [==============================] - 2s - loss: 2.5033     
+
+----- diversity: 0.2
+----- Generating with seed: "gqldeyehCABbxeptACBhtyftkdqkdmABBxwjzhcm"
+gqldeyehCABbxeptACBhtyftkdqkdmABBxwjzhcmABBetiktiktikABBhrhtiktikABBehtiktikABBthtinykABBehtitlqtiABBehtilykiABBhthtiktikABBththtikABBtehtikABBttnlmkABBtehnilABBehthvliiABBhthtikABBetilykABBehtitikABBthttikABBtehtikiikABBtehxtikABBthttikABBetitikikABBehtitikikABBehtilmABBehtxtikABBethtikikABBehtikABBitehhiiABBhhhtitikABBehtilmkiABBrhthtikABCttttikiiABBhthtikikABBehtikmkABBehxhtilmkABBtehlitikABBehltiikiiABBhthtiktikABBehthxmipBBCtthtikA
+
+----- diversity: 0.5
+----- Generating with seed: "gqldeyehCABbxeptACBhtyftkdqkdmABBxwjzhcm"
+gqldeyehCABbxeptACBhtyftkdqkdmABBxwjzhcmABBhtuljdhxhjkABBeeptcmABCptpqtinymmBBBiohdttikyqaABBoniufxyiidBBCutttkACBBehtamkavkibppABBtiletmABBhryvtiktikhBACABvtjkjiABBstthvljBBikhhxtikkikiryykACBehtuljviABBhthhhktqtABBerohinnkikkABCrthhykiABBirhltikkfisulqdthkABBitehtikuABBeioomiABBhvntifkiimABCehxylmmkBBhtehtikpABBittqvABBittilma
+BBrhkirxhiiABBhtthkjmkABCrezhtintikABBihdktimkyikykkABCheeziprhirkqmABBiejdmxtiktABBehltkAmkuikkABCrhotifABBt
+
+----- diversity: 1.0
+----- Generating with seed: "gqldeyehCABbxeptACBhtyftkdqkdmABBxwjzhcm"
+gqldeyehCABbxeptACBhtyftkdqkdmABBxwjzhcmtCBCrtghuhvoABlppwmwABBseggmmBBBcthtykirgnledrytkACBtkeuifylmxppamCmBbsntixxykmqxkikABCwurxmtyeABBhinhlihABBinvljzjrBBidzjmABBboemABBekhmkmikxtylABCtghsmcmACBhkthijvlxxqigsrCBBjnclvtqtctCqqupliCBBabeyxdmsdBBxhtkilmxaakxiisolbrncnvmBBBnhalpfABCotekABBhieygqitACBtkfynuiqBBBsvtxtilmrpBBgepichxjkABBsljylfkABC
+bekpiqkmCBBiuryqmvpkABbnojnABBto
+fyimfBBBtlytABACkocvtpmryidlxqvACBjctpABAC
+qtoiyktAABolwhxti
+
+----- diversity: 1.2
+----- Generating with seed: "gqldeyehCABbxeptACBhtyftkdqkdmABBxwjzhcm"
+gqldeyehCABbxeptACBhtyftkdqkdmABBxwjzhcmACBsieeinexintnxydCBqmshnhuugacxhiACBitghhtiACBBur
+alwlABBtulbofbtaABstqsimrdhylfyitBBqhaghtABBhonnlploqbgljCABhxesyAACbpznktaBAChrjovpttiepABBddkyxxielkudctBAColuktmknggrABBidcvudt
+agkdkpny
+imanjkbdtfouvtABCguyxmmABBvlvlxotctdiamlehntpytCABBokrwsotAABqukiuxfmbvsCaiAtktpqkhBABqzhmddljkeybkBBrtplkAABCrfrfxkigkizy
+mkABClceppvjtmisnpmAoBbcsktmsivsocjzgkiolvmdmABBclbztxtABCufoitACBBeizekiABoetecmkipgi
+
+--------------------------------------------------
+Iteration 23
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 2.3270256/660 [==========>...................] - ETA: 1s - loss: 2.2668384/660 [================>.............] - ETA: 0s - loss: 2.3128512/660 [======================>.......] - ETA: 0s - loss: 2.3553640/660 [============================>.] - ETA: 0s - loss: 2.3749660/660 [==============================] - 2s - loss: 2.3736     
+
+----- diversity: 0.2
+----- Generating with seed: "BACopmdvljCABhzhvpliwarrhkghACBfnijsgrAB"
+BACopmdvljCABhzhvpliwarrhkghACBfnijsgrABBtudtqsssssfffffssssnyssssddsssstqsskfffsssssfffssssdssssdxqsksssfBBCstsdqsskfyfsfsssssssssssssssssfdsssssffdsssssdssssqssssddsssssoqssssdissssssssdsssssfyffffffssssssssssssssssssssssssbssssssssssssssssssssssssssssssssssfdssssdysssssssssfqsBBCuddxqaqsuoxsfqsssCBBitdthqutxqskffffffssssssbssfsssssdqssssstABCttisnykfssssfyfsssssbsssssssdsssssdsssssbssssssqspssssssdssssqssssdqssssdqssssdssfssfxssssdps
+
+----- diversity: 0.5
+----- Generating with seed: "BACopmdvljCABhzhvpliwarrhkghACBfnijsgrAB"
+BACopmdvljCABhzhvpliwarrhkghACBfnijsgrABBtinpaxssujsdsxpqq
+sjddsCBBdfqxyxsskykfykffbsfBBitctesskydkfxsssdjbBBsdsdfdxsssidaBBsujidsxkaABovitxqsdkwBACtotinpsrssftxqskyffsCBCttcsstmklq
+ssfBBCtqttcctpfkxqsqsksCBBokoxsnysdktqalypoBCsbdtissssuqsbssqssnrxqBACoojidfdABCutstsghcqtqskfACBbndxthhsntcsssuifcsgskskftiktaqssbyoqifsjyBBigttesnylABBtljxaseyaABBtextdskfyABCrttesnysfyfskkffssssbfxqssodjBBCeeoxyuqxsisswfABBoehyxsnqssssdqqabkfdfaCBBhdjoxah
+
+----- diversity: 1.0
+----- Generating with seed: "BACopmdvljCABhzhvpliwarrhkghACBfnijsgrAB"
+BACopmdvljCABhzhvpliwarrhkghACBfnijsgrABBsojljCBBofnfoqsptABBiglppppABBiodawunbtABCuobdgprrxpccvtjxaqykfBBCnldvdlkjbaBBCttepxsplquACptdyvcuqssjcasknayskgsbqtcamBBooepdxyqexesdvigssCdBoeodcswamcsaxBCABfkdyknABBokjmmu
+sfvpBCsldkABBenijddsxcy
+rCBBghgsphvru
+ubsujawsownpvABBflfjdysABCodtxtwkpxtkrdfrABBedsqxeouBABicowzerCABoqoqqtqszybABBtbkbqtcABCukjzirdsytkqnhABBktaftsyqbdmtsnffpilBBsfldaufwufsCBBpttpcuyktBqutymssBsgsqcsssxabABBedjzasctigswk
+
+----- diversity: 1.2
+----- Generating with seed: "BACopmdvljCABhzhvpliwarrhkghACBfnijsgrAB"
+BACopmdvljCABhzhvpliwarrhkghACBfnijsgrABCoeothrspABBsotbbjvAggosiuqwyksplfaaoarcsbfjsoktokkjvkfqaBBerbjedhysmsssgqyacscsdxsgfutABqtvtliomaABBsoljhkfykeABcsbdxybykorCABesfdyfsdkBCserjdyc
+broABdplcdnqspvyBAgBddzqvqkssakfnjvd
+iaaytqfjyACBatsaedraxrujrkBCstglnqxsxvlq
+uimzxmhaqyABBckezymrxssskffCABsudyqsssnuikxabxsnyfkfkCgvqxkebkCBBctepcsntfqttCABrtilwzbkBBAocetviAkftepgmbsdkjwACBtlnBjgusfossotmvBjdtisgshqtAxlonjtnxuABCrdnxtxsnmditdsfshsfgss
+
+--------------------------------------------------
+Iteration 24
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 2.4028256/660 [==========>...................] - ETA: 1s - loss: 2.3688384/660 [================>.............] - ETA: 0s - loss: 2.3896512/660 [======================>.......] - ETA: 0s - loss: 2.3385640/660 [============================>.] - ETA: 0s - loss: 2.3036660/660 [==============================] - 2s - loss: 2.3137     
+
+----- diversity: 0.2
+----- Generating with seed: "BgufctCBBhgggxhzglesixrqABCgiptbsnBACp
+f"
+BgufctCBBhgggxhzglesixrqABCgiptbsnBACp
+foocuolBBCunlmwuooABCuootikfjvABBououuoxtcsuoABCunuuudocctpBBCulolccuABBcundmkBBCtnhuuoxcqppBBCuoouunuuocuABBuounuquoxcpppBBCunnyuooABCvljzuooctABCulolcABBouoloculoABClnnrmjBBCunumABCoouoxoxhvdxBBCunuujzcuABCuonyunBACunljzuoxyuABCuouuuuuuuuuABBouoljuoxaABCuntunkfpBBCuljzuABBununmABBuuouuuuoxccuooBBCunutmvoxhqvppBBCctunyuoxykfoyABCuooxuoocuABBouneoxhvuABBeuneocauoxtcqvABCunuljzuABCulouuoxyufoABCuntu
+
+----- diversity: 0.5
+----- Generating with seed: "BgufctCBBhgggxhzglesixrqABCgiptbsnBACp
+f"
+BgufctCBBhgggxhzglesixrqABCgiptbsnBACp
+fbdzABColnlmkfkfdnyudpBBCuolthculaCBBgujztcvoxBBClnlfjoABCaltezjzBBCutuonABCuonzunmdcBBCquuoxykovpABBouopuluoABBeinmxaBBauuuujdBBohvujoBBCunvACBeuoun
+uomrBCcofopuBoctuuoxxCBButntuzutgvvlABCuoovjxsoxABCulpuquqvdBBCllldlBBieoqun
+unABCvoctunkvpBBCtnxtnABBuuozuABBcrcuovpBBqtunlABCotpnjvoBBqkfpABColocufoABCtnutukxABCtnlujoBBCtntnokocvpABCunnlydzwBBCulo
+ikuqsvpBBCujojzjzkufykABBouljzuABCulfqcABBeueouidlx
+
+----- diversity: 1.0
+----- Generating with seed: "BgufctCBBhgggxhzglesixrqABCgiptbsnBACp
+f"
+BgufctCBBhgggxhzglesixrqABCgiptbsnBACp
+fmuodndghohqpvlhCABqo
+utzcABBilfhtgsploCkjotektytkvABCttdodnssklBBctnrezunaoywuABBrghonABCcucuomABBoeuljvowbp
+qyABBgogkgnlysvABCzruaxqoxocguozylbCBBCcgzcvbsoqpABBiwjnyutgosvtxhvxnABBBurrujokxpyABBkocdmBBjolftqvinBBehabgsrvAB
+ehfhfozfBvulqwfwxaABCulnuonsrcuACBtblndcaBCAzcaumuoqavBcCzqgvpyaAboinqqsh
+klnqusppjBBpccgghaulABCutuoglBBaujbqaABChcflzdbovACBoepufmoxspw
+ACBbcpjparjzfwwdgwwACBofuujzeep
+ogomsB
+
+----- diversity: 1.2
+----- Generating with seed: "BgufctCBBhgggxhzglesixrqABCgiptbsnBACp
+f"
+BgufctCBBhgggxhzglesixrqABCgiptbsnBACp
+fboutchvnyaunompBBjcjkjzatnsk
+fktylrubdsBACllfogoccfgxntvkfBCvbmjdjwxgpmhkppaABxqCvzjwualwouqmpfBaxamdsjBBsjzd
+uinyACBqzuoksbABCtratvyocqABCoAbwdudboorwkptfgkfqoovABCuhueuntqcBocvup
+azqujrxxv
+mbBBCiltpiskfvgmBBBoliocumpBCCrolfonABBotlvuABChqirnqcvzABeouzABChoxnvpjvCBCaujlxlvpzpBBoljehwuccyfBCnghkuqsppxBBcttiuut
+sbgzACBnonxedzBBCfnorwuzycrjipvfqB
+kououmjsoaCABeutzemkBfsljdzBBBhqcmlahvujjBBtupzexw
+AB
+
+--------------------------------------------------
+Iteration 25
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 2.3968256/660 [==========>...................] - ETA: 1s - loss: 2.3013384/660 [================>.............] - ETA: 0s - loss: 2.2562512/660 [======================>.......] - ETA: 0s - loss: 2.2282640/660 [============================>.] - ETA: 0s - loss: 2.2694660/660 [==============================] - 2s - loss: 2.2552     
+
+----- diversity: 0.2
+----- Generating with seed: "apwwACBhqlyzbnhgitbABBenbmycbfvCBBsdvorb"
+apwwACBhqlyzbnhgitbABBenbmycbfvCBBsdvorbooityknykfCBColotikjoykfCBCooeojoootnkkjvoyffCABColyeoooifyoyACBooljzjooyekeoifoyinCBBeojjzjooykfCBBeotindotikpyACBooeeojzotikfCABCtnykfCBCteoyindotCAColjoooifoyifCBBeonyeojooykfCBBeojzjoooitnykfCBColojodotifooinykfCBColjoooifooinCBBeojnyooACColojzoooinyooBCoooyeojooepjoootnykfCBColjzjooyftikfCABColjzjooifydoBCoooepjodotekjvCBBeheojzooifyotiknykfCBColjoooifyeyjBBColjzjootikCBBoonykfCdotinykfCBCooe
+
+----- diversity: 0.5
+----- Generating with seed: "apwwACBhqlyzbnhgitbABBenbmycbfvCBBsdvorb"
+apwwACBhqlyzbnhgitbABBenbmycbfvCBBsdvorbCBBotkdvjzyodCACoeoyjonytnykaCBCooliektthvACBooljnyuojoBCtnnteooxtkCBCtehoiooetACCkttenABCthttcvooifnyifBCktnykfCBCfonynrkoxyekjBCotjzodp
+ylyfoCBBhrhjuooipcCACoonyljwoxteooicbpoCBCeoymujodptCACooryjuBoekigooppytCBBonlywfoyeryABColtitdoopACBoeojjodotoqpojbwotinyknykfyodoCBBeoyfodykfxyqkoCACooezjzCABontorojodpyvdCABeotnenyjvdosinyfoCBBhoyjoBCknotedotqeonirdoyfovjBBoeorjozynmkpBBehnyeoeoifnooACCooodm
+
+----- diversity: 1.0
+----- Generating with seed: "apwwACBhqlyzbnhgitbABBenbmycbfvCBBsdvorb"
+apwwACBhqlyzbnhgitbABBenbmycbfvCBBsdvorbqx
+yun
+dtACCyttynhhytsifyitpticwABConesdx
+iodytjowtuovdkACedogojoyjoyktfCbBsnmjokofteotijkepyroochvoxadkyamkyejpkjvfetteeoebhotiteedibdjzdvyiffaCACopudnkrooqvyCABotyhqccohitwgeyrdvyofACCtvqxtgdovpqfjkdsyjACCnltfnohABCleynACBnblygxkovtxfroljvoigggyuttixkyppCBBeedojuyndpvbnippBqeoqcsABCenljfcavACCbkoxomdotigrxyuaodACvvptdvbparjookypmkroovyjqBoelygbkBCktnyrtCAConpjadjznofetlfmo
+eooceooCABq
+eoy
+bqyoBC
+
+----- diversity: 1.2
+----- Generating with seed: "apwwACBhqlyzbnhgitbABBenbmycbfvCBBsdvorb"
+apwwACBhqlyzbnhgitbABBenbmycbfvCBBsdvorbssyetxCoflapkoftwpnydojzqxyvtiqehooCABooyozxltbgvtkfh
+ijnhemABCotxeCsemtcC
+abtzfyqlkrkjCBCsoijABCnyABBkotolqetqdw
+useedihyknqkjooglACBfyooCkennmwjBoegmuyeoxeoycqtBCoglneziehtatCootlmmirshcscBACdtjzooevoigyfdwojodCACdrnruiddxyuooignotonoueymABCtnyjnvCdtbkxjvlyuABCopj
+xdojektiqryofCopenyeoCACCjlvjCnauryAACtljpfovyfbrpBBielwoBBripdnnAnCfnpqfCxnpyjkoxreejzdyvwACCcnqoofddkfyjABCnylyCAB
+edykfnhtttsowjzf
+
+--------------------------------------------------
+Iteration 26
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 2.2251256/660 [==========>...................] - ETA: 1s - loss: 2.1423384/660 [================>.............] - ETA: 0s - loss: 2.1504512/660 [======================>.......] - ETA: 0s - loss: 2.1549640/660 [============================>.] - ETA: 0s - loss: 2.1534660/660 [==============================] - 2s - loss: 2.1434     
+
+----- diversity: 0.2
+----- Generating with seed: "cc
+ykfyhkwtABCrdiqhzuurdwesBAChhxtqmmyai"
+cc
+ykfyhkwtABCrdiqhzuurdwesBAChhxtqmmyaikpppyppBBColplpppvBBCpppppppoykABColppppssoyolpppppBBColplppp
+BBolplppoBBCllppppsoBBClppppp
+oooovppBBColplpwuABBolllpppBBColplpwoABBolppppp
+
+solovppBBCoopppposolykppppABCooppppppBBColpppppBBColpppppoBBColplpp
+BBoolppppoBBColplpsodovpBBCopplysoyovpBBCololpppBBColplpppBBColplykpBBCllppppBBColplpppBBColppppyoBBCllpppyooBBCllpppysoBBClppppppoBBColppppooBBClplyapBBCkppppppoyolpppppppppppppppppppBACBoll
+
+----- diversity: 0.5
+----- Generating with seed: "cc
+ykfyhkwtABCrdiqhzuurdwesBAChhxtqmmyai"
+cc
+ykfyhkwtABCrdiqhzuurdwesBAChhxtqmmyaiBBBcllyehCBBholppppvyABCkopdpwxhvovABColplxwvdBBCtpoppABColplyaykeykABBolilfoehBBokppppcpoBBCppppppBBColpppgsoBBColypppyoABCorplcwplodvABCovpltsedykvpBACBoolptipvdjBBCrloqppppBBBolleppyCABBpljbgwlBBolppppABColplyogaBBolplphpvyBBCrolpppppvoBBCoopwqpvpoBACplplpppBBCkpppppygoBBoolplxeoABBollhvpsCBBoghxhkpltwvABBclpygsovykfCBBCclppppBBCopppppp
+yulBBCkpppppwBACopptp
+eyvABBolpppppwxwoABBClolplpo
+ikppppp
+
+----- diversity: 1.0
+----- Generating with seed: "cc
+ykfyhkwtABCrdiqhzuurdwesBAChhxtqmmyai"
+cc
+ykfyhkwtABCrdiqhzuurdwesBAChhxtqmmyaikpygwpgpovpygkpCBBpunpxpspvwrABCllyipycypvoxyABCvdlpyxw
+xybABCBtkoysnvdwBACrequlvozgwkvppBxytpwykABBvujpdddBByknpqtACBodfl
+epdkgquppmwABBolpplysgwBBCpslyanvodBBroplywzmCABBodeloekwvdkkxxyljvyCBBdnwkfmonrCsBByfnmkpoyflnovpBBCdlpkpyuodCBBxhlqhcyojmdovpABBeololwakvpBBChoyplnmroCBBipkglhwxtkaBBgtxvplwBvoppqBpvkpvCBBxtnhvbkpBCkcwut
+wakpxykyqmBBByblosCnsdkvpmsCBBocthcpABBotcpylyooa
+vpspBBBwpnyeopCBAgnvs
+
+----- diversity: 1.2
+----- Generating with seed: "cc
+ykfyhkwtABCrdiqhzuurdwesBAChhxtqmmyai"
+cc
+ykfyhkwtABCrdiqhzuurdwesBAChhxtqmmyaisommylBveoxtpo
+dwopolzwuc
+podpABBocsywppkwcABBipwwABCkpppgspop
+nycpBCCkxtovpinyBjClBwugnACBrkolhkppgCABBiepds
+ddgvkpvvjCABgoljeezw
+rkjkkqep
+qABBsolplfpoCBBolxkhyboBCBtulpmthvoyaABColjhr
+
+zstvABBounyeleskksdeprkawultACBCvspnxssyvkaBBpotjnyptkwvdbkseynAABzwiloezavomovpplACbBppvwiro
+fkavBBkshunjnBBCkttdhdgABBkcplmpcascvpxhCABCwgxhwpwootkau
+ulpABCrjkhbgzdBBcumppbtBACopgghuvdjokBhthlmyzBBClllppxyvtvkzA
+
+--------------------------------------------------
+Iteration 27
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 2.1413256/660 [==========>...................] - ETA: 1s - loss: 2.1871384/660 [================>.............] - ETA: 0s - loss: 2.1806512/660 [======================>.......] - ETA: 0s - loss: 2.1511640/660 [============================>.] - ETA: 0s - loss: 2.0884660/660 [==============================] - 2s - loss: 2.0959     
+
+----- diversity: 0.2
+----- Generating with seed: "zsffuiippqvpCABugodthvvttghivACBaexhgkpu"
+zsffuiippqvpCABugodthvvttghivACBaexhgkpuiifpaABCkfhyctpkikfCABCcthchctctpvCBBbkhhccpppBBCthhcthvppBBCtahhctpvpjBBCcthhctppvjBBBhhchchcthCBBghhcthhvljBBCcahcctckptqCABohcahccppCBBbkhahctchvifBBCcahcctpkikfCABqthhhcthkikpCABocahhccppyCABbkfhhcctpykfqppBBCcahccppCBBfhhccahCABBhhhchcthvpifBBCcahcctpykfpCBBbkhhccthcttqkppppABCtahhcthvtifBishctcqvppBBCcahccwpyptCBBhchchchctppCBBqhhchhctppykfCBBbhahccppyCABbkfhhcctphCABbkppycspoyfffyABBbkjhyct
+
+----- diversity: 0.5
+----- Generating with seed: "zsffuiippqvpCABugodthvvttghivACBaexhgkpu"
+zsffuiippqvpCABugodthvvttghivACBaexhgkpuepjBBahxhcoccapooghchcyltCABolhhhcthqvpjBBCcaaahckppypjBBdhthhvtifsamBcahhctpykyppBBbsktphhctfhCABChdhhxhvojBBCthctnykppybkpBBCcpcycABCtezhcutifabkfaCABbolhccahcwnxhvCBBpahhccthxhctpBBCnyazwckpyyffCBBbkahhckpykfCBBthhcthcttfkkiaBBchhhchhvllCBBqhcahhctqpvpBBCcahhcspypfBBCcahhccpptCBBahhhccpyahBAkhykpxACBBhcaphchthcilBCfkfhykfpjABBedpthchvbgbBBChctcthvpjBBCtahhctppyqmBBCvppapBBBhhcepyactthcqcpppBBCl
+
+----- diversity: 1.0
+----- Generating with seed: "zsffuiippqvpCABugodthvvttghivACBaexhgkpu"
+zsffuiippqvpCABugodthvvttghivACBaexhgkpuABCAtekaiehyifyaABCdnthqzypjCBBonhxthaujoisgbtztkCABCkftwhawvnxs
+jnycntkipzppBCcdovbocjzwzABCkpxysvCBBcphamwodwABC
+ovfpifkkCBBBchcaaCBBpzzwwkhoiffkyBBCcwaskcqvACBbnashhocqahwaBABhchaykyphykfdoaBBcothhnttnksfgipBBCkpamhvdlp
+bBdohclqyfCABBehifAABoplytnpavxwraydpyqvjdwdABBhchcehqxkpalABCgstyACqkpcacwCABotrhhccptgcoxyvABBrkracrctychCBAsgdavjmrryinipzbcCbfoifayapvktsCABaghocifdjwzABBghrhc
+qyhaxsbkACBti
+
+----- diversity: 1.2
+----- Generating with seed: "zsffuiippqvpCABugodthvvttghivACBaexhgkpu"
+zsffuiippqvpCABugodthvvttghivACBaexhgkpuvmsrBCzipncwheyaABerpcych
+nsnzjokykfxypaABoeeepzbctejmaCryefhwikbskqCABtaehuzhegkpqlzuoA
+ftzehCABbljvyyfhrytgkhghhctupkiBBbivpakxdhmbgCcBtcnhcqacxyfjpatCrnhxpiqgpqaBBdorhcppdlCBBbnzhqezicBfokbqyhjmkBajlhctgfhvbBBBhhephctezseehbsjzbgkmCBBCcapvouilrychclyebABBtynashqcypBBCcbscwqbvyxbCBBfbjpzkaakityhcpppwscbotwkACBpbdAwahtifmkaABBbhcmwzxhvdkBmakgsxkaCBquqhqcp
+jkwqbBBCnptaxapssjdBBqscyhxqopyaABCgoahcw
+
+--------------------------------------------------
+Iteration 28
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 2.1588256/660 [==========>...................] - ETA: 1s - loss: 2.0400384/660 [================>.............] - ETA: 0s - loss: 1.9691512/660 [======================>.......] - ETA: 0s - loss: 1.9678640/660 [============================>.] - ETA: 0s - loss: 1.9946660/660 [==============================] - 2s - loss: 1.9907     
+
+----- diversity: 0.2
+----- Generating with seed: "qjhBACndlpptCABnkapwwACBhqlyzbnhgitbABBe"
+qjhBACndlpptCABnkapwwACBhqlyzbnhgitbABBedljzhcsktBBCrdolcaABBeodpppBBCcdppABBedlyaABBedlyarCBBehdxhvpdBBBeedmspdddBBCrhctABColoctABBedljzBBCrdljzhBCrlljzABBedlyepjBBBehdmABBeddtirhdkABBedlyepydsdBACrodpABBedljzcskCBBeolyepBBCrddxhBACrdltaABCollctcvdvdBACBBedlyclpBBCtfddvBBCrdoxhcvdBBCrddhABBedlycapBBeedmspssddBBCcthvpABBedlyctpBBClljzhBCroldaABBetlyepjBBrdlpaABBeedmspdBBBchdhABBeeddppBBCcthctABBerljzzABBeedmspdBBCrdhcABBedlyedmBBBedlyeh
+
+----- diversity: 0.5
+----- Generating with seed: "qjhBACndlpptCABnkapwwACBhqlyzbnhgitbABBe"
+qjhBACndlpptCABnkapwwACBhqlyzbnhgitbABBeryepABBgdddhhclABBeeljcxyABBekdpppjBBsnryvdkBBehryilBBCrotcvpykdpBBCkfoxyqpABBeolxeprdABBdelhcuABBodldhcAABrddpoqceodzsBACrdtpqavCBBgrdhxcnykirBBCrocnACBBdldwzcABBodoleddvCABdhdhACBBeodhcaBBedljwABBedlpoABBedlytcaBBBelljzaBBrhlnABBodljzamBBeedmsCABBhdtehvvjABBdrlycnACBBolhcxaCBBdhdmABBedpyfrpBBeoxyajvdBBrhlytnhvrsydABBepyesesdoBBqtdvABBteddvppBACcrdhABCzledmABBerdmspBBColetchvdmsBBCrddmABBelydplCB
+
+----- diversity: 1.0
+----- Generating with seed: "qjhBACndlpptCABnkapwwACBhqlyzbnhgitbABBe"
+qjhBACndlpptCABnkapwwACBhqlyzbnhgitbABBeddjujkdkABCsdldmABBegmdpBBCrrkfCBBtzzpqxhrvsCABednyppbdtiatydvjCBBtfkkkdvqvABBevepsppoq
+stghdjvCABrrlcx
+lhviaBACoceamxrdrvpABBnhuiljrhBxsayktaBBArhvvfABBdlxhvABBdttcudkBBCsdpthACBrdoyuzABCrrujmdBBbesigdarybdyBACczofxthkldqvjdbsdtphhrABBeoteludrvdBBBnhujvdBBb
+ckppvCcbrdpwACBekdllCACCatplacxABBeo
+eplBCfvmdBBpojaydvBBirdpvABBszayerdtCBBskgghhvttABBoedymgdcABBrozhcnbrduitkBACloknyarnrdBBppjryABBeoxtig
+
+----- diversity: 1.2
+----- Generating with seed: "qjhBACndlpptCABnkapwwACBhqlyzbnhgitbABBe"
+qjhBACndlpptCABnkapwwACBhqlyzbnhgitbABBeppqmsvddBABzcnasgshdwABCkezwzksCBBrdobykCcBCeehlcrhaxekABBenirtABBeuoxykqtrtdkespBBCdoaABBehydhtqc
+dtBBClelpcblCBBeldrjqhagdpyaaABodkyptABCandtiBAkiyaboBBovtsBdklsABAnuxbpABBetdacABBetoqpdvddrCaBnhctetvCBBintocsduvgnickdqxzmACBBolzwunvdBBfnmhABBqertisnvyqABBsbldstcguvwxxqBsodmtABBepumsbmABBatactvACBhrhdmhCBkrowmsvpslpCABkemgcjhBBdldqgkCBBfvoqABBedbwjkBBChpboCABnpnysktdykurdkABCsknyftvBBdbalvdBAwhe
+
+--------------------------------------------------
+Iteration 29
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 1.8255256/660 [==========>...................] - ETA: 1s - loss: 1.9065384/660 [================>.............] - ETA: 0s - loss: 1.9069512/660 [======================>.......] - ETA: 0s - loss: 1.9092640/660 [============================>.] - ETA: 0s - loss: 1.9027660/660 [==============================] - 2s - loss: 1.9057     
+
+----- diversity: 0.2
+----- Generating with seed: "bgzsACBhzxfelloyfABBohcbwgmfistedmfCBBqt"
+bgzsACBhzxfelloyfABBohcbwgmfistedmfCBBqthhkABCkffykfBCkfffykABCkffydkBCkfffydkBAClfffACBrulfdoABCkffyfABClfffykABCkffykABCkffdyABCkffykABCkffykABCkffykABColffykfCABClfffykABCkffykABCkffdkABCkffykABCkffykABColffoABBolffyABBhlffdxykfpyAAColffoxykfACBAulfdxABCllffdkABCkffykABCkffdyABCkffdyABCkfffyABBolffdkBBClffoABClfffykfACBbuffdkABCkffykABCulffyABCkffykABCkffykABCkffykfBAClfffACBhulfdcABColffodgkBACkfffykABCkffykABCkffykABColffykABClfffy
+
+----- diversity: 0.5
+----- Generating with seed: "bgzsACBhzxfelloyfABBohcbwgmfistedmfCBBqt"
+bgzsACBhzxfelloyfABBohcbwgmfistedmfCBBqtnkkABCllfmeoBAClpfffrxABCllzuABCkffdyABBotifydxyflpABCrfffyABBbljmkykfkjvABBiffaABClfffyABCplffyABCkffykABCkfpyykABChclfyulACBffppykABCkffyddBACkfpboyABCrkffykABCkfpdyABCkffdvABBgbjzhACBelffdxykffpjABConfkekykfACBoulfocABColfddvpABCtffykABCclfyedlCBACljhzAACkfleyABCkfffykfACCtghhdkACBoolfykABCulffyABCkfffyekABCffffykfpjABChlffyABCubggybkACBkunykABCzlfdkABBteoqtABCtpfdyABBolifyfkfypABColpAACololctc
+
+----- diversity: 1.0
+----- Generating with seed: "bgzsACBhzxfelloyfABBohcbwgmfistedmfCBBqt"
+bgzsACBhzxfelloyfABBohcbwgmfistedmfCBBqtnhknkmamlrkaavylABCuludlnyABBtuqinyABCvhedsghABguofACBdfltyvkxAACoulftdgkghqnAACrypdpjdlykfbylABxeijzhq
+rggABCrkpqryiABCljzABCrlfABCkffeecrcbwABCltfvblBBghiffxyABCzcfflyoACBpzjnykABCeutnhkABC
+harqABCtebedgABrhctABCvluACBdgkphxctrodtABChsctggmkkfwjABCfvvdgbwfAACBsfABBpvpcs
+chfykfkCABClynxxkeroABBndmapduflCACghcptymftABCtoljeykABCclgcsnkglvpiryuqtykkACBhtkfyelmABBbkudjzkABBhlqfozfABgpjfdofAqCyAACdut
+
+----- diversity: 1.2
+----- Generating with seed: "bgzsACBhzxfelloyfABBohcbwgmfistedmfCBBqt"
+bgzsACBhzxfelloyfABBohcbwgmfistedmfCBBqtzmwgkpsjkdkACkghvolpBmCyAvoycbgACvktxqeyfACesughyrhuqmABBinfxkABCllkitycupACBeenap
+dpvABCwufyoABCkpvdmABBfbcjzykivACBoapxswdkzkpbtcABClfffyflB
+ehlfACBkooxtzfxezkfCAplhpfnkpACBtuffjxysgkfdyoACBouognyskukiABBqxhcrbkyykfBjnvyABBkxfgmABClffodmfAjCABbylbcmABCodbcahcuxlbkfbACBagnoxeACABfsulwmABBclxghABAplftccacAABCclftekpABBsbABdkfkByavpptABkkfxyoABCvtffuirguABsuzfogkcBACysfjyfACBBgbvjpycABCkptyiABCbllp
+
+--------------------------------------------------
+Iteration 30
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 2.0153256/660 [==========>...................] - ETA: 1s - loss: 1.9145384/660 [================>.............] - ETA: 0s - loss: 1.8413512/660 [======================>.......] - ETA: 0s - loss: 1.8393640/660 [============================>.] - ETA: 0s - loss: 1.8170660/660 [==============================] - 2s - loss: 1.8060     
+
+----- diversity: 0.2
+----- Generating with seed: "bxtdmvBAClaoywlrfosylplCABojwzkACBtkfctg"
+bxtdmvBAClaoywlrfosylplCABojwzkACBtkfctgvvdlABColoehvolpABColplhvolBAColeeheotikvvlBBChvolCABoeheeeeedaABBoloeplCABhhlhctABCvljdvdvABCooehehvdmwaACBoeoehctthvvlBCodhdhvolpvpjBBChvplpCABoolhctwvovlBCodplhvuljvBBhhhvllooctABColplCABohhvljvdBBChvljzdkvABColplhdolpvpjzwolhvplBACooeplyeolCBBhclwavooxykpvCBBehoehcstmvCABoeoeeeeedaABCulpdyvllCBBhhlplpoxykpvvjBBChhvlloolwlvovdlpppyABColoehdvlqapvoxyavvolBACvoljzwABCulplCABohhvljvddsppppy
+uolydv
+
+----- diversity: 0.5
+----- Generating with seed: "bxtdmvBAClaoywlrfosylplCABojwzkACBtkfctg"
+bxtdmvBAClaoywlrfosylplCABojwzkACBtkfctgvBBiuljzwauvoBBehthvdlpBACvoljoovdavplACBeolpocctpvvjBBCkfehvdmwaABColnhvdppBACvfljzwvABCulpoxhvvlCBBolhcghvdsplCBBehtnhvvjBBChevljvdqavkoepvjvABColchcdlvolplodzlBCClpppyootxvolwABColghvdlwuACBohhvplpCABiehodkhvtmABChlolhdolpvCABohholhvtfCBBirhcaABBehdepwABChlthvdlwABCotehvdxapqvABBolzepzaACBhhcjvodwABColplteolgkpvpwtABCseoxepwABCclplhvplBACvpjoyodvABCulpyACBhhdhvbdoBBhhvnmsBBCkepvtsraACBolthehvjl
+
+----- diversity: 1.0
+----- Generating with seed: "bxtdmvBAClaoywlrfosylplCABojwzkACBtkfctg"
+bxtdmvBAClaoywlrfosylplCABojwzkACBtkfctghvllhCfBwkACBhezjvdvzqyplvCBBedmvABoliahBcupBCBullhetipvpyACBolh
+utnhvlpBBCoolwlhvplBCCrolcqwACBoxhptevdapAACrotheoABCklpokxwwrACBehghwznvABCkrjhvtifyvlmCBBcgzhavvijkCBavlpegswagbvoxylvpCABChehcqwABohlyovnrhpjvvBBsltepdvCABekhepmvarsompzwABBvolonweoaABClohcABBehyuvCBBcheyededwABCvlfduosgsBrhlllCABehohevjvoqcACBoizyfzwndktnhvkgdghyevjlBBaevlCBBhsolvkfdaiklocedmdkkCAColpvpbwjvCBBheehzjnhvABChtihoyil
+
+----- diversity: 1.2
+----- Generating with seed: "bxtdmvBAClaoywlrfosylplCABojwzkACBtkfctg"
+bxtdmvBAClaoywlrfosylplCABojwzkACBtkfctgkvdmvBCarhz
+getrddtthvikBCklvpekhccwjzwABCkxehsjtkvknh
+bkvbsjajzoxtvlsxfphcslpACAghhelqgkABghlyjzookltevdikfpgsvdodvABBehxspcswspvkCABClfehpsatmkwqppvdCbgsplcasospvsvffepaBCholvwukBkChwtkhvol
+jzvedatBBClzsACBzuhyttxhvljcydsBCznplvjvyxsumydwgvACBausjgzttnknorolyklxvtlCACoteepxphkipoBovdghvtmlCvotirpjhBAklyvlBBekrwifpgvtdBprypkyCgpp
+ayrkpvljzwABCckhnanklABClteovwjrC
+BhehvjxykhvvfeosptvkCBBptnhsvkBCr
+
+--------------------------------------------------
+Iteration 31
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 1.7753256/660 [==========>...................] - ETA: 1s - loss: 1.7751384/660 [================>.............] - ETA: 1s - loss: 1.7576512/660 [======================>.......] - ETA: 0s - loss: 1.7387640/660 [============================>.] - ETA: 0s - loss: 1.7077660/660 [==============================] - 2s - loss: 1.7064     
+
+----- diversity: 0.2
+----- Generating with seed: "cscmpirhzthCABteiwfACBaddqehhltjdkaABBfh"
+cscmpirhzthCABteiwfACBaddqehhltjdkaABBfhdmljBBshdpujbdBBCsodpABCodplycffCABClodpljodoBBrhdmljBBsnysplBACdddpwugsABBehdmljBBsodppsssdyABBehjbgsABBehdmljBBsodppjBBBhhdljodosBACoddljcsodBBhhdlljzdBBCrdxtcsodBBshdpljodosplyABBodoxhcjoBBfhdljzjBBoedmsssddBBshdmwbsbdoBAhhutjkkdmkpppABBoodolcjzdoBBhvjjzwABBoeoxmppBBssdmwABBodhctcmsssdlABCtedmwusbdBBssodxssdmBBsuljzwABBoljzjzjoBBClljzjzdkBACrodjzwABBoeoxepjdBBBhhdmlBBssodcABBoddhcsbdoBBhhdljcso
+
+----- diversity: 0.5
+----- Generating with seed: "cscmpirhzthCABteiwfACBaddqehhltjdkaABBfh"
+cscmpirhzthCABteiwfACBaddqehhltjdkaABBfhxrjzjodxyppjABBoodlwfljdBBCnyfpbxsffyABCptedmABBodjzwctABCkloxsljdBBBpodjobwABCpdooclocspsdlABCldtlyeobBBpsnysplABpsdlpjzABClyepjysdsssktdkfdssppBACpodtcsstmABBedjhcsbgsABBedjzwwakCABoippbxsbfodsslyfffdfppABBodzjzuoxfmspyABBoldapspyABBhcjzjzwxsolxyplBACrodhxmsppBACp
+uudxyalsdjABBeeoiffdsBBstyepjBBohvjmdsssdlABBdddjhasdfsoxyfffpfCABBghdwusnyspdyABBoljzolcdpBBrhdapsgsfodpqBACololjzwABBhdljdowABCsdox
+
+----- diversity: 1.0
+----- Generating with seed: "cscmpirhzthCABteiwfACBaddqehhltjdkaABBfh"
+cscmpirhzthCABteiwfACBaddqehhltjdkaABBfhoclaycsbABBrdlholkfffyABBprmepyaxssnyfkfxrydmBBBglobfebssp
+mydogglpqwlnjsBBfoljmjBBsrdwzapodpBBrdjzwjfBCABekjbbwfABCdbdpxqsodoBpsdlACBhsdopjcbdABCctcatqcyudpdsrjdkhABpuujulgoByodpdrssbydmABCpaqxdpsdsfol
+lfdfBBshdjxavjbBBCrollcdpbgs
+uyjnABBndzjcjodoAByidjbdsABCteneyudBBCzccuojussdyifsBAC
+stnhssj
+xyffppABBbsnjcamBBopogmggowklpppjBBoioyuurdbxfuuiiffysukABCsudpbqsftsfsdmBBpszjzmABBotrdljsCBBdhsiujtxqp
+
+----- diversity: 1.2
+----- Generating with seed: "cscmpirhzthCABteiwfACBaddqehhltjdkaABBfh"
+cscmpirhzthCABteiwfACBaddqehhltjdkaABBfhhulpbACBjzdojzcstkAB
+opjxzABCdmyunfljddgbxpqjABCvlfyiejbwrhghrtcA
+CljzjvfsifBCrajvwuABdpdmxyal
+uszmppkoxpxmmABBektrhedjdugbcstCABovfuuiurghBaawwlpABBpnymdpBBCstjzknqsnkpABBrsdmwbxaoABedzzeeudjdBBhzodploBBAchiddCBBsdoxgnpldsBfollocbkBAsrjjodpABCjpdtiABazhcmjABBthqkamrijdafguhBABeddjpzjcBpsqspbkBBsubjzABBdl
+cwf
+loBsuedxescscABBoddzwjktxyirdABBhhohuullABBrajvjzoBaktedllCABbgozacmosBCcsnxxACBdddildfwa
+
+--------------------------------------------------
+Iteration 32
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 1.7469256/660 [==========>...................] - ETA: 1s - loss: 1.6283384/660 [================>.............] - ETA: 0s - loss: 1.6001512/660 [======================>.......] - ETA: 0s - loss: 1.6014640/660 [============================>.] - ETA: 0s - loss: 1.6116660/660 [==============================] - 2s - loss: 1.6120     
+
+----- diversity: 0.2
+----- Generating with seed: "rbCABbhdcildkhpggfhvACBigaohcimsdfslaABB"
+rbCABbhdcildkhpggfhvACBigaohcimsdfslaABBodzwzahaolwABCodlwuqwABColtamkjdBBCcqazmABBodljzwzABCvljdkhCBBhtilldaABCtnykfnyklBBCrocaamsodpACBeedmwaABoedmwaawdoACBBedlwaABBehdmlwaaholhqvABCodplqazaodolCABoedlwaaaodpABColldmwaABoedmwaABodlyaplCABCkfedmABBodhqslmdodBACABedljzwABCuljdhhillqvABBoddaplwaqahdolCABoedmwaahdpABCodllwamdodCABCllyamdodBACvdljaaBBehilljzdvdqqqppBCBdhdmlwahdhABCudllqazyodBBCrhctlqvpABCodahqctwACBoliflwaaBooillwABCodllwa
+
+----- diversity: 0.5
+----- Generating with seed: "rbCABbhdcildkhpggfhvACBigaohcimsdfslaABB"
+rbCABbhdcildkhpggfhvACBigaohcimsdfslaABBkelyakfCABCuljdhvdqqppkyABCedlwuqaACBoddhqwmwdhvlqqa
+CodxynACBBeoliezwaahvABCododhqwtxqvdmdjBBCplyuffCBBrkialjzwACBhvliltaqavABCzfptekikBCBACdmdpBBCvfylqCBBhcilyapssdqa
+qyABCodlyelmabdwABCodfdaABCctqanyvfBCodhaeljdodpqqqpACBooljztctvABCbljzyfvdmABBodplqahaodlABCktedkdppqqcqp
+CABodlfljzBBCtifjdkvitqqpvCABouifywagkvjvdBBBsnlmrzwBAClydlACBBndlvjzwABCloinyapBBCzhcmlBdbdjaCBBhrniljBBCchtqqvdkbfBCBhkifj
+
+----- diversity: 1.0
+----- Generating with seed: "rbCABbhdcildkhpggfhvACBigaohcimsdfslaABB"
+rbCABbhdcildkhpggfhvACBigaohcimsdfslaABBorogwlhACkthenylbaBBCdhqtACBttdmdwireyaqkmqBBCnwamdstkesuodilBACvdaoaCABkhilnhdvpaBBehgnahqulfkCBBckpa
+qgabcocqsgmojBACnfdkwCABieajzsABCudlhqky
+unmjBBCntakvdfvfBfCzABokfqlmdoaBACndtcABCzljdacmbBBBdljhabdzABCzdeoigpsdxycqvACBBsghthcnljrxyffpdwCBBovjbndttcsnABCtqelydkACBzedklqehqutpCBBadswwaghBABinlnrdfCABokilyxaqaljoxABCtncbljwutcsprxABCzufdtshqzACBktzjnklABCztrnhriljdvwqkhvCABCclsbvdggBBahkfndtrfy
+
+----- diversity: 1.2
+----- Generating with seed: "rbCABbhdcildkhpggfhvACBigaohcimsdfslaABB"
+rbCABbhdcildkhpggfhvACBigaohcimsdfslaABBfteoahshlABCfnulgdwBgodlauoddtxhvyutqcvlujofasCABohxmprgsaCBCdleknqsABBuifindutcaaaxwwknmwkBCBApnqepjdBACnktnrkpqetzABCflnizwfdpwqkiACBtiftqka
+dgkCBBsulligacdwcmhBCalihamaoghaphykfBCollwanokwkxgnqvdBBdhelymmBCvidBhcnfykfCBBjzhaqkpdBBBijdniaqvpyBACzontqktmzmfCfBjzaBBclwazlfddwoBxyulmkfBCbnhlmABBsryfoebdohqglqoqxpmCBBjnolifodaqqplmokiflvCBBdroubdaACBnzocqkfovjBBBht
+lkqqajassydsqedmABBghyijzBtilthkAB
+
+--------------------------------------------------
+Iteration 33
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 1.5531256/660 [==========>...................] - ETA: 1s - loss: 1.4291384/660 [================>.............] - ETA: 0s - loss: 1.4415512/660 [======================>.......] - ETA: 0s - loss: 1.4682640/660 [============================>.] - ETA: 0s - loss: 1.4592660/660 [==============================] - 2s - loss: 1.4540     
+
+----- diversity: 0.2
+----- Generating with seed: "zbnhgitbABBenbmycbfvCBBsdvorbcnxyABCkzeu"
+zbnhgitbABBenbmycbfvCBBsdvorbcnxyABCkzeuedjdaABBhhzehedmdBBBhhctcmkdkaamsoddttctkCBBeheoedmdbdbABCkhedmABCztehvdmdbwbABCodhdhtikfddABBeheeedjzdxqqhvdABBhhdhvjkbddhchABCotnhedmdbdbABBhhehiffddxhqqACBBedheedjzaABBhdhctmkkdkfxykfCBBeroeedjzjdahahABBehehekfkdkBACvdtdkhakABCddthcthkkfkxykfCBBedjzehekffzdABBeheeedjzddaABBhhtehedmdbdbABChehdhtikfddxqckpykfBBCctedmdmrbdpABCzhedtzekekfkfkykABCztnknkedddaABBhhedmjzdxthqkACBetzeeedjdddhqcABCotehed
+
+----- diversity: 0.5
+----- Generating with seed: "zbnhgitbABBenbmycbfvCBBsdvorbcnxyABCkzeu"
+zbnhgitbABBenbmycbfvCBBsdvorbcnxyABCkzeuedzdxtpvmdoBBeedmdjzdABCctzhekfknqmpBBedjzhc
+tnkekxykABCkfedzhcttACBBtehdkfakaddghBACvodjhdkABCkdehtctzmrodxABCktehekjfddgaABCtnhknktkfkdmABBodoxtctzeoddmsbkthccABCotdkptkekidkABCctndsdmdrdpABCzhedkfkdkaBACctedmdjkaaktpvydkABBeheoeejzdqaABBdhxhhhktmkddkABCktehekfkddBACBqednhctmdzthqwABCutfdedjzaABCtehdtinykfBBaheodboztcmkfCkfpjACBetzhctnkkzxykkpykffC
+BeezjzkABCztfknkxknkghBBeomrzzffzdxatqkvCBBtcth
+
+----- diversity: 1.0
+----- Generating with seed: "zbnhgitbABBenbmycbfvCBBsdvorbcnxyABCkzeu"
+zbnhgitbABBenbmycbfvCBBsdvorbcnxyABCkzeuudtakfhdhdtffCABdblfbroBqktkykABBbtekedxfadsisfzdccdmsokfkppyfdfdahqoxCdethqntckzABCeztakdzwxkksCABCtperyezfBdkfdhhcllvdtxsnykABCutcdosedtwAACBedhhuljddwzhcmhCBunyeljzuABdhuxtnmkvkBBAClodpvfjzdsfyfflCzapqdzACBtcgzdtchvdmrsbdspycqzACBtthtnkkkBqedxszkBBctinyuABBoehodmABBddhcxqaryodkhaknABdzcttknyktakaddwABBeeeedjndcABBeodehthctACBBhzynhkkdBBBaedzjhnytnkvkaBBrodzc
+eybfbdzifACBfedofhAClzdthhcajkaaBAjn
+
+----- diversity: 1.2
+----- Generating with seed: "zbnhgitbABBenbmycbfvCBBsdvorbcnxyABCkzeu"
+zbnhgitbABBenbmycbfvCBBsdvorbcnxyABCkzeunkfedycABBdhnxmdmnyrxppdwswxvzBBBhjmztbkdexhcfffyff
+ckfBdetmABCddlduoqaamszqxdvABBnbkpdxudmraufsddcscmpqsbddibfbdCABBtoeenhedfggcacxvyxspkykkfABCrlttfvkmakffydkBCwccadhvobcthnhcnmkfykfppydkABiudoaezzfudjbdhBBCzhdddqapquxmdzABCloxekaxskjxtchqkACBtmljooxyezqhhknfmdzytCABndzplhdttmsbktrvmABBeotrhtidzfACBtnehmabjvfAqkhvdtaknhACBggdakhhrtzffdkddhahBCAeolnevjBdwkqvp
+dhxnirdzycnrCaBrzhhhtnkrkBamsndaiasxh
+
+--------------------------------------------------
+Iteration 34
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 1.4565256/660 [==========>...................] - ETA: 1s - loss: 1.5006384/660 [================>.............] - ETA: 0s - loss: 1.4607512/660 [======================>.......] - ETA: 0s - loss: 1.3957640/660 [============================>.] - ETA: 0s - loss: 1.3904660/660 [==============================] - 2s - loss: 1.3974     
+
+----- diversity: 0.2
+----- Generating with seed: "BCkzeufkkjBACuqedvz
+zlcxABCnrgjvBACebdyj"
+BCkzeufkkjBACuqedvz
+zlcxABCnrgjvBACebdyjhooimsomsoooimsoooilhammwooomsoooilhvmmsooxhcsomoBBhhholmwmwooolhrhABBhhhqmlmooxhqmhmrooilhhhABBhhmlmwoloABBhhhctmmroolhhhlmwmwooolhsolmrooilmamrooilhhvlmwmsooosklmomroommsoooirhvmmwolwamoooghvomABBhhhulmwmrooolhhvlmwmsoooiflhvmABBhhhcthmoloommmrooilhhvABBhhctmmwoomABBhhhctmmroogmwomwABChhhctmmroollhohmrmwoloABBhhhrmmmrooilhhctmABCrhcmlooilmwmwooolhrolmwmwooolhrolmwooommrooilhhctmABCrhhcmlmooilshh
+
+----- diversity: 0.5
+----- Generating with seed: "BCkzeufkkjBACuqedvz
+zlcxABCnrgjvBACebdyj"
+BCkzeufkkjBACuqedvz
+zlcxABCnrgjvBACebdyjhwolmkoskffCABrrhqctooolmlooormsoooikfhhirqppmABBohhhbkjmrormABBhhhunmmooolhaomoABouloocmwomomsbooomsrooirhhclwamsoooisssnykABCsljzwcwomoooillhctwmrooilhamsooomrhvlmsosoxhvmqsABBohhqmmmsosolcsomsrooighhhABBhhqmlmomrsomssnysfmoABrhhclzooctwmmooollhvlmomosbloomhvolbsolhrhABBhhqmroommloohcghhxtmvoxssfooirsbkocamwooBAChhtctthvomABBhhqghvomwmwoooisrhhmlqwmwoorosknhvrmroBphvomroochvmwBACoghhhxtmmrooilhh
+
+----- diversity: 1.0
+----- Generating with seed: "BCkzeufkkjBACuqedvz
+zlcxABCnrgjvBACebdyj"
+BCkzeufkkjBACuqedvz
+zlcxABCnrgjvBACebdyjhkirqthqlhoobmwmmssnlwamwomwlABohmoposodykhaABrhuqutl
+uuabculswmABBhrmrocct
+woABCvklhamroxigsctamwoqgoooiirskkakvlqbwuoolshzhotmABChgxshtwsnmamrooxhkowikghlgsoooikhvdmwmwoxwhodoABBoniatoxtmvABosnyzmmkwoghvhyqlxyonmsovoACkthhvkhCABouohccmlyoommsuoskACBwzhhrhtmlooimsstCABisnhqctwmACBruhqmlCBosilqckooirshhiqthvhigABBhhhculmuoishq
+znmsoqrhkllqhtACBhljhctwmkoozrmooBishxhirbmmwuomshssnmnrmssCABhhvpmmroo
+
+----- diversity: 1.2
+----- Generating with seed: "BCkzeufkkjBACuqedvz
+zlcxABCnrgjvBACebdyj"
+BCkzeufkkjBACuqedvz
+zlcxABCnrgjvBACebdyjooomsqa
+uoocamlocohpvmmCs
+rwwzhvoyblomklsozhmtbnommABClnhrxhutqdmamoogmhcwthcspproomhwutnmkACbolthkrowlmomkrsoqwulo
+AhruhaxromokhthrndmroABcnroghamswohoqlhhaABpfjzoctktABvtiqszw
+uroohaAgohhtwlhdklgssfopABCottlhvvbCABBghcwmkhoothmjoxsmrBCwlspvoigqarysnmooqrovwBonylvodsomkphvbmoBACogzhcaomomwoxhmkvbBmghrhcswmACBfoixeezmtxsomwrsbmwarhonhvtssmkACkrhnyzmjsoowtkhvlmobwolmmwagoommtxsootirtfmkjrdwtpBACteo
+
+--------------------------------------------------
+Iteration 35
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 1.7078256/660 [==========>...................] - ETA: 1s - loss: 1.5344384/660 [================>.............] - ETA: 0s - loss: 1.4482512/660 [======================>.......] - ETA: 0s - loss: 1.3563640/660 [============================>.] - ETA: 0s - loss: 1.3206660/660 [==============================] - 2s - loss: 1.3269     
+
+----- diversity: 0.2
+----- Generating with seed: "lofmjkBACrqziqezimCABdtifhlACBttykyikfxy"
+lofmjkBACrqziqezimCABdtifhlACBttykyikfxyqppxyABBoljaudxABCulmamrzABCuljazwxABCulpamrzABCulmamrzABCuljazwuABCutpqqt
+qelpABBuljazwxxpoxykfpvlABCdlwamwuABCulpaxyuABCrrpaproxctpABClljzzxekxxplpxyABCrlpamroxmrzABCtlmaprxABCktpapdxABCttfkedmrbABBbdmaproxctpABCllpamrzABCkfpaxyuABCulpapxwABCulpamrzABCutqamkxxpppABCropamroxmkpaxyppBACrpppxyctxyolmaprxABCutpaxyuABCuljazwxxppxypppyABBoljazwxxxyukxxppp
+uopzyctpBBotifedxctamvoxpppyABColpamrzABClltah
+
+----- diversity: 0.5
+----- Generating with seed: "lofmjkBACrqziqezimCABdtifhlACBttykyikfxy"
+lofmjkBACrqziqezimCABdtifhlACBttykyikfxyqapouuABCulmdmapupABCbdjthvulmamapbpABCulmamaudpABdklmazxxtxkxmpppbABBotiazwuqtABCulmamrzcaxyxABCklpaoxtwmkuxpABBorjzeredmABCztqqvdxxpABCuljdhvplppbABBorjbztcktxyrkpxyppBCsspljdtgqvpy
+updyxtpppxyABCulpaxrzABCulmamrzABCkrmapkudxxspmACBfljzep
+xgppxyABCvtpppdxcuqxyukfxyABCstftedmxqqppyxyfkxyfkxCABolptehedmABBudaasgzwxxtABCvlpsudoxytpqqkpa
+rwABCuotahvABBstmsekjxykfpvymABCbtfxedmrjABBrrmaprxtikpxycpp
+y
+
+----- diversity: 1.0
+----- Generating with seed: "lofmjkBACrqziqezimCABdtifhlACBttykyikfxy"
+lofmjkBACrqziqezimCABdtifhlACBttykyikfxylaxoujqshxmuABsktmrqzeABdylmjzkBBirjaavopgqpvjxyukyrplABAerlcuzjzxtpkxABAotifpdxykfjzumsdxsctpCABtrmjzwABxswmrxABroltehqxcmdpdcABCokpayqlctkffeyyxpABButfaudlxaABBrhqghxwuxodxtqxytfmwlpspjydxpqacyuxyrnmrpcjABBakmxprxtimsrjzBACoylBdodhwulpz
+azjzwxxpxyxlpkyapppx
+clzpv
+udABCttnhkkmCABepljoz
+xxzzhxtpABCotcqalCABxkrmxjvyaumjpBCpnvdpcjcwuxyotxm
+bwuxtctp
+qoABBhrzlmowxaxmudpwuxaABorlmazjzaxezffotyjzjookppp
+
+----- diversity: 1.2
+----- Generating with seed: "lofmjkBACrqziqezimCABdtifhlACBttykyikfxy"
+lofmjkBACrqziqezimCABdtifhlACBttykyikfxygmpoxmpyddmpvpiBCheh
+bmxtauljnBsbsjsykfqvpABButgazhoxtterjABxxahqxABrulqapbwoinpgxhvalBauooxpABCwlxtavvoxxqktyxvABCctwakuunxsskmybmpBbnumkpsmvpBpwdaABClfapyxsdmcuABCzbfxtkfkrmmABonlyroxyffykmfABBrtcnpuidlphatqvtarcABChlpufoxqgppxxpnyCABCcAwxapodoABCsnmm
+sxyqaxtgxmksxvppABczhhtgkpoggppryufpxisfmdhBgmbukfaCABrkjauuqmACBausnmxsdzmxppxyABfkflmkwxxxpwxjvpxwfpplCABclfxw
+ahrigtkplympBAbkfpp
+xycbpodmtpppA
+
+--------------------------------------------------
+Iteration 36
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 1.3307256/660 [==========>...................] - ETA: 1s - loss: 1.2097384/660 [================>.............] - ETA: 0s - loss: 1.1627512/660 [======================>.......] - ETA: 0s - loss: 1.1587640/660 [============================>.] - ETA: 0s - loss: 1.1291660/660 [==============================] - 2s - loss: 1.1261     
+
+----- diversity: 0.2
+----- Generating with seed: "eomtjvCBBdflfkdzmwABCjhczxmrau
+csbnyvABC"
+eomtjvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCrtcamwwaosplyffCBBrrjbwmABCrltahhvljBCBqkhyklpCryuljCABrrljzwzwxtCABirljzzwctotvtifCBBrtifyujkdxhqqvp
+yCABCteoxyctpCBBiljzwcwoxykfpvyqpBCBcuojzcc
+aysffCABrrjzhcutCABrtifjzyctfCBBirjzjzwkxtikpvABCrjoxyctpCBBiljzzcctBCCtqehirjzyABCktekjvksiffCABCljoxyctpCBBiljzwcctxygtpCABCrjzjzwkoxyqppq
+q
+
+udoBBqktehuljdkBBhhvjmdsspljcaBBCrjzjzwkxyqkpCABClljzzwctoABCrljzhcutCABirljzhcttBCvtjzykfBCktpqqt
+CBBehjzjzod
+
+----- diversity: 0.5
+----- Generating with seed: "eomtjvCBBdflfkdzmwABCjhczxmrau
+csbnyvABC"
+eomtjvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCrtpqqsoxyttftvvjBBsijoxcct
+CrtnhvpmCBBskjzxhctyACBrjzjhvwABCkfpxyctCBBtifeirswctcqap
+uorBACljdthctlCvttifydkBCkjvdmwuqwABCktpdxhcutxskkfqvpsdssfdppACBtudoxwchodxsptyqkpvkjbBBirjzjzzwotplvjBBCrjvdmaBBohjbwutCABirdpplCABCctthhvljABBrhquljdoBBthqtnmkvlCABCbojbxscmwBACljdayctpCBBqeeojzccwABCteejzwckpaCABieouiezjcatahvljBCBsndmsjBBftilC
+qrcjz
+BCrtinyaABCrljzhculCABirjzyctpBCrtpqyujBBCttqmvmrsrjABCktpxy
+
+----- diversity: 1.0
+----- Generating with seed: "eomtjvCBBdflfkdzmwABCjhczxmrau
+csbnyvABC"
+eomtjvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCktjxseojodsppyCABCtnyknmrruidkpv
+q
+ACrtlfhxtvrrdcABCkhfxhqerjdBtoqtnmkudxspqqc
+oykftirpqq
+poopkfCABCrtqahtclodykfCACvnlajzdowtgABCAtirjzclcttakrytaCBtnloezytsnysikBCcjqaxwrBBCueoxyctmdvylssCABillcqaywsoaACrkljhxtcjvdmssfmzjCBBocjhahABBehjqktxkvlCABCteoyqhrrdilssiyCABjrwutnhvblCABfhroirqcsfsyffCABCklocwccwaBBhhiilyhrqtcvogyswfjvkirrpfjkjoryxfmCABjelmtBchtwmkjvdptqCABCujtxyctpCABiljzjz
+
+uutqdvmABCtf
+
+----- diversity: 1.2
+----- Generating with seed: "eomtjvCBBdflfkdzmwABCjhczxmrau
+csbnyvABC"
+eomtjvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCsdqaqctwcoxpppABCruumjbxwABCivmjbcspqCABrtttnyvbxsiljCcBchctqmrxhfrhACBttnhvmmsbtsABiultqh
+yloBCbvtjqtxhvtACCtpejecswCABeljzwABCrlqamwwaoABilljznmzxlCABClnaamsza
+ekmrvjctxACkeplyajBBernmpjbssdnxapvbdBACutnlmrwakoxhcvmCBBctcqwtwABxysulioqcqkACBetqpcauroffACBqrnmsrsbtpBCkinmurxwutpACrgttnhqlvCrBqthActezyuqljABBrrlzipajdqwtflwvoCBBrkjbososxsfCABnilpyABCkjvywca
+CkvljvvBsCcjzjznzndxwuroqqrp
+uilBBisbljz
+
+--------------------------------------------------
+Iteration 37
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 1.1184256/660 [==========>...................] - ETA: 1s - loss: 1.1440384/660 [================>.............] - ETA: 0s - loss: 1.1520512/660 [======================>.......] - ETA: 0s - loss: 1.1177640/660 [============================>.] - ETA: 0s - loss: 1.1172660/660 [==============================] - 2s - loss: 1.1040     
+
+----- diversity: 0.2
+----- Generating with seed: "xxqykxABBhljrzwafoCBBihevvjifyABCzdpcoxc"
+xxqykxABBhljrzwafoCBBihevvjifyABCzdpcoxcsodxABCktedmdpdpABCcopdxwctpACBBezinedzwaABCoeodpppABBodoxwctptykffCABBtezjzedmABCodpdphdgtppykABCrolptpdodptifpCABBtzhqtzmkBBCrjzzxctzABCktedmdpbgABCbdodphhctppyoxpppppABBoozictctctoxykpBCBBoozighctcqpvABBrzifedxwctpACBBezinezjcBABhudmbbsbdbABBhhdmlpBBhhctppyoxpppyABBdoljcwxABCvtlctzc
+udxypppACBBodoxhcttxyukmCBBododpppdghBACvjddwaABCctptykfxykfpCBBsuoxmrhctlpvpABBodoxhctctoxykfppyABBodpbwoxpppygA
+
+----- diversity: 0.5
+----- Generating with seed: "xxqykxABBhljrzwafoCBBihevvjifyABCzdpcoxc"
+xxqykxABBhljrzwafoCBBihevvjifyABCzdpcoxcsoxykfpdypppBACoooddhwutgABCktpdxyudmCBBsdljzhctABCktekjzddplqpp
+CABBezifedpcqapooBBeoljzztckppykppCABgddphcwoghABCljzdmwuACBBhzinyezjcayuuodBBClodahhctqtCABBrhiilbdpwaABCodplydppBACcolzapodxtppykABCsolztcazoxolplzdBBCzhctwmkoBppppABBoozictcqwxtodylpACBBoddhcuogwahxhqp
+ujzdBBezinrdzwxqppykpBBCstedmwbkpABCsolctcABBeriljzwABBhnilpdbdspCABbdolcspdyABBhzinykpbdocqpppyABBodpjbsodpABBooqacsoodxhpplyoBBC
+
+----- diversity: 1.0
+----- Generating with seed: "xxqykxABBhljrzwafoCBBihevvjifyABCzdpcoxc"
+xxqykxABBhljrzwafoCBBihevvjifyABCzdpcoxchvdgpBBChodxmwhvllCABolzfnieBBBbuumxmsBssulmrxsttAkkrnABBbdkpqhwtABCgtonedswj
+arycjkaBACrodblmspxyABBtvbbjjddohvtABCCz
+aykwbgwuACBBuzzgkpdaxsplysfCBBsujzuABBbdljhhxthqmABCrdlpvpjBBCutudmthBptfykfxrsbmjBBshdxqh
+uolcsutirbdmABBplmaABoezjzghvjnppp
+qspvdoBpkndmspBBAqeomcotgqehmABBodolxtckwxmrpogiljdoBBqtzfxxxmomppppppoBoCothaudodBACp
+amc
+uudmABBblmtaABdxwutqABBdljdmwwxhcgpyapABChdpayylpBCC
+epz
+ezdABdl
+
+----- diversity: 1.2
+----- Generating with seed: "xxqykxABBhljrzwafoCBBihevvjifyABCzdpcoxc"
+xxqykxABBhljrzwafoCBBihevvjifyABCzdpcoxcq
+tydzABCkpedgwxakakABBezjzmlCABjkzanarudxABBezepujodgsppp
+ubdzyfffmyAxBupmmmsvsjzspydmACBBnrdgghABdhlybjtBCbrybmsBBCrjzwxmkpBxsnfdzamxwxyCABysn
+szdmwbgqpykABCeynpghzBBnhwigghvqtrjzwBCBfuokxtcsuddBBiloxightpcqc
+proyfnirpCBBepjdxhrdloBBCdtwlhtifBACBqknxszlmxpBACryebmsbrwaqtphvolBBCdawulBBCnyalBACutkmmdgsmlpCACBocaztzamxyABCoqphdtgmphxACBdzjbghABqqteozljCBBbnhmrdoBBahvptbdzjfdyABCBcquxslABBrzzwuknxy
+
+--------------------------------------------------
+Iteration 38
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 1.0456256/660 [==========>...................] - ETA: 1s - loss: 1.0080384/660 [================>.............] - ETA: 0s - loss: 0.9722512/660 [======================>.......] - ETA: 0s - loss: 0.9595640/660 [============================>.] - ETA: 0s - loss: 0.9819660/660 [==============================] - 2s - loss: 0.9741     
+
+----- diversity: 0.2
+----- Generating with seed: "rjwyklgvtfBACcscmpirhzthCABteiwfACBaddqe"
+rjwyklgvtfBACcscmpirhzthCABteiwfACBaddqehctfACBBrdoxhcotiffyxyABCrrljzwzABCrlltctzdoBirlzjzkdBACryufmdsBBrhvjmroBBhhvtmABBrryutndmsCABdkhehqtctvABCrhxtnkvdBBrhvjjzyfffCABrrhcmljodytfvCABBrhcjzyktxykfCBBrrhctctodytitCABCrtunktxyvlmdBBCroxykfCBBrhtinykfCBBrhvujbdyABCrooxmrzwABCrhuinysnykiryyABCryunmkzCBBrdoxctodoABCkeoxykfdxyfkfCBBrrhcttctoABrkifdzwxtnknCBBrrhctmABCrtinykABCrkfxhvdxssfydkBCBrodmwzABCtrtinyvABBrhvjmkBBCryuABCrdljhvoiifpyyA
+
+----- diversity: 0.5
+----- Generating with seed: "rjwyklgvtfBACcscmpirhzthCABteiwfACBaddqe"
+rjwyklgvtfBACcscmpirhzthCABteiwfACBaddqehsdmABCrdoxykfxyABCctlnhvbdbABCkfnykABCrlljzhzxtCABClytzfodyBACkfdxykfkpykfACBBrotiktxyktmvCBBrhhhmmABBahyltcvodiABCkfxexyodmABCrdlwakddwlABCkeedmssdmABCrkoxyktiBBCrotifkdxyvlmCBBrhhcttkvtirsnykvyCABCrhzunkdxsskyABCrrlptcsodxysfyCABrrolctzABCktedmdsryABCghtifddyarqlhCBBrhtinmsBBrrhctABCktyknkvkyxspCABrhepjzoxytikBCBruljzzABCtrdztckkxyrkpCBBoroirdzABCkflxykfCBBrhhuljdayaplvyCABghhxtnkktCBBrvpjzysff
+
+----- diversity: 1.0
+----- Generating with seed: "rjwyklgvtfBACcscmpirhzthCABteiwfACBaddqe"
+rjwyklgvtfBACcscmpirhzthCABteiwfACBaddqehedaABCnytnhkiryABBolykezydaABCtgsnysvABCqotyAeddtbwytphCvBirdoxycjzBCCrlljc
+uifCABCrzifjvwdaACBkxynABCaytnfkvpbjbbsfyCrBqehudjdawapsgyvptgABBoeojzuctxytknCkBgrzwmkoxyllCBBrrdhctwABCtrsnmspkiABCztnknkrdxqpqqvpurnxsoddBBfffxteztqctCAB
+rzinrzxctktkdvdCABCrhelykxyzdpCBBvroiirzwxctACCryunrtzkvCABBdkptyeduxykrCABorcamrodihhtnACBBriplqwzqsodoBBirtinnvfmssCBBjhxoq
+doABrvljzaACBrzwmkpmdxspfyoABCsrlwxhvdBB
+
+----- diversity: 1.2
+----- Generating with seed: "rjwyklgvtfBACcscmpirhzthCABteiwfACBaddqe"
+rjwyklgvtfBACcscmpirhzthCABteiwfACBaddqehzcACBBerowxlxdvigsbnyxykkxCCBolyxwtAvCABgndlxcctxyrsnhABBrepqrobakthvtCBBrplymxBCoqtzhctlBBiehqcABBrhnjtcvdlBqkhykfBCCwhcolhdctptikkCBBrchqjhodoAByflxtCdBsnrhdjvBABhhdjzaABBrajrjzABCtfngmkBACjukgfCBtuljzwuolyACBevjzoc
+
+qpvbdskhkikvCBBrrBtqcvjdBBaktkBCBroiftmkzknmtCvCpjugovBACtnljvmjBBqACnxyfjvdBBirdwxqpcmABCrxhqrtxdrhirpABsltnqqvBCktpfodCABrtyfuudxABBfhhoxtBAClyllC
+kgxtACBiiryzsfdoiispvy
+rskhdCAB
+
+--------------------------------------------------
+Iteration 39
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.8714256/660 [==========>...................] - ETA: 1s - loss: 0.9057384/660 [================>.............] - ETA: 0s - loss: 0.8633512/660 [======================>.......] - ETA: 0s - loss: 0.8440640/660 [============================>.] - ETA: 0s - loss: 0.8344660/660 [==============================] - 2s - loss: 0.8397     
+
+----- diversity: 0.2
+----- Generating with seed: "CBgcotcmwzrojvyABBapsijzCBBnfvapruffABCw"
+CBgcotcmwzrojvyABBapsijzCBBnfvapruffABCwujoxyqkvCABpkdxhcqqqvoBBrkinyktqkvkqCABodliahcwuqCABrkifeerjcbwxhqkikCBCutfxhqkACBruifxhctACBkinystndvtqqp
+
+yopBCCtpnykpBCCrqah
+unnCBBrdmwhcttCABindmrqctgqCABCrdxhqctodilpq
+knkBdplq
+uooiilqvvABCtzhctnmkirqqc
+oxyffCABCknyazjvdxwqqpvCBBrhxiirdocqqqqvdBBirjzwctkCBiljzwzqvCABirdiiqedmwBACkjkyaACBrunirzccttCBBinykppvdmABCodoxhqttikiqqqc
+oxoifpCABCkjzhcqtmCBBrhiilqctctCABirdiilhctqqqvABCrdxhqctodvlqqp
+u
+
+----- diversity: 0.5
+----- Generating with seed: "CBgcotcmwzrojvyABBapsijzCBBnfvapruffABCw"
+CBgcotcmwzrojvyABBapsijzCBBnfvapruffABCwunxtikvCABrkjzhcqtxCoilpp
+ykfpCBBrhcathctABCkilyazjvCABqknehqcwxACvolicazwctgqCABCldtifhviqBqhhcqpvkCBBrhoiinykpqqqc
+oCBBiriifddvwqqppvyBBCkjdkwqqvjvdBACkfxxqezjABCknyapvjoBBhknmvpvjABBhvjmrwhqtikCCBBrziictcqctxCBBirjctwACCtplyaimCBBqhhxmppooiilpvCABbdlpwhhctiqvpjABCrliinhcttqqpvysdppBACootinhctiqsp
+qp
+uooiirpABCknehhcjbBCirpvqwukodirpqCABooiinyezjACBgtnytnmkiigqahvuqmCBBodnispqdtqqqvpCBBrkifyehxA
+
+----- diversity: 1.0
+----- Generating with seed: "CBgcotcmwzrojvyABBapsijzCBBnfvapruffABCw"
+CBgcotcmwzrojvyABBapsijzCBBnfvapruffABCwutjzuiikdCBduljhatiipACBboghccjzhooiikppycjpABCrkiadxheilqfhvbABCzhekigekjghqABCroiirzctcqpABCrluiqctqxhilACBdtzzhqtvmxrqekCABqhxmrmrstqnctmkBirjzavdtaitcnyeBCCBdkdxhhkdmvbggwahhvABBkujdhwilCvBqtihdtABClnihrvdtqqhvbwBACroairycfzCABotifehhrtcqwaxwufCABrfoiurocehqABBktiirdxhqthqxtikfCABClpzimkvdppABCkdxaqh
+igmsykfkCBqezjxyltcCvBipjnycqp
+qkpmyoipBBCrhcilptzctCAB
+rbpmwvjodykfCkBqkpwkwavwoiCABdhhqqqv
+u
+
+----- diversity: 1.2
+----- Generating with seed: "CBgcotcmwzrojvyABBapsijzCBBnfvapruffABCw"
+CBgcotcmwzrojvyABBapsijzCBBnfvapruffABCwnxhABCvlgazhculxsABCrrfxqpvACCtnnhkikCxyujBCClogzh
+CkBCcgwhmkBqekirxmxqxhojpCBBirmwABBoeoie
+
+unktrycABqolwxhctCBBnrhipqqvysfgd
+vp
+qrhvoeBACBctthctABCbnfcakBBkdmhikjvdhqpACBouozmctctskmdilpCdBplABCrtiqqvBACznppknykidyaABCcdcwahctqavCABbdohcctwkvotisqjzw
+kfCvBwminsCtBikdhqkACCrkiahCABqhxiiqqtyanxsp
+xirjkoxygqACBoezdmtrCsispiricqtc
+eojcjzxBqklmk
+ailwxhvtdqgmqCBBvziiedzwagkhiABCktxhetiABCxheoxykvirkhe
+
+--------------------------------------------------
+Iteration 40
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.8969256/660 [==========>...................] - ETA: 1s - loss: 0.8656384/660 [================>.............] - ETA: 0s - loss: 0.8251512/660 [======================>.......] - ETA: 0s - loss: 0.8184640/660 [============================>.] - ETA: 0s - loss: 0.7780660/660 [==============================] - 2s - loss: 0.7796     
+
+----- diversity: 0.2
+----- Generating with seed: "tykyikfxyngmABBityyvbhtinuqasCBBeqdxwvjz"
+tykyikfxyngmABBityyvbhtinuqasCBBeqdxwvjzwABCryufCABirepjrCABrheprjbkBACABerzirktaqqp
+Crolftpvpqq
+
+rzzfCBBxhqekjdBACryuffCABCrctzyABCrlptCABdrlpp
+auABCrdpppqjzBBCrjzyACBBireerjzaACBheoeprdbABCkfedrrCABCreoirdztqqvyABBrhculjoBBrhvplgABCkfedrhutmABColptrrzABCkeeyrrjdBBiryuffCABCreoirrztqqvpCABrolzeprdxABCkeeyrrjdBBiryuffdxsqqq
+
+roz
+qkABCrrpq
+roxprpABCkeedrhaABCrherlparyulCABrhepljzaABCkfedrraABCreoirrzABCkfeprdwtghqCABCleeprjbkaACBruoerzwa
+
+----- diversity: 0.5
+----- Generating with seed: "tykyikfxyngmABBityyvbhtinuqasCBBeqdxwvjz"
+tykyikfxyngmABBityyvbhtinuqasCBBeqdxwvjzwBBCkeezABCktehqtpryirqsp
+uroBBrkinrzzpaxyprCABrolzhctfACBquoeeezjABCllyunkACBruoerrzctpACBBrhzeljzwABCptykfkCABrkiprgABBgheerruikgqvpvrBACrolykfCABirezfACryulqavCBBhhepmABColtnhhvABCkctykrxyrkpCABrilptprbwmACBBeezepedmABCooezepudmABCuoezrcskmACBBieerrebgABCknarrdpBACvolisrdvABCsnykppCABrhcunmrBqpvpABBolzezjzutCABCroenyspjyCABCrnerzABCkfezwABClqqc
+arrzfCABCreoirktghvbABCseoxerjABBhreilrjzBBCljzzAC
+
+----- diversity: 1.0
+----- Generating with seed: "tykyikfxyngmABBityyvbhtinuqasCBBeqdxwvjz"
+tykyikfxyngmABBityyvbhtinuqasCBBeqdxwvjzwBrshedmACBBghnzrpbkABCvpjmrspnykfCBC
+rrzzfCBBtrzwzjzoxirprykffCxqrhqhrdrBBsnezepjzwABCctpnqspCABrnskrdrBACroyerypBACrodplCABCrdutehCABrknpspq
+uq
+unkfBCxyfzxACrrliqpABCrcitycxpxycuxCABxrpnrkppxAC
+eeirrwABCknpresjkgxyhvjqBCCrbf
+rjzwABCltehrrBAChcszjABCterjzaACreunkspkACBsutyfkACBrzierjzaACCp
+gygzupCABCrdppqwbgpwyxfpryskfCABBrlzeptrxxpqyABCrzuikfjvBqacjzwxsptxhfoimrjhBfnmnrCABxtchvACBbuonrqppBqCrocb
+
+----- diversity: 1.2
+----- Generating with seed: "tykyikfxyngmABBityyvbhtinuqasCBBeqdxwvjz"
+tykyikfxyngmABBityyvbhtinuqasCBBeqdxwvjzaABCoeelsppABCulqshrtiigqqp
+uudlABprfyfgkaCACunptgrhBxqp
+sforfydspsqCABCrdptmrvajBsoiekABCbrwACsueoCABtroerjzgsaryolCACunamroryffCABBcoertzcqwABBevypbgbBBChrulmrBCBrhxerjoiiqqt
+qvprdrABCpjnyvrxyABqvpfgrouqppxyslkoxxprxyshnlmsCABobgaplhBrqnhCABBctzjtazdtmqqBCrlpljoairpyABCkeoyutftCvqgABCrtep
+ujzfxpkpyABCctontrzbACBBeoytrjBBailspABCzcapxyxxpvjBBCkfxzxACstkppdaACwoloizrwjgqvpykfCACuutdzhtmkpavjbABCez
+
+--------------------------------------------------
+Iteration 41
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.9478256/660 [==========>...................] - ETA: 1s - loss: 0.8893384/660 [================>.............] - ETA: 0s - loss: 0.7927512/660 [======================>.......] - ETA: 0s - loss: 0.7507640/660 [============================>.] - ETA: 0s - loss: 0.7076660/660 [==============================] - 2s - loss: 0.7174     
+
+----- diversity: 0.2
+----- Generating with seed: "BywmtehulmegswABCgwvamrqBACvvsbugt
+tnhhd"
+BywmtehulmegswABCgwvamrqBACvvsbugt
+tnhhdggghvpy
+ujodyABCroocctcABoonnrzzABClloc
+axoxykppyyABCooonctztCABolneezjdxypABCropp
+yonmkpryABBoonirzwABxheolzettABClloezjodxmpvyABBoozecctmABoonirzwABxtnmrzjzgtpvydsplyocjzyooilykfBdklmsodoABBoloczct
+qolmkpBykrpdyABnknnredtgghvCABooezezjzgxtkvyuABCbooccctcABoinlezjcBxplyoBBrheonirzdABooinezeeetmABCllocztACBgtzhvolgghavABBrheejzjzykfpvpBBsooccctcABoonilpddBBhhvjmdBBsnlyepyABCknyepddggpppyyspjyksnlm
+
+----- diversity: 0.5
+----- Generating with seed: "BywmtehulmegswABCgwvamrqBACvvsbugt
+tnhhd"
+BywmtehulmegswABCgwvamrqBACvvsbugt
+tnhhdmABBplyoeodmABCstedededmABCooezecjdgxhvyljBBooniezjABxtinyunBApppyABoodzwckoxykppyyABCooctctwABolieeedjdgghvplBBsoocccctABBkherjzggghvyABBghctcnhtikpqygABBeoieezjcdkABCrooentctaABoooeeztcktACBolzhcbljoxilpCABreoeeezjcbkABCrloocctxyxhmroBplnycudxysrydpBACroopctcABColltezjdBACljoxyffxyqppyABolnyezjABkteheojbdtACBgunekneedmABBoezecutgmkpvyjABBooeezectthktikpydABColjzcttkfoiljzdxyllCBBodnieeddBcktyknx
+
+----- diversity: 1.0
+----- Generating with seed: "BywmtehulmegswABCgwvamrqBACvvsbugt
+tnhhd"
+BywmtehulmegswABCgwvamrqBACvvsbugt
+tnhhdlgABBhnyrbggxqppykACBgunyxspyxmrkoolocztACBjohcekjCABnkhpjzdABArujoayABBqocmkpBdsnmwBBghegmtBkgtqvkwxgghvoyBACdowzABCllvujbgoABConprxtgopbgyABinsppddtspgABBooniezjcBxqqCABodlheujkdxyxtpykABrhocuzfooisppdBBionpszjvBikfnyABBsulxccgwxyolydpBACooziiszwABCurgbgkBqCdwoxgsCB
+eoeejpbddhqqgpxyunjoBBgolodctkxyknikpCABsunoxcctABClfoeodztACBooznnkpvduABsuoocgctctykpaykpBdhoon
+rzaBBxtinylBBrcjvd
+BqunqtABoezige
+
+----- diversity: 1.2
+----- Generating with seed: "BywmtehulmegswABCgwvamrqBACvvsbugt
+tnhhd"
+BywmtehulmegswABCgwvamrqBACvvsbugt
+tnhhdkrmhpplyyanCABolzejzztCkxnilpedmABgnsniqepdABguoekgteoxyABBgozjonzABConizedpdgmABCononhcutekisqspC
+golyktnkkwxypABCsbtoqttmrooikpACBouoxedjoqtABBoinnspddghBAC
+eosueoxyAdxylABCllozzt
+uooyulooirkgavdqpp
+ygkfCBCtknkepodlABBheljponyxnpyroBBmljdkBB
+ekfxeoymgpBCyowcmsdBdbljvdyBtqnykkBdglp
+
+snACBklgaA
+Crnyknxyvlpssko
+yknACBaooeo
+effcCBBqskpredmABCcogzipogghhvlmBrhoocclcaodoxmrpa
+snkedxlBBkjvykfxyilpdtvol
+
+--------------------------------------------------
+Iteration 42
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.9966256/660 [==========>...................] - ETA: 1s - loss: 0.7987384/660 [================>.............] - ETA: 0s - loss: 0.6998512/660 [======================>.......] - ETA: 0s - loss: 0.6609640/660 [============================>.] - ETA: 0s - loss: 0.6471660/660 [==============================] - 2s - loss: 0.6457     
+
+----- diversity: 0.2
+----- Generating with seed: "rwekqqpot
+hnlogpABCmzjxdvBACvkjvqsCABmzi"
+rwekqqpot
+hnlogpABCmzjxdvBACvkjvqsCABmzinrzwABCuljhzwABCsilyctmCBBhhhctpmCABrhoinkzepdggABColyamkodilpqCABoooirzwctzABCljzhcttCBolzhcutCABhhhunmsbssbmABColhcttCABinysnmdwtghvjBBCljzhcttqvpmACoolhctcmwABohinykpBdhtiqtvABBthehqmkBBhhiiljzcttqvvjBBChnthnktikgqc
+
+uodmsvjBBCsnyABColjhhvtmssnysnCBBthehqmpBBhhinmsbddtqqhykABCocbctcqwoxoigspdyssndocbggABCknthcutmCBBhhvbmbbsstqthqvABCsnyapBBotinykABClltctzwoxtikyCABCljzhcttCBolzhcttCBolzhcttCBol
+
+----- diversity: 0.5
+----- Generating with seed: "rwekqqpot
+hnlogpABCmzjxdvBACvkjvqsCABmzi"
+rwekqqpot
+hnlogpABCmzjxdvBACvkjvqsCABmzinrzwABClthqktCBBqeocqtkCBBhhvjnbshtiqpvyssfCABxhhctcqwuooighvpjBBCodghctghoiggshtiqpyABCktehehudmABCstnyktCABtrzinCABdhvABCcthqthqkigssnyjvdoiirpycspCBBhhhcbwmwuooxykfnysfBCCrqahctffCsffjzyABqtzjvkjBBhunmspBdttmvvjBBBhhctiqkvmrsbsntABCutghvABCthhhtindkpqqp
+
+oontsnmdCABghzhcttmkvlqjzhBohiinbssddABhhintqkvdyABChctahyutghvtlqCtBdhvtqqctyosilyabkdBBhrjznhvttABColyazkodtiqppACBolnhtcmoABClnhthkttiqedms
+
+----- diversity: 1.0
+----- Generating with seed: "rwekqqpot
+hnlogpABCmzjxdvBACvkjvqsCABmzi"
+rwekqqpot
+hnlogpABCmzjxdvBACvkjvqsCABmzieCdBothhnABBCcjzhcABBitnissddithctwmroqllptCABhthhvljbkthvvbBACsodzcqctodhtgmvbCBBssndxcqqwxACBqlzippdCABhuogghhvlmABCnhhghvikbsbkyarBjbwoABCllucudBACtuffddswkACColdactwABoljzzwABjvlmszjodhvtskqa
+CBAghjhcvlCBauzjnkofABCljhcwABColjnzct
+qspmdosglpACBoloccczABCothhtwmvodqbghBACvjdqhhvtinCBBdhtghvtfsaussnyotkyktghvdmdahBhnhmbBAChqqvcaABBhcjhcwABCsnmssnyABCsnytnknilgbABCdthhtgntdlqbABCdnhqptCAslytqkeCA
+
+----- diversity: 1.2
+----- Generating with seed: "rwekqqpot
+hnlogpABCmzjxdvBACvkjvqsCABmzi"
+rwekqqpot
+hnlogpABCmzjxdvBACvkjvqsCABmziikdsgqhvkACBhzinntzkinABCottinkqmkyuABCuhbxsmkoirrqcaBACtifnACkdlnhhcjvyassnyzfCBdhlwmmwooghqhBgkpp
+CABChthqavCBBhsnnhrkdmvABCbtjnyktnCABokindrtctpujjBBClnhtABCllqshqolispyycbddBghctwnhoxmABCsnyotkddvABBhhehsmrziavvajsBBhhjzntmvdABBsinyezjACBgueoxhqelbdbspqyACBgrzhceABohehiezjkCABkinyeljnytiqCABCrfbhBACctknvkcaABiutcawABwhvfmsbk
+qamvdBACsloygkpCABgclhauotxhvkABCsljhztuqtiCBgndhwuloABBhohinABCdthav
+
+--------------------------------------------------
+Iteration 43
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.5130256/660 [==========>...................] - ETA: 1s - loss: 0.4672384/660 [================>.............] - ETA: 0s - loss: 0.4664512/660 [======================>.......] - ETA: 0s - loss: 0.4782640/660 [============================>.] - ETA: 0s - loss: 0.4835660/660 [==============================] - 2s - loss: 0.4932     
+
+----- diversity: 0.2
+----- Generating with seed: "lxsfyoahBAC
+zoneazvABCqesvlofmjkBACrqziq"
+lxsfyoahBAC
+zoneazvABCqesvlofmjkBACrqziqkzfACBqtcmwmroBBsnljzwBACABiispzycctACBtnhvbmbbssfydmABCsbnyccBBCsnykpBCstnykpBdstqcmABCsnyctcmoABrspjdcctfACBrsbmwbsodysfnCABBssnycbmdossnldpBBCsbnycbkddsspqqc
+
+ooc
+cnzzABCtcbwmABBsnytppBCcspmysffdirBBCcbwmABBsdmwbcbABCsbnycbgoBirsnykpBCsbpbdcABCsnmspBBCcbbwmABBsnyepjBBstnyubBdsspqycsodysfnCABCsbnyccbdoBirnykpBCdbwbwoABCsbmdcctgACBolinycbBBCsbdmABBsnyspBBCtedmABBsddwccwABCsnylzc
+
+amszjzyfABCsbqwc
+
+----- diversity: 0.5
+----- Generating with seed: "lxsfyoahBAC
+zoneazvABCqesvlofmjkBACrqziq"
+lxsfyoahBAC
+zoneazvABCqesvlofmjkBACrqziqczwABCsbmjz
+cszmACBgszjzwctABCsbmdmcsodycspdyssfCBBssnycbpBBCsbdmABBsndxcqaABolndzzfCBBqcjzwzfffCABbdbwmsoooiffddwwqABCepbxycfodispbdccqsCABoezjzzctcACCktednysbgbwaABCccbdmcBBCcbwmABBosbjzzcc
+ACosnmspBBdtjmkBBCsbdwccwABCctpqyABBerjjzwABCtnfmzmCBBqcticsodyttmCBBsrjzccbABCsbmdABBsdlyccbdoBifnyABBdljcwwABCcspmACBBnddppBBCcjbdsoCABCkfxyc
+BCssnyszmCBBssodccwtgsooiilBdCABdtdmwbmoBCrvpjcczffCABCcbbsoc
+nm
+
+----- diversity: 1.0
+----- Generating with seed: "lxsfyoahBAC
+zoneazvABCqesvlofmjkBACrqziq"
+lxsfyoahBAC
+zoneazvABCqesvlofmjkBACrqziqkdddwgggABCoeedbcwmABCodmapcbddcsnqgppcygABCrogucodgvtCABCtbgtzckedpsCABpumimszedxABCrybnmABBrdaubgjBBCsbdxpcaBCswjxyrfBCrfjdzwsnyfmCBBerjnzctCABikiizyzwzABCtcbwbABBCsbdztcqptCBBsunxhcbsBACcbwutjzzABCmljbcwdACCkuddhcctyCsplABAntjpmswqqBACvjuydABConbbwbcsABCsttcssnyippdxspACBeoiigggcct
+yonmABBbsbxwmcbwmdoBCsblyABBstmdmlCBBipygcp
+dssnyrABBacsbwmABCsfydmABBrlwubwmwsfffCABbtzimszjzympACBbtmoezjzotiABC
+
+----- diversity: 1.2
+----- Generating with seed: "lxsfyoahBAC
+zoneazvABCqesvlofmjkBACrqziq"
+lxsfyoahBAC
+zoneazvABCqesvlofmjkBACrqziqazBBBfnjzwBBormjbsfdxfABCwflsocBACABblswkkadssp
+CjBoszmACBolbjzwwtABCkjbwfACBdkwaqfoCABesiywnABvorbcbwaaaosnykfCBxunikpuddwABCvbmbsBffoidkydsmCABCsejqccjcwoACkffyxsdkyaABCpsbkwmknCzBpelc
+
+nsnzzzABCtpbcmABBsnlxucmdoBffvjzABCxkaykwadCABywfxhcsddABCupedycctmooCxBCujbdyABCsbmdABxhtbcjbkddmpBCsloocczaACsfvjdhvwxABCsulcczfABCnljmbwBACbqdtCBBxtiftirBbctfmwbsssjknykABCbwbgxhcutdkykABCcbbdwccwdmsplACBbldwc
+
+--------------------------------------------------
+Iteration 44
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.8162256/660 [==========>...................] - ETA: 1s - loss: 0.7733384/660 [================>.............] - ETA: 0s - loss: 0.7279512/660 [======================>.......] - ETA: 0s - loss: 1.2223640/660 [============================>.] - ETA: 0s - loss: 1.2116660/660 [==============================] - 2s - loss: 1.2045     
+
+----- diversity: 0.2
+----- Generating with seed: "CBhtyftkdqkdmABBxwjzhcmlCBBhjsnmABCdlmkp"
+CBhtyftkdqkdmABBxwjzhcmlCBBhjsnmABCdlmkpB
+eoirctcmwABCctptykfxyABCctptghvtigssdocctxACoolilzct
+auoxmrkoxpppyABCrtiqmACBolithctctCABorjzwABCctpqq
+uooimkpppABCktehjkBACrjoctACColjzwctoxykfCABocbblABCljocwABCctpqqc
+oxtfkCABocbbwbgooisnykpBBCcbwmABCotinykpBCotpkykpppyABColjzzc
+amroctcmwxsodxtpqCABCctctwABoeljzwxtonilpbgspBACrjoxtABColjzzwoxomCABirdpqc
+oocttmCBBorjbwlACooliezjcBdxtpkCACoolictcqwutxtikBCccbdmABBhcjbgwABCctpqqc
+oxtfkCABCcjzywA
+
+----- diversity: 0.5
+----- Generating with seed: "CBhtyftkdqkdmABBxwjzhcmlCBBhjsnmABCdlmkp"
+CBhtyftkdqkdmABBxwjzhcmlCBBhjsnmABCdlmkpsglc
+
+unirzxABClljzwxttiqCABCrcbwmABCcsgmwABoljznxskfdpABCccbdmABooiilzcc
+BxhcmABCsolcctctotitpACBoliilyctcaooppmrocttmkCABoctiryctgACoolitzcCoBirtiABCdtwmwoxoABClljzhcutmACBoliamrzcttACCljzjnCBBtirjzjBBoinyspjdoyflpABCocbwmABCstmACBbtsmmsbdwABChcjzygvACBghcjbwoACrgiplyctzCACtehiirbbABBhvjbwbACBBcsbmwABCctptysojzCBBtifxtgcwtxACBoliigspc
+uildxwABCkigwxcooilpppCACodllhcutgABClrjzgcutmACBolisprystmAC
+
+----- diversity: 1.0
+----- Generating with seed: "CBhtyftkdqkdmABBxwjzhcmlCBBhjsnmABCdlmkp"
+CBhtyftkdqkdmABBxwjzhcmlCBBhjsnmABCdlmkpxsoodktdppABCrppgyctCABorbwmjpBcjzgcctxgCABCcgtamurjzylBACkfjzxhxkACBetinptpCvbxjcdooxhkCABbsniqrzwculmxrcoloesnyrkBCCcibybcjogxppppp
+CwktxhcjBBorjbgspmjoBphdpbgdoitmkACBourtwcmpABCrtiqm
+CktthqrtjvoiisocccthACttlfjvABdjzwmwwpxyABCstctaABollqovxtutxqqp
+aCABpziektaABetinsrctccmp
+qccuoxymrmjABCrzjotABCgtomwABotbwlACBgbdbwalCABCtgtwkgruogzAsCtjaykpBBCctctucjoyABBukbxwABCctgvpABCcspcgcABClgtpmroidpgABC
+
+----- diversity: 1.2
+----- Generating with seed: "CBhtyftkdqkdmABBxwjzhcmlCBBhjsnmABCdlmkp"
+CBhtyftkdqkdmABBxwjzhcmlCBBhjsnmABCdlmkpCBBoignsgcsptABCrqac
+udmsBBekirhcct
+sntnkBoxiqpt
+kutfACBotilgcBBthvpuqjzBBhrijmwwxsomCABarocbmwABokjnhsurmABBjdcwABCoepugxtcthlgqpAC
+rvbmwudoABBhuquxmkbdglqa
+knindxhvtaAB
+uixsundrdwABCrhcqkACzwumxACrocwbqwunoxABCocqc
+rxomrtilfjmACvjbxtqkCBACrgmhmCABxinjawBBAvbwbmABCb
+jznctkfCABCuttqvvjbwjBBouindwABCklytcdodigppBAC
+uxlmrABeoljcztBCrkjaywzjCBotirtcmkoxripbjzwBBhmjmsbdtABCssolbcctxsolirppqx
+csoxmusoo
+
+--------------------------------------------------
+Iteration 45
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.7020256/660 [==========>...................] - ETA: 1s - loss: 0.6540384/660 [================>.............] - ETA: 0s - loss: 0.6308512/660 [======================>.......] - ETA: 0s - loss: 0.5810640/660 [============================>.] - ETA: 0s - loss: 0.5519660/660 [==============================] - 2s - loss: 0.5430     
+
+----- diversity: 0.2
+----- Generating with seed: "wbpdpyhuo
+iclhyutiABClfdpwsBACfjtnyyinCA"
+wbpdpyhuo
+iclhyutiABClfdpwsBACfjtnyyinCABBrheiljbdwABCkffeedxsuqxABColpamksfydpABCbdthhvtmABCsdlhctwmkpCABponirzwctxyulmCABollzezjzuABCsffoxyctxyolpCBBbdljhctABCktehedmABBbdoxhcttmkvdmABBbdljhcwtghvlmabsodyctpCBBorzipeddABBhhdmlmrbdtABCutfamrxABCktehedjdgABCkffeedsdjdBACljonykfBCrrpbmsoBBehnirbbdbABBhheoigrzwakxyigBACceoxyctwkxykfCABorzinyspjdBAClnyundkpaABCctehmABBedjbwwABCktehedjdBACp
+uunfkdkBACcjzdmaABolntezjdwABCkffdxyekxyABBoliazcc
+
+----- diversity: 0.5
+----- Generating with seed: "wbpdpyhuo
+iclhyutiABClfdpwsBACfjtnyyinCA"
+wbpdpyhuo
+iclhyutiABClfdpwsBACfjtnyyinCABCrhoxmrjdatahvCABbdljhcwtghvlmabsbdbABBqrjznABBoljzwtkACBruojzhct
+aooplyctfCBBrhepjbdotikfCABrrliamrwubgABCkfpuykffCABqeoxezjzudmABCctpaykppBACc
+uuoxykACCropbghcutiknkpppyspBCCtfnykfCBBrdmwmABBddlwahkoxmkrjz
+BCkepyACBdthhqtACBeuomrsbdtABBheninpeddABBheoiindkABBetirezjcatxsqkpCABblljzhcttCBBhrhilbbbtwmkppygABCktpnykppdywamCABClctanysfmCABrrliaz
+cjddosilydmaCBBepoxeeedjcBACpolyctACCklpaykffdkyABCbd
+
+----- diversity: 1.0
+----- Generating with seed: "wbpdpyhuo
+iclhyutiABClfdpwsBACfjtnyyinCA"
+wbpdpyhuo
+iclhyutiABClfdpwsBACfjtnyyinCABCrdptyhvbABBedoxucbABCthvbmABCktffedirjddwABBhhirbbcbABBkunxspsdyABCrdojzgwjkBACtiljdavthqqrpCABotedrtpqaABoolpa
+ezffdkBBqcspmABBhdhcmwmwutsACBolztctwtgktCABreibrjaarqlhvABBerjjzwxBCCAenynpBCrtptnyudmspABCktadhvjkBCctpmydppBACtjnyABBoigabaw
+nxhakyaABpaxykfCz
+unlzABCrepdmssmjzBxhuigbpwqaphhkfpCABbdljahhdtpqqp
+erz
+ffxABBocbbwmABColghhtvABBkhexqcudoxtrnykpBACtaptxykfwCABptepedjzuABCkrga
+eedmkrdmwBBC
+
+----- diversity: 1.2
+----- Generating with seed: "wbpdpyhuo
+iclhyutiABClfdpwsBACfjtnyyinCA"
+wbpdpyhuo
+iclhyutiABClfdpwsBACfjtnyyinCABBheomjzfxxmBCCtghztmkryABBgkamhhjakaxsrjoBBjkfaxqxfCABirepxcezjABolpirddcwaqwhaCBBehrilzjbktdhqwABCsemdhhcttqmvjBBwtmrmjdBACtqezfnekzABCkfpdystfydrmABCztefndrdqdpABClfouydkACBrlitngsntxpvABBdhahtefmsuqpxycaBACtewzACcmxmnarolBACtxtznkkrBACcbniaarspxyikfCABCuntaACBBxoqjhxtitCBCcxphvCABgtphxkxkkykABCsbopetzcpudyABidljzzzefnkbBBCcjzdwukxyqkpCABhdpwmkrxsoyyujbqshryifBCCppbdyABClctehkABCbpbdxtitgACBplf
+
+--------------------------------------------------
+Iteration 46
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.3268256/660 [==========>...................] - ETA: 1s - loss: 0.3429384/660 [================>.............] - ETA: 0s - loss: 0.3391512/660 [======================>.......] - ETA: 0s - loss: 0.3231640/660 [============================>.] - ETA: 0s - loss: 0.3163660/660 [==============================] - 2s - loss: 0.3182     
+
+----- diversity: 0.2
+----- Generating with seed: "ufkkjBACuqedvz
+zlcxABCnrgjvBACebdyjhgqld"
+ufkkjBACuqedvz
+zlcxABCnrgjvBACebdyjhgqldyyABBCcqct
+
+eonnkpBxyrmpBBCrjhyyffCABCrjzwwABCkfpygssdyABBpryilpsbkfxyABCocbwmABBolyaunddpBBCcjzyABBquoxct
+aosplyABCoepxyctBCCtpqyABCrtpqq
+uooxyfABCcbpqyABBolyaunddpBBCkfxykfCBBqcvpjBBsonyspBBCrjbwwABCkfpyyABBdtwmwbwoABBhheoiprdccaABCueoxyckxyABBeujbkwaABpuoxekfxffBACcjzdxhvtiABCcapapABBhhvjmdBBahvpjBBCtfyuABCcbpqyABBolyaunddpBBCkfyaABCrcbwmABBhhvilpbdwABBhhvjmdBBiryuigBBqhvbmbbsstfffyxABCctpqq
+uy
+
+----- diversity: 0.5
+----- Generating with seed: "ufkkjBACuqedvz
+zlcxABCnrgjvBACebdyjhgqld"
+ufkkjBACuqedvz
+zlcxABCnrgjvBACebdyjhgqldyyABBbujbkwamapppBACtedmABCktaxywuACABireocc
+amspBBCcqpyyABBhhvjmbwdthhhtiABCcbptyABBoriirsbctcaABCuepyyABBoigrhcctykikpyABCktpaqxujBdotpqyABCkuqayABBokeerjzutgABCuppdyABBonykppCBBhcjbmwABCueoxycroxylgppyyABCcapayABBhhjbgwABCunplyABBonirepjdaABCppya
+BsoyackppyABBoljaulodphyABCkpaxyoxykffykfACBbuoxmrhctlyaABBrcjzwwaxhvABBpvjjzwABCrcpwxyABCoupxyABBoljcutABClp
+ugzfBCtxqxyokpBBCcqwxyoxykfpyyABCbcbwmAB
+
+----- diversity: 1.0
+----- Generating with seed: "ufkkjBACuqedvz
+zlcxABCnrgjvBACebdyjhgqld"
+ufkkjBACuqedvz
+zlcxABCnrgjvBACebdyjhgqldyvABBbgmabsojzykfxypwABCcgaxywpBACABuzifktpqqac
+oxykfBCcfpdyBBCkfxykfBCtjkdxABBpvfCABrzamwbwbABBnvbtjzBBerjjvytxqqkpBAC
+eljz
+auljkBBurjuoognysnyCABborirkpaasppBCkvlyaunyifBCijzydfBCrhculBCAaukxakkrxABCkfedycuqyABChcpzABColitskCABrujaryrfCABBxhpujbdjABBheoiirddcBphxykACyolpapsoxygvCABohezinCsbbtihvuABBbomwmrziBBthvjABBhdcjhhwtghkvigBAC
+eyumbsbdtACBsuoxxhqeouifBACB
+uoxqctodCABAkppuoxzfkCABClpptykfoC
+
+----- diversity: 1.2
+----- Generating with seed: "ufkkjBACuqedvz
+zlcxABCnrgjvBACebdyjhgqld"
+ufkkjBACuqedvz
+zlcxABCnrgjvBACebdyjhgqldpyABCcpzgqcmpoBinfledkBBqkvmrw
+aqhvdyfffCACcagaoogylfkCABqevirjzwcABCcsoa
+
+epzACBtubgqxy
+oyfBAC
+trczaABotpirpudaABnkrbxepkfuindrqBBCoBxscjBBCrxylABCsrlwwcmpoBppfyekfC
+rgcslyysfyABBrkbat
+hntnkvCABanwhcwppyABCkfxexABctdmwABCujzyhabsomspvpqABCkupxyABCrvparAcukfdBhcljotnhpvmABCjzzwmkxypqqCBBvziindzhculgdswufsdyABCcdosghBctpqqpqCBBoeprxsujdoykABC
+ufdoBBqsnykuBBxhqtmrotukACryuqbACBBnehtABCtctamrsbdygsgy
+
+--------------------------------------------------
+Iteration 47
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.3512256/660 [==========>...................] - ETA: 1s - loss: 0.3215384/660 [================>.............] - ETA: 0s - loss: 0.3152512/660 [======================>.......] - ETA: 0s - loss: 0.3124640/660 [============================>.] - ETA: 0s - loss: 0.2943660/660 [==============================] - 2s - loss: 0.2923     
+
+----- diversity: 0.2
+----- Generating with seed: "ACBaexhgkpuamscjABBkfxekjkwxnbkCBBmjzelq"
+ACBaexhgkpuamscjABBkfxekjkwxnbkCBBmjzelqkpkyCABCcaptghvtmABCcthhvABBsheoirbdtABCunfxekjdxwqqpyykfCBBehhxmlmroBBhvdmwbABBhhninppdxwakCABCpzehezjABClfoeedztqkpmABBerjzutnkirpspBBooinyspmdosplyABCoepnyspmdCBBhhninpspyABBoheompmrsbmABCsnyknnkppqqp
+knkppygABCotennkpppyABCkfednhekmapBpphctpnykfnykppyCABodptghvtmsbljoBBhhvjmryaABCcthnykpBACc
+unmskBxirmkpBBehvjzjzyktinykpBACvjuodABCunfxedrxiqppyABCotennkppjdyABCnhenmrbdwABChcnhykfndspqqppoyolgk
+
+----- diversity: 0.5
+----- Generating with seed: "ACBaexhgkpuamscjABBkfxekjkwxnbkCBBmjzelq"
+ACBaexhgkpuamscjABBkfxekjkwxnbkCBBmjzelqeoxykfnylfCBBahhcbgwokhvilbdbABBehiirbbdtaqvpmACBfknyezjxakjkyyffCBBehtinkhakyunmCABerdxhculjdosnlyepCBBrhhctpmkoirlpvABCtehvjmrbABBhhhinlmzaBrhtinykpBBCcctxyoknkpppyABCollmvzjBBhhvjmroBhhnilvbdbABBbhoinrzhcktqknCABoezjzevjkBBqenikBBCcqctwABoenepprdwctphvoxykfnCABbthcmlmrjhavlppyysfnyilBACkeenmrzjBBiifeeryctmACBeunnrzpBBhvbmbnhsutmABCllhtzkfkxykfCACpeoxcctdCBBphnylnCBBhhhvbmbbsbtyakkCABbrviqtctctv
+
+----- diversity: 1.0
+----- Generating with seed: "ACBaexhgkpuamscjABBkfxekjkwxnbkCBBmjzelq"
+ACBaexhgkpuamscjABBkfxekjkwxnbkCBBmjzelqezjBCkfxyukfCABxkhhxgmjvyaABdooenrctgqvpyyffCyarltccvtgskfeel
+jztcABCutpkndvppbghBBheoniezjABikppkxheolikBBhsiloccaxaxspyABBCcswmkpoypmbkCABbzinkkpayapbyovnylp
+CBevdqpthcutxqqkzCABerhcuqmABBhhvkibdddatnhhvABBbhmjjbwoailspydxkBCCcwgnaABCtnnhvjkrxyqkvCABpuoxackodkppyABCchutnkxvvlbgBBCheoxocktghvjtBBonirzjzediABCcapvxtekfdvlqaABBnynnvndxABChctnhvpjBBCpfnysnkdBABptekekndppgyCABoonnkpnkxqqykBBCvtjzhvik
+
+----- diversity: 1.2
+----- Generating with seed: "ACBaexhgkpuamscjABBkfxekjkwxnbkCBBmjzelq"
+ACBaexhgkpuamscjABBkfxekjkwxnbkCBBmjzelqkakynhvqkABCktshnABBekjzpyaABhnhvpnABBhknaugjokikfrrABBehifepjbwugaABppeykfndkBBqqhehvjmABBthnkpngsplyutfkirrghBBoinlpzmr
+aahxyABBbcjbktwxtnABCleonnzrnaclpaysolyvkfxyippCABonhnthvdxqpptyekykflACBagzp
+qrhABCctpknykfndxppBAC
+eonckfyaifBACBoeoticmwqABBhhnikppkABCueoxyctfkogggpCBBinyknndavqsuqCABolinrhpbdvpqhpnhvrjBABinnxpvzwuqkpmCoBnnktkekippbgppBAC
+ekimsdsbwtxACBooxztnakatxppnyBABCccttykvktCABoodzht
+
+--------------------------------------------------
+Iteration 48
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.2369256/660 [==========>...................] - ETA: 1s - loss: 0.2354384/660 [================>.............] - ETA: 0s - loss: 0.2298512/660 [======================>.......] - ETA: 0s - loss: 0.2259640/660 [============================>.] - ETA: 0s - loss: 0.2235660/660 [==============================] - 2s - loss: 0.2288     
+
+----- diversity: 0.2
+----- Generating with seed: "BACcscmpirhzthCABteiwfACBaddqehhltjdkaAB"
+BACcscmpirhzthCABteiwfACBaddqehhltjdkaABgutiknxyrjBBCtgghvbkbdbghcqaykujBBCrqekjkaxyutnCABnrzikBCctpkCABerjzakBxiifjzwxqpvCABBrhcmkpryABCkeedrcutgkvkjABCrdpqq
+uodiABCutfkxkACBdkppqeh
+aikpdghctACCrlACBtknmkjkBBrhvjmrsbttiknCABrrwmmwpBACvjdxhctkACBruABCktpamroABrudmrhcutgkvkjBBCrjbkABCrjcawkxhvifppABCttgkvdvABBcdmwutgABCljzdmvkjbgstyACBerzwcmwmrotikfCABrrwmkppdgwABCuepjzctaACrrcmmkBBrhjbktikBCcjzABCtepjjkdavpjjBBBtinykpBdstmkpryABBedmwung
+
+----- diversity: 0.5
+----- Generating with seed: "BACcscmpirhzthCABteiwfACBaddqehhltjdkaAB"
+BACcscmpirhzthCABteiwfACBaddqehhltjdkaABCcacaxABBerjzutudmaABrdhcmwABCrepqmrroirnyABBerjbktakkedmrbdwABCkfedmABdyABCkAedkwakBACdolmABCtggavkuigssdyvbtCABirjzkACveujkakABCcepqqc
+auABdktikedmABBedmjukxABCkeprjcaxyutnykfBCctptCABdkppjkdktpvjjBBdkfxeejubkABCrjzkmCrBpmrCABrdlwamkpBBCrjbktikyunmrrrxABCkrxACkeljhakABCcwbACBBrriikgghauqbABCrriirdwABCctekjvjdgghvkABCrdxtckpaABorjca
+auondABCrwuqtABCuljcawaxhvjBBdilqct
+arkfkpyABBerjcbwABCrctinykfm
+
+----- diversity: 1.0
+----- Generating with seed: "BACcscmpirhzthCABteiwfACBaddqehhltjdkaAB"
+BACcscmpirhzthCABteiwfACBaddqehhltjdkaABgzcikgakarrpckyaABjdwuqmABBerfjkkBqklmjzdxtikyCABrrbcmmwBBehfABBcrwcmwABoiljzkByajvjoBBrknmkvdBACvdtcqctxyelfCABxcsfmrwlghhCABgrzccauqgtxyvjBBrrcjkfsCdBgiledtBnkiqezjBBkifACoeolpctaAC
+rxABCktgavdoABersfmkBBqtiekifsdtwckpeykfnykfpdyABCBtnknvbdggcvpyCABudgtahquABCrgwamwoxekffvABpsdmsutxtikqdABCtxqxvyabgpbcauqrABBejjzwABCvlma
+rscmsudzvp
+uujnABBekijnksACBalrocmlwathcjvCBrnispqdktqhvjBBxrqjveoirqjhdrti
+
+----- diversity: 1.2
+----- Generating with seed: "BACcscmpirhzthCABteiwfACBaddqehhltjdkaAB"
+BACcscmpirhzthCABteiwfACBaddqehhltjdkaABCclac
+oxxtdvCBBirmbkBdaACBjzrockABC
+ebnjvaBAairzxcctxyetmrCBBnrmamrrcwakxvdmsjjBBnhrjvxsrmCBBdrjcuwmACdrunmkBxyumbCABdrdamvodBBehqxkpaxyanrgpBACv
+qwcmayBilyhrBBCrwcbrdhailpddavtphezjBBxtinyktidpqq
+q
+uiddxwqbtCABdrtjkBxatppedxtprfCABeuspmrABBehxirghABhvkfirdwABBhenirzxcakvamBbddwaABCreujkdxhqtACBeljzelCBBkniepjBACrqctBkjdwaABCcepa
+azc
+xtwABCABektekedithqvtmrctxABCkrehctpqqctkACrrwcmxyurjdBasrpjudyA
+
+--------------------------------------------------
+Iteration 49
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.5487256/660 [==========>...................] - ETA: 1s - loss: 0.4577384/660 [================>.............] - ETA: 0s - loss: 0.4152512/660 [======================>.......] - ETA: 0s - loss: 0.3810640/660 [============================>.] - ETA: 0s - loss: 0.3713660/660 [==============================] - 2s - loss: 0.3657     
+
+----- diversity: 0.2
+----- Generating with seed: "makppnqcBACvuloiidtwCABoqenfpaqwACBybnnx"
+makppnqcBACvuloiidtwCABoqenfpaqwACBybnnxspvdmABCbdoxcqeoxABBxeoirzccaABCcbpayospmCABolzctctwABCuqedmABBodocctpACBgndhcwlgoxykfCCBruoighctpyCABCcapa
+
+uofddvljBBCzfxekjddwABCsuoxcc
+aCABxteheiABbdtcactwABCifezjABdklqa
+auoxykfCABorzcctwABoliigrzccaABCcfpaykunyABBozictccwoxyABCrcactwABotinykpBACt
+eoxcctdxyffCABCrcbct
+CkffxyABCdlpcmwoxylfCABCctcamABBorjctwABCljcawABBhhxjzjzwABCctca
+rocttykxxyABCocactwABoliiggzccayABBorjcctACBrlctcmwABClnoxcro
+
+----- diversity: 0.5
+----- Generating with seed: "makppnqcBACvuloiidtwCABoqenfpaqwACBybnnx"
+makppnqcBACvuloiidtwCABoqenfpaqwACBybnnxsp
+dxABCleoxctzABCoggaca
+aoxhcuABCocbcmABCzthctnykolgspmABCsdlwccwABCbgjaaysnnyABBdtiqqcABColptghvtmABCsolccct
+CnrzABCktfxevjdwABCkffedlBBtkfedmABBghctcmwABClnykfCdypppCABodzwctwABooiffzwABCunxtACBolztcktxyqljCBBonykpnyspjdCBBrhiilzccaABooieezccbdBACBfxoigndvvaBACpoxyctCACoctcctckxyfACBBjzhctlCABirezjzatxyfkCABorzcctwABoliezecjkBACrjzyfkfCABbdjbctABCkexrhcutgkhakACBeodmrlwatxhikBCABodzwctwABCrjzzy
+
+----- diversity: 1.0
+----- Generating with seed: "makppnqcBACvuloiidtwCABoqenfpaqwACBybnnx"
+makppnqcBACvuloiidtwCABoqenfpaqwACBybnnxspmdxa
+quoxdxyvABCscmcc
+ByolflilydbwwABCkiaykppkyyflCABnllhctwABCcccqyABBedjhctABCkfaaxtskydmBBCcactwABokifedrwaABCccpcyABCotcavABBiryctwABonprpsbssifsBCcbljocolvABCtchtcctACCuloccctABCunxsxqxoxroopiBBrkighcutCABolzepwxxtkBCrj
+ACBolztckwxxpjjBCsnynrCABbdtwamkwwAACBeedmrpctkACBdgaiepyACBbbdmwqakyktfCABbcbcqcaACBthvgdBpCdmapBpskyazkBACkjzdhclnaCsoddocltkABCznykp
+kyABCdwxquoxdtBBCcgtcct
+yoxmrCABekljz
+
+----- diversity: 1.2
+----- Generating with seed: "makppnqcBACvuloiidtwCABoqenfpaqwACBybnnx"
+makppnqcBACvuloiidtwCABoqenfpaqwACBybnnxspmdABBfoxvtjcbtyCABocccvyABBbcjbctcaoxpmBBC
+eomctrtikpvjABCkfahcujdkoBpppjcjvtBACrqeomABBoiifeztcCblsimsskfxyABCctamwrgzhhClBC
+
+uofxtvrdgpBBCkfnygkBxykfBC
+wknpvy
+abrhtilpACBaudocqvydopBACbghxxcuoxyffpCABbkmfkpedaABhodazhcglwaABCoeplyabgoxyqppyyABCplwc
+pCBBhhxmupdopthxhcqyACBdlwacuobgtkfCkjuABCrz
+xykpBBCclpc
+
+rzifCdBACcjcaxABBooiedrcbtyABCcapqwABCsntxqqvnACBfndhrgcutmCABxrboxwktCABClfoipkjaqBpCAB
+
+
+--------------------------------------------------
+Iteration 50
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.2424256/660 [==========>...................] - ETA: 1s - loss: 0.3597384/660 [================>.............] - ETA: 0s - loss: 1.3886512/660 [======================>.......] - ETA: 0s - loss: 2.0502640/660 [============================>.] - ETA: 0s - loss: 2.2554660/660 [==============================] - 2s - loss: 2.1960     
+
+----- diversity: 0.2
+----- Generating with seed: "n
+grrtcwqtABCxfpxdramakppnqcBACvuloiidtw"
+n
+grrtcwqtABCxfpxdramakppnqcBACvuloiidtwwqwxykACCBguonyktCABpeoezjzudxACBeuifezABBtzinktehvABBbstighcttqvvABBedjwutodovplgsplyCABdkifezwABxkpmkCBBtztiktedmwbABCctptykudmABBeljzwzwxtooolmsplyABCoctctwABCltwtmkpoxyctCABerzifkdatqqpyyodxykfpCABerzifCABikdxwctodilpppyctzCABolztzktCABxeoiezecaABCctptykudmCABilyunmCBBqctpvyouABCkffxwxeoxykfpppABCottctwABClttzkvolpACBoezjzktekikppyAACooltctwABolltctwoxlACCtgntvACBgtdhvwmgsACBeuifezABBtzinkABBe
+
+----- diversity: 0.5
+----- Generating with seed: "n
+grrtcwqtABCxfpxdramakppnqcBACvuloiidtw"
+n
+grrtcwqtABCxfpxdramakppnqcBACvuloiidtwABClwatgzwABCctptykjnysplyctfCCBBqeoeozffCABqkeoxwctyABCoeplyABCctftehudmABBpvjmwwfxyABColgtctodilppjCBBedmwpppyyABCotinykppyyABCvtfpptycutCABolztnkvdrwuqghvolABCktxyezjABBeeoirntcqpyyABCoeplyezjACBeeoxeezwABBpoxykfpvtyABCbwlACBouoqtACBetzntkkekfmrrycfpCABolzwzktCABolzezjzuABCunfxyABClttcktCABeoinkzepqqpp
+
+uonisvdxwABCctptykuigsptyktaAColpABCztpqqvACBeudmwABBtztnktdkyifpCABBplyolooillqc
+
+eoinkspyA
+
+----- diversity: 1.0
+----- Generating with seed: "n
+grrtcwqtABCxfpxdramakppnqcBACvuloiidtw"
+n
+grrtcwqtABCxfpxdramakppnqcBACvuloiidtwwaBBCABelzwzftoxplgABBoezetekifgsptACBtezfhutgqstyABBnisprdocttqqet
+drlyABCeoxmrkABnktxtedoxplpyjBBCuqedmABBdlywunyABCkfptydzABCltwmknxspjACBfsxywuABCzsptykfnCBBeoxtctoABrlfjzwlgxfCvolwakooxylnCABireufmuABnatwctwABCltutmABBosbtrqctyABCuqbdyABCzeoxykfxCABxulztzkpoxAACeogiqatyetikppaACBolztcktCABykfeeeerfACBqedmwoaptuACBgrzwmktCABxthxevjzeACBquoykACBdkpptghvtmkpjdyctgpvdmCABievjbBBxtctowoABAytffCdBA
+
+----- diversity: 1.2
+----- Generating with seed: "n
+grrtcwqtABCxfpxdramakppnqcBACvuloiidtw"
+n
+grrtcwqtABCxfpxdramakppnqcBACvuloiidtwcqtACColyttCBBermwmwp
+bkfoedlw
+aypfnyeojABCclpa
+esuodABBoxyutaABol
+uukfdisstxyekjCBBqrykffCigtisCABxezfpeoxwkppy
+rnABBerjiugtavACABieoxtedtwBBehjzfodkpaABCltwtgoeoltctwmABoezjkedowuqgACBerxyekjCdBBppuyCABdsltjzocillCctwxyeoxykfpCAButzftwwuABCkfftqtudrziACnxsuqjzCBBxqeorzjcBACBonirzycubABCkgehtc
+oxACBeoiinzsbdvwqACBoodmrwBgkqeogdpl
+C
+qncuaydptACBullycm
+BCcpptyctnCABplzuzfoCABqutomkACBfowmlzA
+eupkfA
+
+--------------------------------------------------
+Iteration 51
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.3602256/660 [==========>...................] - ETA: 1s - loss: 0.3100384/660 [================>.............] - ETA: 0s - loss: 0.2876512/660 [======================>.......] - ETA: 0s - loss: 0.2775640/660 [============================>.] - ETA: 0s - loss: 0.2637660/660 [==============================] - 2s - loss: 0.2613     
+
+----- diversity: 0.2
+----- Generating with seed: "zxmrau
+csbnyvABCrciayekfektfujBACgbgkcax"
+zxmrau
+csbnyvABCrciayekfektfujBACgbgkcaxyuumCABrrzwmkppygspjoBBrndmwjBBCctptyknkCABbdlwah
+olp
+unifBCABbktphyulmCABBrhctwmkoxylppCABolzhcttACBtknhvpjbdwABCkffeerjbfyABCsuljodolylppCABoeolhcttmCBBrhhirjbdysppyABBoljhcwlmCABrrzwctzACBtezjzedmrbbgABCbwbxyABCoeplyctgCBBiryunmkpBBqctwmkoxyllCABBehzjzwtgkpvpjBBsolyctmCBBrrhculjoiispydABCbdlpa
+CoBBhhvjbbwABCkffdxyedmCBBsdlwacwoABClftekeeirbbbwABBoliazwzunCABrrzinktekfxqqp
+
+yonnkvdBBpppyABBoziny
+
+----- diversity: 0.5
+----- Generating with seed: "zxmrau
+csbnyvABCrciayekfektfujBACgbgkcax"
+zxmrau
+csbnyvABCrciayekfektfujBACgbgkcaxyujBBCrjnykpBCsrptikfCABBrhcqtnCroxthvtiqBbkthculmCBBrhhiklpdywuACBbuonctctCABnrzjzwxACBBkehxhcjbdoiilpsCABbddighhcttmkvrjABBsuoxirzwcakACB
+unykppyyABBocbwbbboBACsbtzfmkABClftakyolBACkftwfkxyABBocbwmABooliazywuACBBghctwmkoxyABCbwlbwoxykfCByuntirkdxwxlpCABrrzjvtwbggABCuuoxyABColptmkvdrbABBbdowbkgtCABoeoinrzwcqpACBBghctcmwABBhhvjbbdoisnykppyyABCstntekjdBABppunkABCstltetikikppyABBolithketykpbACBBnhhc
+
+----- diversity: 1.0
+----- Generating with seed: "zxmrau
+csbnyvABCrciayekfektfujBACgbgkcax"
+zxmrau
+csbnyvABCrciayekfektfujBACgbgkcaxysumCABxsnlkeryzfpCABClntepkdmsspqjcaowxABColptgkvdjppBACodltavdlispBdocwbBACoeljznACBgnrocwmlooilftgkwaABoctwmmwABokixyehjzakfpygpBCsblwamkodkljvdBBApvyjznykfppyABBozunmkpBrysftwABpunthrCABBghxtikdxyglpCABblltctwkplACBkxtekjnxsplyohBCkntxhuomissntABCrywmpp
+yrzbnCABnkfpezeeedxACBnhrmibnbABBbdmwbmsBACvbjbdyABCcljaykffCABqknhrhACBqtnysnmdvBBpbghcqlyosilACBaudocthctilBbjcwwABpoxlvkjBBfhinykpBgspmrCAB
+
+----- diversity: 1.2
+----- Generating with seed: "zxmrau
+csbnyvABCrciayekfektfujBACgbgkcax"
+zxmrau
+csbnyvABCrciayekfektfujBACgbgkcaxyuABCculnyuACCrgzapvrjzjfyekpACBktdywumooBorztmkdCABppzx
+erojktxrqv
+juzffCABirzjnkvprxwqmoACBeuljazwolyoirkbmCBBbrjvmsoqptyktppBACstghtctvdmsBBCcocahculfdoqBvpvj
+
+unmfCBBqrhiuljABBhrdwbwuABCrhoirjvdxsryufBCsbllhctlnCABBperjzufbdCABrovpmjza
+aebnlCABgtctttkvblbABBhchcmrABooanlttCBBnekjardtpqqmACBBtudfwtABBurjhhrlfoifppxyssnytilysinCBsgohctpqayCABCkeenghvkgmABCdfdthejkBBrhcjzhCBtshuiipbbbwbABCskfxezw
+
+--------------------------------------------------
+Iteration 52
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.1379256/660 [==========>...................] - ETA: 1s - loss: 0.1294384/660 [================>.............] - ETA: 0s - loss: 0.1323512/660 [======================>.......] - ETA: 0s - loss: 0.1324640/660 [============================>.] - ETA: 0s - loss: 0.1310660/660 [==============================] - 2s - loss: 0.1311     
+
+----- diversity: 0.2
+----- Generating with seed: "gqabjoABCfuoogciidz
+qcABCbttzfmclBACfxwn"
+gqabjoABCfuoogciidz
+qcABCbttzfmclBACfxwnmkdBysrjdkBBCrjzjzkABCrljamkABCreoirzzcttACCrlpt
+knxykfydlp
+jCBBezinezjABBinykfndrwaABCcepuyeffdirqqc
+
+uoddkBBCcjzwzABCktehnikfBACrjddywuACCBgndhvjtgctpqyABBeriipljcaayunnkABBerjmkrCBBqsnykpBBCrqjzyoxykfCBBrrmumjBBCtnnkABCrtpqqt
+CBBnrmwmrodytppyABBoljctwABoliinkrzwtqqpykABBerjzutCABbknxepjdotqqvymABBfrjvwwABCctennkedydppqABColltezjdBACtffeerjzffCABCrcbktCBBxheerjzaABClntinyepjABBoljzzctwkxyABCkeey
+
+----- diversity: 0.5
+----- Generating with seed: "gqabjoABCfuoogciidz
+qcABCbttzfmclBACfxwn"
+gqabjoABCfuoogciidz
+qcABCbttzfmclBACfxwnknkxyekjxBBqeointzztcqaACBBereiutbcbtmABCulfxykfxyABColptnksdmwABBhvjjzwABBerjirdwcqppykABCrelmwumrABBheoineztcqtcmwaBCsninprydlpqjABCerjzacap
+ausfddABBiryunmroBBqedmwwfgdppuggBBCrnnktrCBBrrzinmrbdwABCbpjdywufCABClntazwoxykfCkBireoc
+untmrvdlBBCcjzykABColptikzdpppABCknfxeeeoirqbABCulfxa
+sujzdkBBiiljzzwtxtxkvdxwpBACBeunmrzjBBehiilbwcbgABCkfndkpBAC
+eezjzkdaryuABCctptyknamrodctpACBBunirpz
+cutfkekfACBB
+
+----- diversity: 1.0
+----- Generating with seed: "gqabjoABCfuoogciidz
+qcABCbttzfmclBACfxwn"
+gqabjoABCfuoogciidz
+qcABCbttzfmclBACfxwnkmozyABBoifepABAktehecjkbghamkpB
+auntmkCBBgseewerocmrmABBeryifjddwhqppgyABCrltindkpBqauoojckttpvbABBkuoxmACBBeoyrqwABxoilfsffdiABCsfkiedrcutqqp
+
+yeffdCBBqroirjzwBACpjudoBBqqeoirjzwxqqkykdBBCrppuyuonABrozjzfoikfyfACBblnykaxykfxyrjBBC
+qgxfodzyltABCrtecjzjBBrxhqtpjzuACBgndhtekekmACBbghtykntCABnrmwmrodwhqvtCABerljzwzwlmCBBezjzezjzoxmkpBACABdatehudxtqqvACBBrrhvmljbwssnytpfyCrBCcaunyABBCtykfkCBBuroxiroo
+
+----- diversity: 1.2
+----- Generating with seed: "gqabjoABCfuoogciidz
+qcABCbttzfmclBACfxwn"
+gqabjoABCfuoogciidz
+qcABCbttzfmclBACfxwnkkxpyqABBormlmsodxhvkpykBCkowamspjBBCiqedmtitiABCsolaaualCBBnhenrcxBxCABxkljvjdBBCqeeezfnCABxrhuiljbdktnhqevCBBrrdilytifsACBeolehreommmrwbslACCdgpbACBBudoxcABBehjvjnABBtdoxtcrdABClfoinyerxycjBdCs
+riusdmBBtknhvlABBesdmtctaAmCrbwtaABoelinzjzedgABCsntkfkeyqbqjzBBeryilfCABeldeoABBthvnirdBBCsnqtzkzutiABbkifkvdBahngmrdrwpppy
+
+jzyzfACBxunmsrjodllmwABCrwca
+mmABBfenxABCotghtvABriljcwABCcftxyekfxevjjBBrvpjr
+
+--------------------------------------------------
+Iteration 53
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.1222256/660 [==========>...................] - ETA: 1s - loss: 0.1157384/660 [================>.............] - ETA: 0s - loss: 0.1106512/660 [======================>.......] - ETA: 0s - loss: 0.1054640/660 [============================>.] - ETA: 0s - loss: 0.1029660/660 [==============================] - 2s - loss: 0.1021     
+
+----- diversity: 0.2
+----- Generating with seed: "CBssoeergvbopbdaABBptdkxigCBBkahlpABCzae"
+CBssoeergvbopbdaABBptdkxigCBBkahlpABCzaehvljdaABBheoxiezjABClnyamrodctpACBolzhcttCBBunykppdywaACBeezjzedgABCkfedxhukmABColpt
+kedmABBfhigghcwABCoepryuffCABirdhctpqyoABCselycufdoABClntikBxyiljCABinyepjdBBphqkABCdlpt
+kndmpBdstmkpdgwppyyABCoeeljzwABCunfxeprxwABCuepuykfBCCtpnykpBCCtfnykpBCctptCABntiftedqwuqwABCoepuqedjBBtnknkprjzwfkpyCABCctehvdmBBbsomwABBoliezjzedmABBghctcmwABoonykppdgwakyknCkBezjzktakCujodyspyyABBocbwmABBolithctwmkpsyABBoti
+
+----- diversity: 0.5
+----- Generating with seed: "CBssoeergvbopbdaABBptdkxigCBBkahlpABCzae"
+CBssoeergvbopbdaABBptdkxigCBBkahlpABCzaehrljotilnyuABCsuqqct
+BCtpknACBezifezwABnkppryABCkeexhcutgkhquABCrtpvmroBBehcmwmACBBnhhelmjbdotpqyyABCktehnkmrBdtcmwaBBoinyepBBCteknmrdwABBhhenmrbbwABCkfeeededxABCkeedhcutCABoeoepeddtacqwABColptgkvdpppppyykfCBBrrmvljodhhvlqa
+CooxyfkCBBezjvkljhahlnkykfCABgzhctvmrsgkppykABCztptnknkvdlABBeonirzwcakyouikBACvjujdkBhvljdBBClnykfCdyljbCBBinykppdyABCoeoxepjdghBACpeeuikfdyABBocbglhctttCABorctcmwABBhhvjbbwAB
+
+----- diversity: 1.0
+----- Generating with seed: "CBssoeergvbopbdaABBptdkxigCBBkahlpABCzae"
+CBssoeergvbopbdaABBptdkxigCBBkahlpABCzaehuljooehtykBCCB
+unykABCkepuvjjBByunqktCroltctwxykfpCrBcbobwmtbdvoyABBbdjhwulnyitgnCABodvljzcBACByunyssxyolgABCutedmrjugnyqppydlBBCteonikddwABBCvfkpayyufdCABpnykppryctaCBolzepztgCBxuhmkABCdtwknCvBxhxhvbABBfhwignhhcuABBsrqepmACBtnaykpBBehiippgAhCbloqykfCBBquoxtAkCdlpCBBotiekehzgABColgawawxhBCC
+nlczmABBetjhhxqmkwxtghvCABBraijzwAakyunCABnrzztckdapspmACBdldhwuABCilfxekfCifpCABolwamkpCBBiryulmCABroxilqt
+
+----- diversity: 1.2
+----- Generating with seed: "CBssoeergvbopbdaABBptdkxigCBBkahlpABCzae"
+CBssoeergvbopbdaABBptdkxigCBBkahlpABCzaehepjdmwaABCqeehtekjbCABikeprxeiffCiqapykfBCktedndmrBBqctwkleoiifpfjzkBCxwutykfCByurqxyeoxtikprCsBruifkABBeoiigzwA
+aunptydcBpCpBdocwaABCctghvljBACvjndCABdkieejzuACACpoxyhkCABuljekyhkpykpBpol
+AndzBBCceermsfjofywmkCABreifeetregtACBouinrzhcaABB
+isgrdccwABCueplyc
+isdmvpBBCcbwmmsssdjzwxtxnCkBCcqahmwABCheenikpyxyqkvCBBrzeitrcbgABCuepdhArhvulqkiaasouABCetifedxABqepjnCABnlvpbgwcaayssnyiknygrkCBBrrvptgsvfai
+
+--------------------------------------------------
+Iteration 54
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.0776256/660 [==========>...................] - ETA: 1s - loss: 0.0708384/660 [================>.............] - ETA: 0s - loss: 0.0721512/660 [======================>.......] - ETA: 0s - loss: 0.0734640/660 [============================>.] - ETA: 0s - loss: 0.0727660/660 [==============================] - 2s - loss: 0.0725     
+
+----- diversity: 0.2
+----- Generating with seed: "vvttghivACBaexhgkpuamscjABBkfxekjkwxnbkC"
+vvttghivACBaexhgkpuamscjABBkfxekjkwxnbkCABClltakkxxyqkACBolzapvdjBBhninprdxtqqvkCBBrdlwamkABCteoxirzwABCkfpeyrsdmCBBnrhirkbdBACrjzykkCACrrpbmroBirdxwckpyyABCCctzhcutCBBrheiljbdwABCkeeyepedyABCkeedmredtACBblltazkoikpppqc
+
+ozzffvdxsffjdkABBezifezjcakACBeuifedABBteoeirjzaABCrlpa
+rrocttkCBBrrjikyarBxifp
+CABdtlttckwxACBoezjzktekikpqycABCottnktekirbbbbdABCkffeyesfjdkBBrjzjzkxCryuifCdBpppyABBetifpp
+yutnkvrjABBoljzzctCABonirpjbdotikpCABrrlwamkp
+
+----- diversity: 0.5
+----- Generating with seed: "vvttghivACBaexhgkpuamscjABBkfxekjkwxnbkC"
+vvttghivACBaexhgkpuamscjABBkfxekjkwxnbkCABrrlitzkCBBezjzezjABClltakkxxyqqpCABollteztwckxykfCkBredmrjzwABCulpt
+knkfCBBirjzwABooillzwctwABCctpnyrzjBBCtffedrraifppyyABCotermrjBBqedmrjbgtqqvkABBerjzctctodrljzBBCtepmrCABBbdjwmABBehiirzwcqkpykABCrtctpvjdBBaheojbktikpCABCrltcatwoBxhvjjBBCrjzinCrBxftekjzjxykfnykljCBBndlpa
+ruifddryABBbolitztcctABCrlpamroBBhkiqkpyyrlCABolzjzktCABgkfpprdotikpCABpryulmCBBrhiilpsbkABCkffxewxkxkCBBermrpvdmABBsooxirmw
+
+----- diversity: 1.0
+----- Generating with seed: "vvttghivACBaexhgkpuamscjABBkfxekjkwxnbkC"
+vvttghivACBaexhgkpuamscjABBkfxekjkwxnbkCABClljzzwokplCABCrezifedxwqqgkykyffCBBbdljahctfdrviqBpydmCBBodztcqt
+CBoezyACBBtztnkkersABBghermsbktikhvdmABBsnyrbbwotgknkyapBACzetinyktqyvbABBCrdgmtwotimkdqaq
+uoCBBrhvjvmrsbstdACBdklehunCABdkunktxCvamrmrBdktCABddltccwwxyodgrpBBCrgcamksrjzABCkwxxkqeoilglbABCvljazhztnkzepCABgrzptqkvmrrjsnyABCrtiqtkACBelujvtyrrqqp
+jzoxykfCBCbsttehvABCkfedxwufxCBBrrmwkrCdavljdaBBniljzzckqxyrjBBCvpbgspmsCABndlpt
+sklfCk
+
+----- diversity: 1.2
+----- Generating with seed: "vvttghivACBaexhgkpuamscjABBkfxekjkwxnbkC"
+vvttghivACBaexhgkpuamscjABBkfxekjkwxnbkCAB
+ruifreztiqqvACBBteoxxcfpdsABnkterjdacqpvyCuBCkpfyoxyrytkpCkyuljkaCrtnnmvrdyaABCctwkkCryulqapABBterjzfABdklqw
+kxykfyikpBdCpmdyACBailztcctxyqapCABBnhvjjzwABkntjzBdirjvjBBinherjBBibsjdyolyigBCCteknkirydABCbttnktedgvpbgCBBwuntksevjmrsnlpppydpBACoeuinylrdtqtnykkxyrzjoBpvlpbgkBBCfvdmssfjdkyCrBACwwdxh
+eoinfkdxyteoCABrrzinmrBBCctccwABCktkinyepBACrBdmtwvplyCABnilpsdsctwABCdppqq
+uykffCdktirCdthtnqo
+urkAB
+
+--------------------------------------------------
+Iteration 55
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.0946256/660 [==========>...................] - ETA: 1s - loss: 0.0920384/660 [================>.............] - ETA: 0s - loss: 0.0860512/660 [======================>.......] - ETA: 0s - loss: 0.0808640/660 [============================>.] - ETA: 0s - loss: 0.0771660/660 [==============================] - 2s - loss: 0.0772     
+
+----- diversity: 0.2
+----- Generating with seed: "seobifCBBcwbpdpyhuo
+iclhyutiABClfdpwsBAC"
+seobifCBBcwbpdpyhuo
+iclhyutiABClfdpwsBACcjzacctxyCABCcctctwABClftikgxwqkpxyolpCABodzhctthCtglpyABBoziittccttykffCABbrzwakpppyABBozinytzfCABgkeoxhcttghvbABBshctictwhqolmCBBrhcillCcawlhoxyffCABbktahhcllCBBhhhxilpdyssnyspmCBBsroxilgthctgqCABezifedwABBhhoxilghvtqqqp
+CBBezjhctABCkfptyhedmABBghctiqetiABdkthculmCBBssoxhcttqkvkBBissdtwctpACBolzacktxhvjmABBssoxirqctayClBCctpaykunkCABbdliahcstmCBBnhhclmamssjddhvABCcbaaywuABCstnhezjABBghctiqehuABB
+
+----- diversity: 0.5
+----- Generating with seed: "seobifCBBcwbpdpyhuo
+iclhyutiABClfdpwsBAC"
+seobifCBBcwbpdpyhuo
+iclhyutiABClfdpwsBACcjzayctpykfpCABbdlpahCotghvdmABBbsoxirhctmkCBBboliqctwABoiljzzcBACABnkteheoigbsshyqqp
+
+yunddpBACpoxyctmkoollhctwABCrcbwlACBBnhhcllCBBhhhxilBCcabtwABClnthzgnikpbdswmACBBghcthcttmkCABgrhctwmkoxylpqCABoozhctthqktmrjBgktayktgkBBCrbctiqsudoiilpsyABBdliahrwutxACkepuqezjBBtehvilbbbsbqaABCkfxyekjdxyaACBfhignptgktkACBelpjzwoxtpqkABCrdpbghoitfkeyuABBbctiqhcutCABsnlhzjzjdxyaABCcctaykundxspjABBfhigghcwABCctah
+
+----- diversity: 1.0
+----- Generating with seed: "seobifCBBcwbpdpyhuo
+iclhyutiABClfdpwsBAC"
+seobifCBBcwbpdpyhuo
+iclhyutiABClfdpwsBACcjzxyekfxyuqjkBCsrygghBdkpqkpsdlwatfkCdBylntykzCABxrjoghqutCABgroocctmABBrrcqcmwABBhhoqgzvtiinqqc
+
+
+uzfBCryxqqvABBoticttcvtigbpbABBktehtiknxyABCktwhqknykljBBBpeyglctiayezjzCBBtthkikACBqzhhtllotiknaqkpkysffddABBdbocbghhtiiggrccaBBsheoinqtdcwcABBCrjhcwltCABrrhilljbwttfhvABBbcjhycblCbBtnseexycjBACiffdaBBqeoigntvdtiqqpyyABBdkftehqktBACujtxyhknxmpjyapspypBBCsomwABBoselwilwaxkwvACrBiahcwABCknfhzABCtcxtx
+
+----- diversity: 1.2
+----- Generating with seed: "seobifCBBcwbpdpyhuo
+iclhyutiABClfdpwsBAC"
+seobifCBBcwbpdpyhuo
+iclhyutiABClfdpwsBACvjodyctaCBBunhexqekxyCABdkifezxcctxybkjCBBsrjoztcqtuACBgjzhcqqvCABCddwmghctdqghuilbcAACvdlxycsodmrsntczwkxCABilyacncABCbtfxaqxptACroxxtqkearijaaABBrzxhnkpBdgwcanysunystfCBBqchwxtCABeoinzzzgcglgsoBBCujddowclpCBBuipeyghaxmwlgjvBBsehxocbtBACsnnypkBCsjmkffxtqqptCABdlwctpACollvtctgqqtnkkdryABBdzwwktxhoilBbbstqhctABCltaavwjbgomappgpABBoodmwpqxhooilfdwwBABhheljzaABxhrhiigbddhcutqkpCABrbrjbktxsikABCkfsuxA
+
+--------------------------------------------------
+Iteration 56
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.1017256/660 [==========>...................] - ETA: 1s - loss: 0.1110384/660 [================>.............] - ETA: 0s - loss: 0.1121512/660 [======================>.......] - ETA: 0s - loss: 0.1319640/660 [============================>.] - ETA: 0s - loss: 0.1586660/660 [==============================] - 2s - loss: 0.1650     
+
+----- diversity: 0.2
+----- Generating with seed: "rabCBBywmtehulmegswABCgwvamrqBACvvsbugt
+"
+rabCBBywmtehulmegswABCgwvamrqBACvvsbugt
+hhcltCABeeoxerjzfffABClfoxyhnABBsnyilpsiftwABCljodghvtABBeeoxepjbdttqqvvCBBbdlwahvdmBBsuoxirhctmCBBtzheeljzctthCktnkpvpjbdztnhvtmsbdtiqtekCABgndthcttmCBBnhepljodthqvtirbdthhculBdhsnqspydppBdhdjzwctkACBeuonezzcatysffddswqqpvosilddhctpqqCABoeoirezifftfdvtABCddthhettgntkACBguoxyhtitqqpykABBddlwccwABClnyeznACrttnktvACbttnhvpqBACoezinedzwqqtykvjiBssoezifedmABbddphhctffdtwABCceoxhcttmknykppyssnddBBBheoi
+
+----- diversity: 0.5
+----- Generating with seed: "rabCBBywmtehulmegswABCgwvamrqBACvvsbugt
+"
+rabCBBywmtehulmegswABCgwvamrqBACvvsbugt
+hqkpydrlACBezineztcetiACbdtpnyspjdCBfndxhctgmkvjbssntedhviABbddtwhhtiqBdhtinndpBACvfjddhvtqqqvpCBBsddhctthvtiqspheplyetfACBezinezjzedmABBeedmrbdttqqevCABgndthhtilqdtavjzjABBehxiljzztnknkvCABpodoghcttnkvdqpphyctfCBfloeerzcctthCulndahBindpsgswfACBgndhwulodisgnyssnyABBddlwccwABCkeoxehezjABbtehqrzjdttqqvACBezinezwcbdtCABneezieedmABBeziiedzABCtnthvCABdljzwctwABolieerzectACBbddxhhqktghvbABBsuoxirhctmrCA
+
+----- diversity: 1.0
+----- Generating with seed: "rabCBBywmtehulmegswABCgwvamrqBACvvsbugt
+"
+rabCBBywmtehulmegswABCgwvamrqBACvvsbugt
+hvplBChzfnerzwfftxACrolndztACBttzfterocbtbtssnyubddiqsndsuljidthACBtznhepjbddtABCkntheogbgttmACogudnyqthCjktfhqvACBdddywhqotikfdCBsbdoirestehqmvpBbqthchcABCdlp
+ehztACBtznnhrbdptgghvbkbbdtthqelCogndhcthCBBxehuigpgyctvCBBbsolecezuABdktthvkABBreyepqtyctwmABBgnnhctzwctlACBeorhctpqCABneoxzettcfffdBAsuooccztchvplBBfhuilABCrzjhhvlmsbdsthctABColzthctnqsnkABrsdmwbdotbktirykinysdmwutfACBenyhvkjddwtmvvjBBswo
+
+----- diversity: 1.2
+----- Generating with seed: "rabCBBywmtehulmegswABCgwvamrqBACvvsbugt
+"
+rabCBBywmtehulmegswABCgwvamrqBACvvsbugt
+hsklyarqwABCdlpdoetugmABCrnihrrhcutmABCunfxthqvljedssqkvqs
+fsdmwzABdklvrjzuABCkeoxcqptghedmspbgsiqtuACBbtzhhelmABBtedliqdgtwhqlABCrjzetgABotiffwxqedmsuffddwwABCcezepeljcbdtqhvubBgsdmwzhegtgvplyABBtezhceljABdklxeoljbdtiqqkyarsdmdwfACBezgheuuuodABCunogghyaABdrlwzwnkzfBCkpzdhcttqevujbdptghclABCroyekzfpBitezetmsntxsvCABsrlxctgkidgqppppuqszjzfteljdBAvpoxcAvdrwAAConnkhqepbdjddctpqqvpsrjdfyztACBedlhcutgh
+
+--------------------------------------------------
+Iteration 57
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.4546256/660 [==========>...................] - ETA: 1s - loss: 0.4346384/660 [================>.............] - ETA: 0s - loss: 0.3591512/660 [======================>.......] - ETA: 0s - loss: 0.3138640/660 [============================>.] - ETA: 0s - loss: 0.2736660/660 [==============================] - 2s - loss: 0.2707     
+
+----- diversity: 0.2
+----- Generating with seed: "jvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCrcia"
+jvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCrciaysundkABCleoirzcABCunmamrsdmwuACABerzinktakBAC
+euimrzwctpACBeuifedABBtehmilbdwwqwpvyABBCcepmABBedmwuqwABCoeplyepmCBBnhhiljbkyapqpABColtcktykilpCABbktakkdxwulCABClfoilyutmCBBiryubmCABrrdmwABBtehmrjbgwABCkifyerjdBBpnykppdyABBhvilpbwaABCuepiysrjdkBBinykppdyABBhuinmssddwaABCpepjz
+nykpBCCrpdycspdyslndvtBBCcqctccodyllppyyABCcepirsbfddapBACdolictcABCklpa
+kudmCBBnhvilBbctcmwABClfedyABBddmwbgwABClfoirdzABC
+
+----- diversity: 0.5
+----- Generating with seed: "jvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCrcia"
+jvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCrciaysundklBCieedmrwapkyaABCcthctpmCABrhepmrjzwxhvkABCkehxmcmswABCceoxyclpdyBBpoxepmABClftikgCABbrmirrsABCuntikBdyspmCABrkpaxspjdCBBinykppyABBoeoiilzcccapBBpheoigntcspkyarByctpACBelijzwABBeziiedmwarwwmkpvysfndswfxyABCkeedrhckpkpyyfpCABprdmwmsbdwABBohirjzctckpaysujddwvlp
+inzzfCdywlmCABClfoikdwtmkpCABrrzilqctwkxyABCkeerjzaACBgndmrbdbABikehriifdpABCbdtwmkpdyABBoiiljcactwABCceplyoundvlmsbdotilqCABolykpmrs
+
+----- diversity: 1.0
+----- Generating with seed: "jvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCrcia"
+jvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCrciaysbnyolp
+itpzjzyABCotinykppykBBC
+unkABCrlpbkABCkfndrABBkuikgsbktirnpumCABrdlifCABpliezjBBkiqecmACBdlthcktqknkABBdrisplwctpkCABeriindkpaqypBACvjdgcsnyuidBBfhvjb
+airpzyABBbzjindtpqyABCbdfppyABBhctinCABdktavktiABqliilydcBBCwffjdkxspgCABbktinyszmABBghxilmszigpdyABBCrqepmroshdltwvkyiBBCcbkACBrzimkpaCkbthvilBqCctutCABgnhezjzutikACrtpnmkrsplyCABdziigdspvABBehiinpsskyarxhABCeepnmsbmwABBhezjzgztcqkpykfjdyw
+
+----- diversity: 1.2
+----- Generating with seed: "jvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCrcia"
+jvCBBdflfkdzmwABCjhczxmrau
+csbnyvABCrciaysumdCABlhcupbACBBhcaikppgspoxomplyvfsdjzwlgCABinykppdgABBeoiilbwbABdhqeindttpqqcgoBBileezjzwxlwxsuyfCABoziindzwaqwABCstnkrkprABpuogakkxthhvtgkpkyABBoiiigpac
+uoghctplydtfCdaulwamsodyalyCABxziigzac
+ujzyonl
+CABodkhqkpydtwfyvABCkehhqctctfyilsjzktryrlBCCdwuqukxxpvpyABCktxhekfCABddlhccwmACBBrrhirntcvdmssfjddwvABCcebxocbgstykfkCABunifprystnACBaldhwkpCABCpzaakrgbBonilpqc
+vljoBhnlmindspmCABpedjzwACpkunxrz
+
+--------------------------------------------------
+Iteration 58
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.1373256/660 [==========>...................] - ETA: 1s - loss: 0.1084384/660 [================>.............] - ETA: 0s - loss: 0.0993512/660 [======================>.......] - ETA: 0s - loss: 0.0940640/660 [============================>.] - ETA: 0s - loss: 0.0910660/660 [==============================] - 2s - loss: 0.0905     
+
+----- diversity: 0.2
+----- Generating with seed: "apsijzCBBnfvapruffABCwxfkpyrpjmdobel
+qji"
+apsijzCBBnfvapruffABCwxfkpyrpjmdobel
+qjiBBxtifjzjBBCljoxylnCABilljzzwcABCctpnykfBCBtndvpjBBsuqmxmrodplpCABCrzjzntekxxilpjzBBCljoxycnxysfyCABBrdbwbpodyABCkeoxepjdxwakvCABrroiiljzcctkykkfCABbrzimkparyuffCABrroiiljdcwwxxvpBBCrjcwwABooilljzzwvtxABColptnksdkyirpdyBBCljonyclBCCtfnnkpprycfpCBBrooilzjzcwoxpvpBBCcjodyABCkppxycuodyssnlmspBBCrpdmwABBhheojbdzwqqpvykBBCctonyktnyskfCABbdlpa
+eoxmCBBoiiljzwcgkpvp
+
+CABoddapwgooiillCABClltakkxxyqkjCBBrri
+
+----- diversity: 0.5
+----- Generating with seed: "apsijzCBBnfvapruffABCwxfkpyrpjmdobel
+qji"
+apsijzCBBnfvapruffABCwxfkpyrpjmdobel
+qjiBdzifCABbdljzzwctodollABColjzznkkxylABCrteknkrkpqa
+
+uonyktkACBeriippdycspCABolnhtztwakxyufCABBroxwzkpkdmrspmABColptykxdykfpp
+CABotzifktarcjbdoBBiljzjzyoxppqkABColptekedrABBeeojzctckxykfpCABrrzinkteryABCsuloxccodylppyABCreoinrzwctpABCrepirsbfddmABBhhiiljzzwcqpyyABBCcjzwc
+uooiilpsykuqkABBoljazwABCotennksppyABBotinepzABCttnknkrrxwqkpCBBrrvirbbABCkeoxipedyABCkeoxinkdaABpuooxcnktxhqkppyyABCkepigspdycsp
+
+----- diversity: 1.0
+----- Generating with seed: "apsijzCBBnfvapruffABCwxfkpyrpjmdobel
+qji"
+apsijzCBBnfvapruffABCwxfkpyrpjmdobel
+qjiCBBrkierzABCktaiedjABBikfxwpkxywapCABBsolzjcktCABeoxfnrzjzgdvvyaABBbhzjbctABCkfpxyrzjoCBBeonpkpjdosilmCABrrziprdmABBpnyipbdwuqghCvjudgssClBiniggbwwABCoepnysnjBBBirjudmwBBghoxvpoxyABCkunkrkBakrpqp
+ooinfkpBACrjzimrswkABColbautodirCABbrliazeouABCsljocylnCABrolekindrzwcqkAACBntikdxwuABCkfeprdbdgvplCBBooiigzecctBCktekiryuffCABBhonykpayolpqCABeolnezjw
+ylABCct
+amkpBBCvbjbABBfhiilpjckwxvvdsCBBosbdzwmkoxyl
+
+----- diversity: 1.2
+----- Generating with seed: "apsijzCBBnfvapruffABCwxfkpyrpjmdobel
+qji"
+apsijzCBBnfvapruffABCwxfkpyrpjmdobel
+qjiBBsknxrxjoxyffCABCrppaysuodiABCconxhtidpABClntctvdsujbdxABCkusoxxckxeoppqy
+BColptedodilpbBCBfodmhctmABCllouzknksqmABBjzjvkwzxxovkljBBsovoigmswqwkxyABBeuinedhc
+lqkhkutffCkBquooiwntzABCrfpoxgcjBBCAqqkinksdABBqedmpjbgocptCABeroinkrzeqqtnkCABgnlippryABBoueocjztACBqkieerjubBACvpjbxsfCdawmljhBCflfmvljABBfhnirbbwaABCphpuieosACB
+unxtcqwxykffCABerzjkvxtffvijBBsehiindABBktehekjbwwABCvbpugkACBquieoucjzyxfvCA
+
+--------------------------------------------------
+Iteration 59
+Epoch 1/1
+128/660 [====>.........................] - ETA: 1s - loss: 0.0548256/660 [==========>...................] - ETA: 1s - loss: 0.0464384/660 [================>.............] - ETA: 0s - loss: 0.0440512/660 [======================>.......] - ETA: 0s - loss: 0.0434640/660 [============================>.] - ETA: 0s - loss: 0.0449660/660 [==============================] - 2s - loss: 0.0447     
+
+----- diversity: 0.2
+----- Generating with seed: "BthwmznmdbwCBBjvfdzgljkwhABCckxanqscc
+yk"
+BthwmznmdbwCBBjvfdzgljkwhABCckxanqscc
+ykffCkyxmpryaABCcepygspdyCABduonikzedyABCkeoxekediABCcthctcmroBirpjzycfpyABBozezezjzwABCkfeoerjdgABCkeeoiredmABBbdoiekjddhvABCctehedmrbdtACBbuomrrbctwACBBuinycbbdwABBheoxirzwcqwABCoepnyspjdCBBnhvpjbdoBBqknyklBBCtqctwmkoxyllCBBozinezwABClfoxyrjdBBiljzzctkACCrgpaarspfCABClntikndrwuqpABBolieezjzudmABCpfxyunCABprdaiqwuACoonnkppryuffCABrroinlssfdxtqqvCABBrezjzwABColnhezjBBdkACBoliahrwbgwABCppgyctfCBBinyk
+
+----- diversity: 0.5
+----- Generating with seed: "BthwmznmdbwCBBjvfdzgljkwhABCckxanqscc
+yk"
+BthwmznmdbwCBBjvfdzgljkwhABCckxanqscc
+ykffCkyulmCABrriilyauBBihqekjkBBCrjcwwABCctpnykppyyABCoteknkrrjcBBCkwuxekxxrrjABBonirpbACBtndhvbABdhtifnyqspyABCkeoxycbdBAClnyezjdkdylqCABCreoirzwcqwABConirgspqyABCoeonirzwABBbdmwjngkvtyqkgCBBezinekerjcakBCcbplyCABdkifkdxsgkpCABoeoinnztpqqACBBuomirsbtABCknehujbdyABCbctxmroxykfCABpreoiezjABCunoxykfxykfCBBurocilydtwABCceoiirzwABClfoxykfnCABBdhigmpABCtfnykABddlqq
+
+somdrBBirjzwctodvljzBBCtedmwbkbdyABCke
+
+----- diversity: 1.0
+----- Generating with seed: "BthwmznmdbwCBBjvfdzgljkwhABCckxanqscc
+yk"
+BthwmznmdbwCBBjvfdzgljkwhABCckxanqscc
+ykffCryuABCstehqkACBBjzhcrbwbloBBCzffoxyABBoiqsbmABBtehetmAB
+tdnthcjzyakBCccudyssnyABBdiqqc
+
+
+unfydlABCcp
+uycfxykfpCABoliilywABBhiilnczw
+xxACBolirkppbgABCpnytnnyvjBBCrcjzysvmxssnyzzBACrquonrstnykpBCxspeyirjddvtwABCc
+eknrztcqpABCreodrhbtmACBgnotekjdxyqkykyaCBBphctwmkvoxiimsssffxyABCkfaxhvjddhvilpCABouonirzwctpACBBunigppbgwffpyyggxyCABCceerjockppykABBrzjzhcbxoxilsdyABBoroinlsfaBBrhviljbwomklpvjABBnyvp
+
+----- diversity: 1.2
+----- Generating with seed: "BthwmznmdbwCBBjvfdzgljkwhABCckxanqscc
+yk"
+BthwmznmdbwCBBjvfdzgljkwhABCckxanqscc
+ykffCkykfpkaABBptnytcnyABBiuerucukACBbndohclodcwoxyhACBBrdvarhcbghBCknatrdodilvjjBBonnirbgdtyhqgvABoeoiilAACttzyknykppgsvBBCcjzxyeknkppyCABBhzepedjzwABCbpogintdhvCABCrdhtgqeoyABBghcjzzwoxvtmssdycbggBBhvfjddswlqvACB
+nckvkrsABAerjzknkryilpbdtwfjoyyllCCBgtzhekABqkthhqABCstftekermABBghcqqoxylpvCBBsdowbbboolilptykfkdxwcBBCoonyetnACBBozehqct
+kzwmoxyplgCvClfodawwfnCABClfpaxyutxyxjvdBBinykfedilwbgwABCvcya
+r
